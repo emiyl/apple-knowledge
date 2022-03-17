@@ -1,0 +1,2 @@
+commands = ["saveenv","setenv","getenv","reset","reboot","setenvnp","clearenvp"]
+tasks = ["main","poweroff","command","idleoff","usb req","usb-high-current","usb-no-current","usb","usb_serial"]

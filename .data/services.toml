@@ -1,0 +1,1020 @@
+
+[[]]
+description = "AddressBook database repair"
+name = "com.apple.ABDatabaseDoctor"
+[[]]
+name = "com.apple.abm-helper"
+[[]]
+name = "com.apple.absd"
+[[]]
+name = "com.apple.accessablility.mediaaccessibilityd"
+[[]]
+name = "com.apple.Accessibility.AccessibilityUIServer"
+[[]]
+description = "Hearing aid"
+name = "com.apple.accessibility.heard"
+[[]]
+name = "com.apple.accessibility.motiontrackingd"
+[[]]
+description = "iAP or Apple Accessory Protocol - Handle accessories via USB / Lightning"
+name = "com.apple.accessoryd"
+platforms = ["iOS","padOS"]
+[[]]
+name = "com.apple.accounts.dom"
+[[]]
+name = "com.apple.accountsd"
+[[]]
+binary = "/usr/libexec/adid"
+name = "com.apple.adid"
+[[]]
+binary = "/System/Library/PrivateFrameworks/AdminLite.framework/Resources/AdminLiteTool"
+description = "Turns on / off setting boot-args"
+name = "com.apple.AdminLite"
+[[]]
+binary = "/usr/libexec/afcd"
+name = "com.apple.afcd"
+[[]]
+description = "Create aggregate logs"
+name = "com.apple.aggregated"
+[[]]
+name = "com.apple.aggregated.addaily"
+[[]]
+binary = "/usr/libexec/airtunesd"
+description = "iTunes library sharing"
+name = "com.apple.airtunesd"
+[[]]
+description = "AuthKit"
+name = "com.apple.akd"
+[[]]
+name = "com.apple.amsaccountsd"
+[[]]
+name = "com.apple.analyticsd"
+[[]]
+name = "com.apple.and"
+[[]]
+binary = "/usr/libexec/adprivacyd"
+description = "iAd privacy"
+name = "com.apple.ap.adprivacyd"
+[[]]
+binary = "/usr/libexec/adservicesd"
+description = "iAd services"
+name = "com.apple.ap.adservicesd"
+[[]]
+name = "com.apple.AppImageMounter"
+[[]]
+binary = "/usr/libexec/adservicesd"
+description = "Camera handler"
+name = "com.apple.applecamerad"
+[[]]
+name = "com.apple.AppleCredentialManagerDaemon"
+[[]]
+description = "Apple ID"
+name = "com.apple.AppleSSODaemon"
+[[]]
+description = "App Store"
+name = "com.apple.appstored"
+[[]]
+name = "com.apple.apsd"
+[[]]
+binary = "/usr/libexec/asd"
+name = "com.apple.asd"
+[[]]
+name = "com.apple.askpermissiond"
+[[]]
+description = "Apple System Log"
+name = "com.apple.aslmanager"
+[[]]
+name = "com.apple.AssetCacheLocatorService"
+[[]]
+name = "com.apple.assetsd"
+[[]]
+name = "com.apple.assetsd.nebulad"
+[[]]
+name = "com.apple.assistant_cdmd"
+[[]]
+name = "com.apple.assistant_service"
+[[]]
+name = "com.apple.assistantd"
+[[]]
+name = "com.apple.assistivetouchd"
+[[]]
+binary = "/usr/libexec/atc"
+name = "com.apple.atc"
+[[]]
+binary = "/usr/libexec/atwakeup"
+name = "com.apple.atc.atwakeup"
+[[]]
+name = "com.apple.audio.toolbox.reporting.service"
+[[]]
+description = "iMessage / iCloud profile photos"
+name = "com.apple.avatarsd"
+[[]]
+description = "Apple Wireless Diagnostics Daemon"
+name = "com.apple.awdd"
+[[]]
+name = "com.apple.AXMediaUtilitiesService"
+[[]]
+binary = "/usr/libexec/backboardd"
+name = "com.apple.backboardd"
+[[]]
+name = "com.apple.backupd"
+[[]]
+description = "Camera QR code reader"
+name = "com.apple.BarcodeSupport.BarcodeNotificationService"
+[[]]
+description = "FaceID"
+name = "com.apple.biometrickitd.pearl"
+[[]]
+description = "iCloud Documents / Ubiquity Containers"
+name = "com.apple.bird"
+[[]]
+name = "com.apple.BlueTool"
+[[]]
+description = "Bluetooth"
+name = "com.apple.bluetoothd"
+[[]]
+name = "com.apple.bookassetd"
+[[]]
+name = "com.apple.bookdatastored"
+[[]]
+description = "Bluetooth Audio/Video Remote Control Profile (AVRCP)"
+name = "com.apple.BTServer.avrcp"
+[[]]
+description = "iCloud Pairing for AirPods etc."
+name = "com.apple.BTServer.cloudpairing"
+[[]]
+description = "Bluetooth Message Access Profile (MAP)"
+name = "com.apple.BTServer.map"
+[[]]
+description = "Bluetooth Phone Book Access Profile (PBAP)"
+name = "com.apple.BTServer.pbap"
+[[]]
+name = "com.apple.businesschatd"
+[[]]
+name = "com.apple.cache_delete"
+[[]]
+name = "com.apple.calaccessd"
+[[]]
+name = "com.apple.CallHistorySyncHelper"
+[[]]
+description = "Handle captive WiFi login"
+name = "com.apple.captiveagent"
+[[]]
+name = "com.apple.carkitd"
+[[]]
+name = "com.apple.CarPlayApp"
+platforms = ["iOS"]
+[[]]
+name = "com.apple.cdpd"
+[[]]
+name = "com.apple.certui.relay"
+[[]]
+name = "com.apple.cfnetwork.AuthBrokerAgent"
+[[]]
+description = "Core Foundation networking"
+name = "com.apple.cfnetwork.cfnetworkagent"
+[[]]
+description = "Core Foundation preference sync"
+name = "com.apple.cfprefsd.xpc.daemon"
+[[]]
+name = "com.apple.ckdiscretionaryd"
+[[]]
+description = "iCloud"
+name = "com.apple.cloudd"
+[[]]
+description = "iCloud photo library"
+name = "com.apple.cloudphotod"
+[[]]
+name = "com.apple.cmfsyncagent"
+[[]]
+name = "com.apple.commandandcontrol"
+[[]]
+description = "Deal with the radios"
+name = "com.apple.CommCenter"
+[[]]
+name = "com.apple.CommCenterMobileHelper"
+[[]]
+name = "com.apple.CommCenterRootHelper"
+[[]]
+name = "com.apple.companion_proxy"
+[[]]
+binary = "/usr/libexec/configd"
+name = "com.apple.configd"
+[[]]
+description = "Provide contacts from a sync provider"
+name = "com.apple.contacts.donation-agent"
+[[]]
+description = "Contacts handler"
+name = "com.apple.contactsd"
+[[]]
+description = "Mange App and Group containers"
+name = "com.apple.containermanagerd"
+[[]]
+name = "com.apple.contextstored"
+[[]]
+binary = "/System/Library/Frameworks/LocalAuthentication.framework/Support/coreauthd"
+description = "coreauthd is a system daemon or agent that provides LocalAuthentication services. It maintains the authenticated contexts and presents the authentication user interface."
+name = "com.apple.CoreAuthentication.agent"
+[[]]
+name = "com.apple.CoreAuthentication.daemon"
+[[]]
+description = "WiFi / Bluetooth diagnostic capture"
+name = "com.apple.corecaptured"
+[[]]
+name = "com.apple.coredatad"
+[[]]
+name = "com.apple.coreduetd"
+[[]]
+binary = "/usr/libexec/coreidvd"
+description = "Daemon for the CoreIDV private framework (probably \"identity verification\" for Apple Pay)"
+name = "com.apple.coreidvd"
+[[]]
+name = "com.apple.coreparsec.silhoette"
+[[]]
+binary = "/System/Library/PrivateFrameworks/CoreRoutine.framework/Versions/A/XPCServices/CoreRoutineHelperService.xpc/Contents/MacOS/CoreRoutineHelperService"
+endpoints = ["com.apple.CoreRoutine.helperservice"]
+name = "com.apple.CoreRoutine.helperservice"
+platforms = ["macOS Intel"]
+[[]]
+name = "com.apple.coreservices.useractivityd"
+[[]]
+name = "com.apple.corespeechd"
+[[]]
+name = "com.apple.corespotlightservice"
+[[]]
+name = "com.apple.coresymbolicationd"
+[[]]
+name = "com.apple.crash_mover"
+[[]]
+name = "com.apple.crashreportcopymobile"
+[[]]
+description = "Cloud Token Kit daemon"
+name = "com.apple.ctkd"
+[[]]
+binary = "/usr/libexec/dasd"
+description = "Duet Activity Scheduler Daemon (related to DuetActivityScheduler.framework)"
+name = "com.apple.dasd"
+[[]]
+name = "com.apple.dataaccess.dataaccessd"
+[[]]
+description = "Find phone numbers, shipping tracking codes"
+name = "com.apple.DataDetectorsSourceAccess"
+[[]]
+description = "Handles data conversion after OS update"
+name = "com.apple.datamigrator"
+[[]]
+name = "com.apple.datastored"
+[[]]
+name = "com.apple.deferredmediad"
+[[]]
+name = "com.apple.deleted_helper"
+[[]]
+description = "Figure out what profile to present when the device is connected via USB"
+name = "com.apple.device-o-matic"
+[[]]
+name = "com.apple.devicecheckd"
+[[]]
+name = "com.apple.devicedataresetd"
+[[]]
+description = "Diagnostics"
+name = "com.apple.diagnosticd"
+[[]]
+description = "Manage diagnostic extensions"
+name = "com.apple.diagnosticextensionsd"
+[[]]
+binary = "/usr/sbin/distnoted"
+name = "com.apple.distnoted.xpc.agent"
+[[]]
+description = "Distributed notificaions"
+name = "com.apple.distnoted.xpc.daemon"
+[[]]
+name = "com.apple.dmd"
+[[]]
+name = "com.apple.DMHelper"
+[[]]
+description = "Differential Privacy"
+name = "com.apple.dprivacyd"
+[[]]
+name = "com.apple.DragUI.druid"
+[[]]
+name = "com.apple.duetexpertd"
+[[]]
+description = "Collect logs from the Baseband if it crashes"
+name = "com.apple.DumpBasebandCrash"
+[[]]
+description = "Reads kernel panics from block storage and writes to log"
+name = "com.apple.DumpPanic"
+[[]]
+description = "Email daemon for background push"
+name = "com.apple.email.maild"
+[[]]
+name = "com.apple.EscrowSecurityAlert"
+[[]]
+description = "Exchange mail/contacts handler"
+name = "com.apple.exchangesyncd"
+[[]]
+description = "Facebook account handler"
+name = "com.apple.facebook.xpc"
+[[]]
+description = "FairPlay is the DRM (digital rights management) system for Apple - research in this area is dangorous"
+name = "com.apple.fairplay.H2"
+[[]]
+description = "iCloud Family Management"
+name = "com.apple.familycircled"
+[[]]
+description = "Notify UI for family events"
+name = "com.apple.familynotificaiton"
+[[]]
+binary = "/usr/libexec/fdrhelper"
+description = "Factory Data Reset"
+name = "com.apple.fdrhelper"
+[[]]
+name = "com.apple.FileCoordination"
+[[]]
+name = "com.apple.FileProvider"
+[[]]
+description = "online defragment and optimize for APFS"
+name = "com.apple.filesystems.apfs_defragd"
+[[]]
+description = "Files.app service"
+name = "com.apple.filesystems.livefileproviderd"
+[[]]
+description = "Server Message Block client"
+name = "com.apple.filesystems.smbclientd"
+[[]]
+name = "com.apple.filesystems.userfs_helper"
+[[]]
+name = "com.apple.filesystems.userfsd"
+[[]]
+name = "com.apple.followupd"
+[[]]
+name = "com.apple.fontservicesd"
+[[]]
+name = "com.apple.fs_task_scheduler"
+[[]]
+description = "Filesystem events"
+name = "com.apple.fseventsd"
+[[]]
+name = "com.apple.ftp-proxy-embedded"
+[[]]
+name = "com.apple.fusiond"
+[[]]
+name = "com.apple.GameController.gamecontrollerd"
+[[]]
+description = "GameKit"
+name = "com.apple.gamed"
+[[]]
+binary = "/System/Library/PrivateFrameworks/GeoServices.framework/Versions/A/XPCServices/com.apple.geod.xpc/Contents/MacOS/com.apple.geod"
+description = "Geo-fencing"
+name = "com.apple.geod"
+platforms = ["macOS Intel"]
+[[]]
+description = "GPS"
+name = "com.apple.gpsd"
+[[]]
+name = "com.apple.GSSCred"
+[[]]
+name = "com.apple.handreporter"
+[[]]
+description = "iPad Handwriting Recogntion"
+name = "com.apple.handwritingd"
+[[]]
+name = "com.apple.hangtracerd"
+[[]]
+description = "Health App"
+name = "com.apple.healthappd"
+[[]]
+description = "HealthKit"
+name = "com.apple.healthd"
+[[]]
+description = "HomeKit"
+name = "com.apple.homed"
+[[]]
+description = "iAccessory authentication"
+name = "com.apple.iapauthd"
+[[]]
+description = "iAccessory Protocol handler"
+name = "com.apple.iapd"
+[[]]
+name = "com.apple.icloud.FindMyDevice.FindMyDeviceHelperXPCService"
+[[]]
+description = "Find my iPhone"
+name = "com.apple.icloud.findmydeviced"
+[[]]
+description = "Find my friends"
+name = "com.apple.icloud.fmfd"
+[[]]
+description = "Find my friends"
+name = "com.apple.icloud.fmflocatord"
+[[]]
+description = "The searching component looking for offline devices broadcasging for FindMy and sending to Apple"
+name = "com.apple.icloud.searchpartyd"
+[[]]
+name = "com.apple.iconservices.iconservicesagent"
+[[]]
+binary = "/usr/libexec/idamd"
+name = "com.apple.idamd"
+[[]]
+name = "com.apple.identityservicesd"
+[[]]
+name = "com.apple.ids.IDSCredentialsAgent"
+[[]]
+description = "Make URL requests under identity services without exposing credential"
+name = "com.apple.idsfoundation.IDSRemoteURLConnectionAgent"
+[[]]
+description = "Instant Message Agent (iMessage)"
+name = "com.apple.imagent"
+[[]]
+name = "com.apple.imautomatichistorydeletionagent"
+[[]]
+description = "iMessage attachment handler"
+name = "com.apple.imcore.imtransferagent"
+[[]]
+name = "com.apple.imdpersistence.IMDPersistenceAgent"
+[[]]
+name = "com.apple.ind"
+[[]]
+name = "com.apple.installcoordinationd"
+[[]]
+name = "com.apple.IOAccelMemoryInfoCollector"
+[[]]
+name = "com.apple.iomfb_bics_daemon"
+[[]]
+name = "com.apple.iosdiagnosticsd"
+[[]]
+name = "com.apple.itunescloudd"
+[[]]
+name = "com.apple.itunesstored"
+[[]]
+name = "com.apple.languageassetd"
+[[]]
+name = "com.apple.localizationswitcherd"
+[[]]
+description = "Location services"
+name = "com.apple.locationd"
+[[]]
+name = "com.apple.lockdown"
+[[]]
+description = "Logging Daemon"
+name = "com.apple.logd"
+[[]]
+description = "Launch Services daemon"
+name = "com.apple.lsd"
+[[]]
+binary = "/usr/libexec/lskdd"
+description = "Local System Kernel Debug Daemon?"
+name = "com.apple.lskdd"
+[[]]
+binary = "/usr/libexec/lskdmsed"
+description = "Local System Kernel Debug Memory Daemon?"
+name = "com.apple.lskdmsed"
+[[]]
+description = "Mobile Device Manager daemon"
+name = "com.apple.managedconfiguration.mdmd"
+[[]]
+description = "Tells you to set a passcode if set from policy"
+name = "com.apple.managedconfiguration.passscodenagd"
+[[]]
+description = ".mobileprofile management"
+name = "com.apple.managedconfiguration.profiled"
+[[]]
+name = "com.apple.managedconfiguration.teslad"
+[[]]
+name = "com.apple.MapKit.SnapshotService"
+[[]]
+name = "com.apple.maps.destinationd"
+[[]]
+name = "com.apple.Maps.geocorrectiond"
+[[]]
+name = "com.apple.Maps.mapspushd"
+[[]]
+name = "com.apple.matd"
+[[]]
+name = "com.apple.mDNSResponder.reloaded"
+[[]]
+name = "com.apple.mDNSResponderHelper.reloaded"
+[[]]
+name = "com.apple.mdt"
+[[]]
+name = "com.apple.mediaanalysisd"
+[[]]
+description = "iTunes Cover Art"
+name = "com.apple.mediaartworkd"
+[[]]
+name = "com.apple.medialibraryd"
+[[]]
+name = "com.apple.mediaremoted"
+[[]]
+name = "com.apple.mediaserverd"
+[[]]
+name = "com.apple.mediastream.mstreamd"
+[[]]
+name = "com.apple.memory-maintenance"
+[[]]
+name = "com.apple.metrickitd"
+[[]]
+name = "com.apple.midiserver"
+[[]]
+description = "Environment for OS upgrade migration plugins to run in"
+name = "com.apple.migrationpluginwrapper"
+[[]]
+binary = "/usr/libexec/misagent"
+description = "Provisioning profiles"
+name = "com.apple.misagent"
+[[]]
+description = "Machine Learning modeling daemon"
+name = "com.apple.mlmodelingd"
+[[]]
+name = "com.apple.mobile.assertion_agent"
+[[]]
+name = "com.apple.mobile.cache_delete_app_container_caches"
+[[]]
+name = "com.apple.mobile.cache_delete_daily"
+[[]]
+name = "com.apple.mobile.cache_delete_mobile_backup"
+[[]]
+name = "com.apple.mobile.heartbeat"
+[[]]
+name = "com.apple.mobile.insecure_notification_proxy"
+[[]]
+name = "com.apple.mobile.installation_proxy"
+[[]]
+name = "com.apple.mobile.installd"
+[[]]
+name = "com.apple.mobile.keybagd"
+[[]]
+description = ".mobileconfig management"
+name = "com.apple.mobile.MCInstall"
+[[]]
+name = "com.apple.mobile.notification_proxy"
+[[]]
+description = "Erase device via AppleEffacableStorage"
+name = "com.apple.mobile.obliteration"
+[[]]
+name = "com.apple.mobile.softwareupdated"
+[[]]
+name = "com.apple.mobile.storage_mounter"
+[[]]
+name = "com.apple.mobile.storage_mounter_proxy"
+[[]]
+description = "Update attached accessories like [[Haywire]]"
+name = "com.apple.MobileAccessoryUpdater"
+[[]]
+name = "com.apple.mobileactivationd"
+[[]]
+name = "com.apple.mobileassetd"
+[[]]
+name = "com.apple.MobileBackup.MBHelperService"
+[[]]
+name = "com.apple.mobilecheckpoint.checkpointd"
+[[]]
+name = "com.apple.MobileFileIntegrity"
+[[]]
+description = "Get device properties like model / serial"
+name = "com.apple.mobilegestalt.xpc"
+[[]]
+name = "com.apple.MobileInstallationHelperService"
+[[]]
+name = "com.apple.MobileInternetSharing"
+[[]]
+name = "com.apple.MobileSoftwareUpdate.CleanupPreparePathService"
+[[]]
+name = "com.apple.mobilestoredemod"
+[[]]
+name = "com.apple.mobilestoredemohelper"
+[[]]
+name = "com.apple.mobiletimerd"
+[[]]
+description = "iTunes file transfer for application documents"
+name = "com.apple.monbile.house_arrest"
+[[]]
+name = "com.apple.mtmergeprops"
+[[]]
+name = "com.apple.nand_task_scheduler"
+[[]]
+description = "Apple Watch backup agent"
+name = "com.apple.nanobackupd"
+[[]]
+description = "Apple Watch preference syncing"
+name = "com.apple.nanoprefsyncd.2"
+[[]]
+description = "Apple Watch application registry (launch services)"
+name = "com.apple.nanoregistryd"
+[[]]
+name = "com.apple.nanoregistrylaunchd"
+[[]]
+description = "Apple Watch Software Update Bridge"
+name = "com.apple.nanosubridged"
+[[]]
+name = "com.apple.nanotimekitcompaniond"
+[[]]
+name = "com.apple.navd"
+[[]]
+name = "com.apple.ndoagent"
+[[]]
+binary = "/usr/libexec/neagent"
+description = "Network Extension - Agent"
+name = "com.apple.neagent-ios"
+[[]]
+binary = "/usr/libexec/nearbyd"
+name = "com.apple.nearbyd"
+[[]]
+binary = "/usr/libexec/nehelper"
+description = "Network Extensions"
+name = "com.apple.nehelper"
+[[]]
+binary = "/usr/libexec/nesessionmanager"
+name = "com.apple.nesessionmanager"
+[[]]
+binary = "/usr/libexec/networkserviceproxy"
+name = "com.apple.networkserviceproxy"
+[[]]
+description = "Apple News"
+name = "com.apple.newsd"
+[[]]
+binary = "/usr/libexec/nfcd"
+description = "Near Field Communications"
+name = "com.apple.nfcd"
+[[]]
+binary = "/usr/libexec/nfrestore_service"
+name = "com.apple.nfrestore"
+[[]]
+binary = "/usr/libexec/ncld"
+description = "Network Link Conditioner"
+name = "com.apple.nlcd"
+[[]]
+name = "com.apple.notifyd"
+[[]]
+name = "com.apple.nsurlsessiond"
+[[]]
+name = "com.apple.nsurlstoraged"
+[[]]
+name = "com.apple.online-auth-agent.xpc"
+[[]]
+name = "com.apple.osanalytics.osanalyticshelper"
+[[]]
+name = "com.apple.OTACrashCopier"
+[[]]
+name = "com.apple.OTATaskingAgent"
+[[]]
+name = "com.apple.parsec-fbf"
+[[]]
+name = "com.apple.parsecd"
+[[]]
+description = "Passbook"
+name = "com.apple.passd"
+[[]]
+description = "Clipboard / Paseboard Services"
+name = "com.apple.pasteboard.pasted"
+[[]]
+binary = "/usr/libexec/pcapd"
+description = "Packet Capture"
+name = "com.apple.pcapd"
+[[]]
+name = "com.apple.peakpowermanagerd"
+[[]]
+name = "com.apple.perfdiagsselfenabled"
+[[]]
+name = "com.apple.PerfPowerServicesExtended"
+[[]]
+binary = "/usr/libexec/pfd"
+description = "Packet Filter"
+name = "com.apple.pfd"
+[[]]
+name = "com.apple.photoanalysisd"
+[[]]
+name = "com.apple.photos.ImageConversionService"
+[[]]
+name = "com.apple.pipelined"
+[[]]
+binary = "/usr/libexec/pkd"
+description = "pkd manages plug-ins for the PlugInKit subsystem. It is a classic launch agent managed by launchd."
+endpoints = ["com.apple.pluginkit.pkd"]
+name = "com.apple.pluginkit.pkd"
+platforms = ["macOS Intel"]
+[[]]
+name = "com.apple.pluginkit.pkreporter"
+[[]]
+name = "com.apple.PointerUI.pointeruid"
+[[]]
+name = "com.apple.powerd"
+[[]]
+name = "com.apple.powerlogHelperd"
+[[]]
+name = "com.apple.PowerUIAgent"
+[[]]
+description = "First unlock screen"
+name = "com.apple.preboardservice"
+[[]]
+name = "com.apple.preboardservice_v2"
+[[]]
+name = "com.apple.printd"
+[[]]
+name = "com.apple.proactiveeventtrackerd"
+[[]]
+name = "com.apple.progressd"
+[[]]
+name = "com.apple.protectedcloudstorage.protectedcloudkeysyncing"
+[[]]
+description = "move crash logs, awdd and sysdiagnose from the watch to the phone"
+name = "com.apple.ProxiedCrashCopier.ProxyingDevice"
+[[]]
+description = "Picture Transfer Protocol"
+name = "com.apple.ptpcamerad"
+[[]]
+description = "Picture Transfer Protocol"
+name = "com.apple.ptpd"
+[[]]
+name = "com.apple.purplebuddy.budd"
+[[]]
+name = "com.apple.PurpleReverseProxy"
+[[]]
+name = "com.apple.quicklook.ThumbnailsAgent"
+[[]]
+description = "VPN"
+name = "com.apple.racoon"
+[[]]
+name = "com.apple.rapportd"
+[[]]
+description = "Most recently used (MRU) list"
+name = "com.apple.recentsd"
+[[]]
+name = "com.apple.relatived"
+[[]]
+name = "com.apple.remindd"
+[[]]
+name = "com.apple.remotemanagementd"
+[[]]
+description = "Game Kit instant replay"
+name = "com.apple.replayd"
+[[]]
+name = "com.apple.ReportCrash"
+[[]]
+name = "com.apple.ReportCrash.SimulateCrash"
+[[]]
+name = "com.apple.ReportMemoryException"
+[[]]
+description = "Create user folder layout from template"
+name = "com.apple.reversetimplated"
+[[]]
+description = "Historical file revision management"
+name = "com.apple.revisiond"
+[[]]
+name = "com.apple.routined"
+[[]]
+name = "com.apple.rtcreportingd"
+[[]]
+name = "com.apple.runningboardd"
+[[]]
+name = "com.apple.Safari.SafeBrowsing.Service"
+[[]]
+name = "com.apple.SafariBookmarksSyncAgent"
+[[]]
+name = "com.apple.SafariCloudHistoryPushAgent"
+[[]]
+name = "com.apple.safarifetcherd"
+[[]]
+description = "Smart Card helper"
+name = "com.apple.SCHelper"
+platforms = ["macOS"]
+[[]]
+description = "AirPlay"
+name = "com.apple.screensharingserver"
+[[]]
+name = "com.apple.ScreenTimeAgent"
+[[]]
+name = "com.apple.scrod"
+[[]]
+description = "Spotlight"
+name = "com.apple.searchd"
+[[]]
+name = "com.apple.SecureBackupDaemon"
+[[]]
+name = "com.apple.security.CircleJoinRequested"
+[[]]
+name = "com.apple.security.cloudkeychainproxy3"
+[[]]
+name = "com.apple.security.swcagent"
+[[]]
+binary = "/System/Library/Frameworks/Security.framework/Versions/A/XPCServices/XPCTimeStampingService.xpc/Contents/MacOS/XPCTimeStampingService"
+name = "com.apple.security.XPCTimeStampingService"
+[[]]
+binary = "/usr/libexec/securityd"
+description = "Handle keychains etc"
+name = "com.apple.securityd"
+[[]]
+binary = "/usr/libexec/securityuploadd"
+name = "com.apple.securityuploadd"
+[[]]
+binary = "/usr/libexec/seld"
+name = "com.apple.seld"
+[[]]
+name = "com.apple.SensorKitALSHelper"
+[[]]
+binary = "/usr/libexec/sensorkitd"
+name = "com.apple.sensorkitd"
+[[]]
+name = "com.apple.SepUpdateTimer"
+[[]]
+binary = "/usr/libexec/seserviced"
+description = "Secure Element interface"
+name = "com.apple.seserviced"
+[[]]
+binary = "/usr/libexec/sharingd"
+description = "Generic \"Share\" action handler"
+name = "com.apple.sharingd"
+[[]]
+binary = "/usr/libexec/SidecarRelay"
+description = "Use iDevice as a screen"
+name = "com.apple.sidecar-relay"
+[[]]
+binary = "/usr/libexec/signpost_reporter"
+name = "com.apple.signpost.signpost_reporter"
+[[]]
+name = "com.apple.siri-distributed-evaluation"
+[[]]
+name = "com.apple.siri.acousticsignature"
+[[]]
+name = "com.apple.siri.ClientFlow.ClientScripter"
+[[]]
+name = "com.apple.siri.context.service"
+[[]]
+name = "com.apple.siriactionsd"
+[[]]
+name = "com.apple.siriknowledged"
+[[]]
+name = "com.apple.softwareupdateservicesd"
+[[]]
+description = "Emergency recovery for iCloud Keychain"
+name = "com.apple.sosd"
+[[]]
+name = "com.apple.spindump"
+[[]]
+name = "com.apple.splashboard"
+[[]]
+name = "com.apple.spotlight.IndexAgent"
+[[]]
+name = "com.apple.SpringBoard"
+platforms = ["iOS"]
+[[]]
+name = "com.apple.storebookkeeperd"
+[[]]
+binary = "/usr/libexec/streaming_zip_conduit"
+description = "Handle untrusted Zip content out of process"
+name = "com.apple.streaming_zip_conduit"
+[[]]
+name = "com.apple.subridged"
+[[]]
+name = "com.apple.suggestd"
+[[]]
+binary = "/usr/libexec/swcd"
+description = "Shared Web Credentials"
+name = "com.apple.swcd"
+[[]]
+name = "com.apple.symptomsd"
+[[]]
+name = "com.apple.symptomsd.helper"
+[[]]
+name = "com.apple.SyncAgent"
+[[]]
+name = "com.apple.syncdefaultsd"
+[[]]
+name = "com.apple.sysdiagnose"
+[[]]
+name = "com.apple.sysdiagnose_helper"
+[[]]
+name = "com.apple.systemstats.microstackshot_periodic"
+[[]]
+binary = "/usr/libexec/tailspind"
+name = "com.apple.tailspind"
+[[]]
+description = "Total and Complete Control - App privacy settings"
+name = "com.apple.tccd"
+[[]]
+name = "com.apple.telephonyutilities.callservicesd"
+[[]]
+name = "com.apple.tencentweibo.xpc"
+[[]]
+binary = "/usr/libexec/terminusd"
+description = "On-demand VPN"
+name = "com.apple.terminusd"
+[[]]
+name = "com.apple.TextInput.kbd"
+[[]]
+binary = "/usr/libexec/thermalmonitord"
+name = "com.apple.thermalmonitord"
+[[]]
+binary = "/usr/libexec/timed"
+description = "NTP Client"
+name = "com.apple.timed"
+[[]]
+binary = "/usr/libexec/tzd"
+name = "com.apple.timezoneupdates.tzd"
+[[]]
+binary = "/usr/libexec/tipsd"
+description = "Tip of the day"
+name = "com.apple.tipsd"
+[[]]
+description = "Ringtone library access"
+name = "com.apple.tonelibraryd"
+[[]]
+name = "com.apple.touchsetupd"
+[[]]
+binary = "/usr/libexec/transparencyd"
+name = "com.apple.transparencyd"
+[[]]
+binary = "/usr/libexec/triald"
+description = "Apple A/B testing"
+name = "com.apple.triald"
+[[]]
+binary = "/usr/libexec/trustd"
+description = "PKI trust evaluation"
+name = "com.apple.trustd"
+[[]]
+binary = "/System/Library/Frameworks/Security.framework/Versions/A/XPCServices/TrustedPeersHelper.xpc/Contents/MacOS/TrustedPeersHelper"
+name = "com.apple.TrustedPeersHelper"
+[[]]
+binary = "/System/Library/PrivateFrameworks/TrustEvaluationAgent.framework/Resources/trustevaluationagent"
+name = "com.apple.TrustEvaluationAgent"
+platforms = ["macOS Intel"]
+[[]]
+description = "Apple TV remote app"
+name = "com.apple.tvremoted"
+[[]]
+description = "Twitter account handler"
+name = "com.apple.twitter.xpc"
+[[]]
+binary = "/usr/libexec/tzlinkd"
+description = "Time Zones"
+name = "com.apple.tzlinkd"
+[[]]
+name = "com.apple.UIKit.KeyboardManagement"
+[[]]
+name = "com.apple.UsageTrackingAgent"
+[[]]
+name = "com.apple.usb.networking.addNetworkInterface"
+[[]]
+name = "com.apple.UserEventAgent-System"
+[[]]
+name = "com.apple.VideoConversionService"
+[[]]
+name = "com.apple.VideoSubscriberAccount.DeveloperService"
+[[]]
+name = "com.apple.VideoSubscriberAccount.PrivacyService"
+[[]]
+binary = "/usr/libexec/videosubscriptionsd"
+name = "com.apple.videosybscriptionsd"
+[[]]
+name = "com.apple.voiced"
+[[]]
+name = "com.apple.voicemail.vmd"
+[[]]
+description = "Voice Memos"
+name = "com.apple.voicememod"
+[[]]
+description = "VoiceOver or the reading of the UI to the user"
+name = "com.apple.VoiceOverTouch"
+[[]]
+binary = "/usr/libexec/watchdogd"
+name = "com.apple.watchdogd"
+[[]]
+name = "com.apple.watchlistd"
+[[]]
+binary = "/usr/libexec/wcd"
+name = "com.apple.wcd"
+[[]]
+name = "com.apple.WebBookmarks.webbookmarksd"
+[[]]
+binary = "/usr/libexec/webinspectord"
+name = "com.apple.webinspectord"
+[[]]
+description = "Webio account handler"
+name = "com.apple.webio.xpc"
+[[]]
+description = "Host Access Point - Instant Hotspot"
+name = "com.apple.wifi.hostapd"
+[[]]
+binary = "/usr/libexec/wapic"
+name = "com.apple.wifi.wapic"
+[[]]
+binary = "/usr/libexec/wifianalyticsd"
+name = "com.apple.wifianalyticsd"
+[[]]
+description = "WiFi"
+name = "com.apple.wifid"
+[[]]
+binary = "/usr/libexec/wifiFirmwareLoader"
+description = "Move the firmware from disk to the WiFi chip"
+name = "com.apple.wifiFirmwareLoader"
+[[]]
+binary = "/usr/libexec/wifip2pd"
+description = "WiFi peer-to-peer"
+name = "com.apple.wifip2pd"
+[[]]
+binary = "/usr/libexec/wifivelocityd"
+name = "com.apple.wifivelocityd"
+[[]]
+name = "com.apple.WirelessRadioManager"
+[[]]
+binary = "/usr/libexec/xpcroleaccountd"
+name = "com.apple.xpc.roleaccountd"

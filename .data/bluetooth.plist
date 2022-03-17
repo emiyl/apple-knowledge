@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apple_id</key>
+	<integer>19456</integer>
+	<key>low_energy</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>iBeacon Advertisement Data</string>
+			<key>subtype</key>
+			<integer>2</integer>
+		</dict>
+	</array>
+	<key>uuids</key>
+	<array>
+		<dict>
+			<key>description</key>
+			<string>A2DP sink (receiver)</string>
+			<key>uuid</key>
+			<string>0x110B</string>
+		</dict>
+		<dict>
+			<key>descritpion</key>
+			<string>A2DP source (sender)</string>
+			<key>uuid</key>
+			<string>0x110A</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Generic Access Profile</string>
+			<key>uuid</key>
+			<string>0x1800</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Generic Attribute Profile</string>
+			<key>uuid</key>
+			<string>0x1801</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Tx Power</string>
+			<key>uuid</key>
+			<string>0x1804</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Current Time</string>
+			<key>uuid</key>
+			<string>0x1805</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Device Information</string>
+			<key>uuid</key>
+			<string>0x180A</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Battery</string>
+			<key>uuid</key>
+			<string>0x180F</string>
+		</dict>
+		<dict>
+			<key>uuid</key>
+			<string>7798082B-B7B7-45A6-9DED-F6B6C4551967</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple Notification Service (Voice &amp; SMS)</string>
+			<key>uuid</key>
+			<string>7905F431-B5CE-4E99-A40F-4B1E122D00D0</string>
+		</dict>
+		<dict>
+			<key>uuid</key>
+			<string>87290102-3C51-43B1-A1A9-11B9DC38478B</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple Media Service</string>
+			<key>uuid</key>
+			<string>89D3502B-0F36-433A-8EF4-C502AD55F8DC</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>AirPods Specific</string>
+			<key>uuid</key>
+			<string>9BD708D7-64C7-4E9F-9DED-F6B6C4551967</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple Nearby Service</string>
+			<key>uuid</key>
+			<string>9FA480E0-4967-4542-9390-D343DC5D04AE</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Continuity</string>
+			<key>uuid</key>
+			<string>D0611E78-BBB4-4591-A5F8-487910AE4366</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFD43</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFD44</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Exposure Notifications Service</string>
+			<key>uuid</key>
+			<string>0xFD6F</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFE13</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFE25</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFE8A</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFE8B</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFEC7</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFEC8</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFEC9</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFECA</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFECB</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFECC</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFECD</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFECE</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFECF</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFED0</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFED1</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFED2</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFED3</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Apple (Unknown)</string>
+			<key>uuid</key>
+			<string>0xFED4</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,233 @@
+
+[[services]]
+fixed_endpoint = 0
+service = "SEPD"
+xnu_kext = "AppleSEPManager"
+xnu_name = "AppleSEPControl"
+[[services.opcodes]]
+const = "kOpCode_NOP"
+description = "No operation"
+id = 0
+[[services.opcodes]]
+const = "kOpCode_SET_OOL_IN_ADDR"
+description = "set the address of a block of AP memory to be transfered to the SEP for the next request"
+id = 2
+[[services.opcodes]]
+const = "kOpCode_SET_OOL_OUT_ADDR"
+description = "set the address of a block of AP memory to be used to return the result of a given SEP response"
+id = 3
+[[services.opcodes]]
+const = "kOpCode_SET_OOL_IN_SIZE"
+description = "set the size of the memory block to be transfered to the endpoint as a parameter"
+id = 4
+[[services.opcodes]]
+const = "kOpCode_SET_OOL_OUT_SIZE"
+description = "set the size of the memory block allocated to the be written to as a response to a SEP request"
+id = 5
+[[services.opcodes]]
+const = "kOpCode_TTYIN"
+id = 10
+[[services.opcodes]]
+const = "kOpCode_Sleep"
+description = "put the SEP into low power and wait for an external IRQ"
+id = 12
+[[services.opcodes]]
+description = "put the SEP into low power and wake after a timeout"
+id = 19
+name = "kOpCode_Nap"
+[[services.opcodes]]
+const = "kOpCode_SECMODE_REQUEST"
+description = "get the current effective security mode of the SEP"
+id = 20
+[[services.opcodes]]
+const = "kOpCode_SELFTEST"
+description = "perform diagnostics and internal consistancy checks on the the SEP"
+id = 24
+[[services.opcodes]]
+description = "Queue the system for a wipe and install of IPSW"
+id = 37
+name = "kOpCode_ERASE_INSTALL"
+[[services.opcodes]]
+const = "kOpCode_L4_PANIC"
+description = "Panic the L4 microkernel"
+id = 38
+[[services.opcodes]]
+const = "kOpCode_SEPOSPANIC"
+description = "Panic the SEPOS"
+id = 39
+[[services]]
+description = "SEP logging service"
+service = "slog"
+xnu_kext = "AppleSEPManager"
+xnu_name = "AppleSEPLogger"
+[[services]]
+description = "Anti-replay Token Storage"
+service = "arts"
+xnu_kext = "AppleSEPManager"
+xnu_name = "AppleSEPARTStorage"
+[[services]]
+description = "Anti-replay token request"
+service = "artr"
+[[services]]
+description = "SEP services endpoint"
+service = "sepS"
+[[services]]
+description = "Secure Biometic Services"
+service = "sbio"
+[[services]]
+description = "Secure Key Generation Service"
+service = "skgs"
+[[services]]
+description = "xART"
+service = "xarm"
+[[services]]
+description = "xART"
+service = "xars"
+[[services]]
+service = "cntl"
+[[services]]
+service = "sidv"
+[[services]]
+description = "Test Service"
+service = "test"
+[[services]]
+description = "Secure Anti-Replay Service"
+service = "sars"
+[[services]]
+description = "Entitlement Service"
+service = "enti"
+[[services]]
+description = "Debug"
+service = "debg"
+xnu_kext = "AppleSEPManager"
+xnu_name = "AppleSEPDebug"
+[[services]]
+description = "Secure Key Storage (AppleKeyStore)"
+service = "sks\\0"
+xnu_kext = "AppleSEPKeyStore"
+xnu_name = "AppleSEPKeyStore"
+[[services]]
+description = "Proxy access to the SE (secure element)"
+service = "sse\\0"
+xnu_kext = "AppleSSE"
+[[services]]
+description = "Secure Credential Manager (AppleCredentialStore)"
+service = "scrd"
+xnu_kext = "AppleCredentialManager"
+[[services]]
+description = "Manage Apple Silicon macOS boot policy"
+name = "boot_policy"
+service = "lpol"
+[[services.opcodes]]
+description = "Begin a boot policy update operation"
+id = 2
+name = "begin_update_policy"
+[[services.opcodes]]
+id = 3
+name = "end_update_policy"
+[[services]]
+description = "First advertise, then expose\n`id` is endpoint number `name` is `'scrd'` or `'sks\\0'` for example. (4 char code)\nstruct app_info {\n  uint64_t physical_addr;\n  uint32_t virtual_base;\n  uint32_t size;\n  uint32_t entry;\n  uint8_t name[12];\n  uint8_t hash[16];\n}"
+fixed_endpoint = 253
+name = "discovery"
+service = "disc"
+[[services.opcodes]]
+id = 0
+name = "advertise"
+request_struct = "// Credit: ntrung03\nstruct ep_advertise_data {\n  uint8_t id; /* param */\n  uint32_t name; /* data, Apple 4CC for the applet name */\n};\n"
+[[services.opcodes]]
+id = 1
+name = "expose"
+request_struct = "// Credit: ntrung03\nstruct ep_expose_data {\n  uint8_t id; /* param */\n  char ool_in_min_pages;\n  char ool_in_max_pages;\n  char ool_out_min_pages;\n  char ool_out_max_pages;\n};\n"
+[[services]]
+fixed_endpoint = 254
+name = "L4info"
+service = "krnl"
+[[services.opcodes]]
+desciption = "Set up ipc between two threads"
+id = 0
+name = "L4_Ipc"
+[[services.opcodes]]
+description = "Yield execution to thread"
+id = 4
+name = "L4_ThreadSwitch"
+[[services.opcodes]]
+description = "Create or delete threads"
+id = 8
+name = "L4_ThreadControl"
+privileged = true
+[[services.opcodes]]
+description = "Exchange registers"
+id = 12
+name = "L4_ExchangeRegisters"
+[[services.opcodes]]
+description = "Set thread scheduling information"
+id = 16
+name = "L4_Schedule"
+[[services.opcodes]]
+description = "Map or free virtual memory"
+id = 20
+name = "L4_MapControl"
+privileged = true
+[[services.opcodes]]
+description = "Create a new address space"
+id = 24
+name = "L4_SpaceControl"
+privileged = true
+[[services.opcodes]]
+description = "Sets processor attributes"
+id = 28
+name = "L4_ProcessorControl"
+[[services.opcodes]]
+description = "Cache flushing"
+id = 32
+name = "L4_CacheControl"
+[[services.opcodes]]
+description = "Adjust IPC access"
+id = 36
+name = "L4_IpcControl"
+privileged = true
+[[services.opcodes]]
+description = "Enable or disable an interrupt"
+id = 40
+name = "L4_InterruptControl"
+privileged = true
+[[services.opcodes]]
+description = "Gets the system time"
+id = 44
+name = "L4_GetTimebase"
+[[services.opcodes]]
+description = "Set timeout for IPC sessions"
+id = 48
+name = "L4_SetTimeout"
+[[services.opcodes]]
+description = "Set up a shared mapping"
+id = 52
+name = "L4_SharedMappingControl"
+privileged = true
+[[services.opcodes]]
+description = "cause the SEP kernel to sleep until an external inturupt occurs"
+id = 56
+name = "L4_SleepKernel"
+[[services.opcodes]]
+id = 60
+name = "L4_PowerControl"
+[[services.opcodes]]
+description = "Get information about the running L4 kernel"
+id = 64
+name = "L4_KernelInterface"
+[[services]]
+fixed_endpoint = 255
+name = "seprom"
+service = "sepr"
+[[services.opcodes]]
+description = "request a pong from the SEP"
+id = 1
+name = "ping"
+[[services.opcodes]]
+description = "Common to all Apps, panic"
+id = 15
+name = "panic"
+[[services.opcodes]]
+description = "get random bytes from the SEP"
+id = 10
+name = "random"

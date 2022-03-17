@@ -1,0 +1,121 @@
+
+[local]
+properties = ["AppleInternal","CPUArchitecture","EffectiveProductionStatusSEP","HWModel","HasSEP","IsUIBuild","DeviceSupportsLockdown","EffectiveSecurityModeAp","SigningFuse","BuildVersion","OSVersion","BridgeVersion","SensitivePropertiesVisible","ProductName","ProductType","SerialNumber","BootSessionUUID","DeviceColor","EffectiveProductionStatusAp","EffectiveSecurityModeSEP","UniqueChipID","UniqueDeviceID","RemoteXPCVersionFlags","CertificateProductionStatus","CertificateSecurityMode","DeviceClass","DeviceEnclosureColor","SecurityDomain","OSInstallEnvironment","Image4Supported"]
+[[local.services]]
+name = "com.apple.corecaptured.remoteservice"
+[[local.services]]
+name = "com.apple.remote.installcoordination_proxy"
+[[local.services]]
+name = "com.apple.mobile.storage_mounter_proxy.bridge.macOS"
+[[local.services]]
+name = "com.apple.osanalytics.logRelay"
+[[local.services]]
+name = "com.apple.CSCSupportd"
+[[local.services]]
+name = "com.apple.mobile.storage_mounter_proxy.bridge"
+[[local.services]]
+name = "com.apple.sysdiagnose.remote"
+[[local.services]]
+name = "com.apple.mobile.notification_proxy.remote"
+[remote]
+properties = ["AppleInternal","CPUArchitecture","ChipID","EffectiveProductionStatusSEP","HWModel","HasSEP","LocationID","IsUIBuild","RegionInfo","DeviceSupportsLockdown","EffectiveSecurityModeAp","SigningFuse","BuildVersion","OSVersion","BridgeVersion","SensitivePropertiesVisible","BoardRevision","Image4CryptoHashMethod","MobileDeviceMinimumVersion","ProductName","ProductType","SerialNumber","BootSessionUUID","BoardId","DeviceColor","EffectiveProductionStatusAp","EffectiveSecurityModeSEP","UniqueChipID","UniqueDeviceID","RemoteXPCVersionFlags","CertificateProductionStatus","CertificateSecurityMode","DeviceClass","DeviceEnclosureColor","ModelNumber","SecurityDomain","OSInstallEnvironment","InterfaceIndex","HardwarePlatform","Image4Supported"]
+[[remote.services]]
+name = "com.apple.eos.BiometricKit"
+[[remote.services]]
+name = "com.apple.eos.LASecureIO"
+[[remote.services]]
+name = "com.apple.corecaptured.remoteservice"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.nfcd.relay.control"
+[[remote.services]]
+name = "com.apple.xpc.remote.mobile_obliteration"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.TrustedAccessoryController"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.internal.xpc.remote.kext_audit"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.sysdiagnose.remote"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.sysdiagnose.stackshot.remote"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.powerchime.remote"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.bridgeOSUpdated"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+nane = "com.apple.xpc.remote.multiboot"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.corespeech.xpc.remote.control"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.private.avvc.xpc.remote"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.corespeech.xpc.remote.record"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.videoprocessingd.encode.remote"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.multiverse.remote.bridgetime"
+[[remote.services]]
+name = "com.apple.recoverylogd.bridge"
+version = 1
+[remote.services.properties]
+ServiceVersion = 1
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.mobileactivationd.bridge"
+version = 1
+[remote.services.properties]
+ServiceVersion = 1
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.nfcd.relay.uart"
+[[remote.services]]
+name = "com.apple.osanalytics.logTransfer"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.CoreKDL.remoteXPC"
+[[remote.services]]
+name = "com.apple.icloud.findmydeviced.bridge"
+version = 1
+[remote.services.properties]
+ServiceVersion = 1
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.lskdd"
+[remote.services.properties]
+UsesRemoteXPC = 1
+[[remote.services]]
+name = "com.apple.aveservice"
+[remote.services.properties]
+UsesRemoteXPC = true
+[[remote.services]]
+name = "com.apple.RestoreRemoteServices.restoreserviced"
+version = 2
+[remote.services.properties]
+ServiceVersion = 2
+UsesRemoteXPC = true

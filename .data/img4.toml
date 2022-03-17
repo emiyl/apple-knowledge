@@ -1,0 +1,460 @@
+
+[[tags]]
+name = "acfw"
+[[tags]]
+name = "ache"
+[[tags]]
+name = "acib"
+[[tags]]
+name = "aciw"
+[[tags]]
+name = "ader"
+[[tags]]
+name = "agfi"
+[[tags]]
+name = "almo"
+[[tags]]
+name = "AMNM"
+[[tags]]
+name = "anef"
+[[tags]]
+name = "anrd"
+[[tags]]
+name = "aofi"
+[[tags]]
+name = "aopf"
+[[tags]]
+name = "apmv"
+[[tags]]
+name = "ater"
+[[tags]]
+name = "atkh"
+[[tags]]
+name = "auac"
+[[tags]]
+name = "aubt"
+[[tags]]
+name = "augs"
+[[tags]]
+name = "aupr"
+[[tags]]
+name = "auxi"
+[[tags]]
+description = "Auxilary Kernel Cache"
+name = "auxk"
+[[tags]]
+name = "auxp"
+[[tags]]
+name = "auxr"
+[[tags]]
+name = "avef"
+[[tags]]
+description = "battery image 0"
+name = "bat0"
+[[tags]]
+description = "battery image 1"
+name = "bat1"
+[[tags]]
+description = "battery full image"
+name = "batf"
+[[tags]]
+name = "BLDS"
+[[tags]]
+name = "bles"
+[[tags]]
+name = "BNCH"
+[[tags]]
+name = "BNCN"
+[[tags]]
+description = "The board the chip is attached to.  With iPhones/iPads this is the variation between device sizes (occasionally\nalso used for low cost devices like the SE/XR).\n\nWith the T2 this value is unique to all MacBooks with the T2"
+name = "BORD"
+[[tags]]
+name = "bstc"
+[[tags]]
+name = "bsys"
+[[tags]]
+description = "Certificate Epoch.  This is a unit of roll-forward time (monotonic) that allows for any security issues\nin the prior epoch to be fixed by a anti-rollback scheme."
+name = "CEPO"
+[[tags]]
+name = "cfel"
+[[tags]]
+name = "chg0"
+[[tags]]
+name = "chg1"
+[[tags]]
+description = "Unique identifier for a single Apple designed application processor sharing the same GID key"
+name = "CHIP"
+width = 2
+[[tags]]
+name = "CHMH"
+[[tags]]
+name = "cker"
+[[tags]]
+name = "ckih"
+[[tags]]
+name = "cmsv"
+[[tags]]
+name = "coih"
+[[tags]]
+name = "CPRO"
+[[tags]]
+description = "Burned-in chip security mode"
+name = "CSEC"
+[[tags]]
+name = "csys"
+[[tags]]
+name = "dali"
+[[tags]]
+name = "data"
+[[tags]]
+name = "DGST"
+[[tags]]
+name = "diag"
+[[tags]]
+name = "disk"
+[[tags]]
+name = "DPRO"
+[[tags]]
+name = "DSEC"
+[[tags]]
+description = "device tree"
+name = "dtre"
+[[tags]]
+description = "device tree for recovery"
+name = "dtrs"
+[[tags]]
+description = "Exclusive chip identifier.  This is burned into an eFuse at time of manufacture and unique across all devices sharing the same CHIP"
+name = "ECID"
+width = 8
+[[tags]]
+name = "efib"
+[[tags]]
+name = "eg0n"
+[[tags]]
+name = "eg0t"
+[[tags]]
+name = "eg1n"
+[[tags]]
+name = "eg1n"
+[[tags]]
+name = "eg1t"
+[[tags]]
+name = "eg3n"
+[[tags]]
+name = "eg3t"
+[[tags]]
+name = "EKEY"
+[[tags]]
+name = "EPRO"
+[[tags]]
+name = "esca"
+[[tags]]
+name = "esdm"
+[[tags]]
+description = "Effective security mode"
+name = "ESEC"
+[[tags]]
+name = "euou"
+[[tags]]
+name = "fdrs"
+[[tags]]
+name = "fdrt"
+[[tags]]
+name = "file"
+[[tags]]
+name = "fpgt"
+[[tags]]
+name = "ftap"
+[[tags]]
+name = "ftot"
+[[tags]]
+name = "ftsp"
+[[tags]]
+name = "fuos"
+[[tags]]
+name = "gfxf"
+[[tags]]
+name = "ging"
+[[tags]]
+name = "glyc"
+[[tags]]
+name = "glyp"
+[[tags]]
+name = "hash"
+[[tags]]
+name = "hclo"
+[[tags]]
+name = "hime"
+[[tags]]
+name = "hmmr"
+[[tags]]
+name = "homr"
+[[tags]]
+name = "hrlp"
+[[tags]]
+name = "hypr"
+[[tags]]
+name = "ibec"
+[[tags]]
+name = "ibot"
+[[tags]]
+name = "ibss"
+[[tags]]
+name = "ienv"
+[[tags]]
+name = "illb"
+[[tags]]
+name = "IM4M"
+[[tags]]
+name = "IM4P"
+[[tags]]
+name = "IM4R"
+[[tags]]
+name = "IMG4"
+[[tags]]
+name = "ipdf"
+[[tags]]
+name = "isor"
+[[tags]]
+name = "ispf"
+[[tags]]
+name = "isys"
+[[tags]]
+name = "itst"
+[[tags]]
+name = "iuob"
+[[tags]]
+name = "iuos"
+[[tags]]
+name = "iuou"
+[[tags]]
+name = "kdlv"
+[[tags]]
+name = "krnl"
+[[tags]]
+name = "kuid"
+[[tags]]
+name = "lamo"
+[[tags]]
+name = "lckr"
+[[tags]]
+name = "LNCH"
+[[tags]]
+name = "lobo"
+[[tags]]
+name = "logo"
+[[tags]]
+name = "love"
+[[tags]]
+name = "lphp"
+[[tags]]
+description = "LocalPolicy nonce hash"
+name = "lpnh"
+[[tags]]
+descrioption = "LocalPolicy"
+name = "lpol"
+[[tags]]
+name = "ltrs"
+[[tags]]
+name = "magg"
+[[tags]]
+name = "MANB"
+[[tags]]
+name = "MANP"
+[[tags]]
+name = "manx"
+[[tags]]
+name = "mefi"
+[[tags]]
+name = "ment"
+[[tags]]
+name = "mmap"
+[[tags]]
+name = "mmer"
+[[tags]]
+name = "mmsv"
+[[tags]]
+name = "mpro"
+[[tags]]
+name = "msec"
+[[tags]]
+name = "msys"
+[[tags]]
+name = "mtfw"
+[[tags]]
+name = "name"
+[[tags]]
+name = "nrde"
+[[tags]]
+name = "nsih"
+[[tags]]
+name = "nsrv"
+[[tags]]
+name = "OBJP"
+[[tags]]
+name = "omer"
+[[tags]]
+name = "ooth"
+[[tags]]
+name = "osev"
+[[tags]]
+name = "osrd"
+[[tags]]
+name = "otes"
+[[tags]]
+name = "owns"
+[[tags]]
+name = "PAYP"
+[[tags]]
+name = "pcrp"
+[[tags]]
+name = "pdmg"
+[[tags]]
+name = "pert"
+[[tags]]
+name = "pfle"
+[[tags]]
+name = "pflp"
+[[tags]]
+name = "phlt"
+[[tags]]
+name = "pmpf"
+[[tags]]
+name = "pndp"
+[[tags]]
+name = "prot"
+[[tags]]
+name = "rbmt"
+[[tags]]
+name = "rddg"
+[[tags]]
+name = "rdsk"
+[[tags]]
+name = "rdtr"
+[[tags]]
+name = "recm"
+[[tags]]
+name = "rfta"
+[[tags]]
+name = "rfts"
+[[tags]]
+name = "rkrn"
+[[tags]]
+name = "rlgo"
+[[tags]]
+name = "RNCH"
+[[tags]]
+name = "rolp"
+[[tags]]
+description = "recoveryOS nonce hash"
+name = "ronh"
+[[tags]]
+name = "rosi"
+[[tags]]
+description = "RemotePolicy nonce hash"
+name = "rpnh"
+[[tags]]
+name = "RSCH"
+[[tags]]
+name = "rsep"
+[[tags]]
+name = "rso0"
+[[tags]]
+name = "rso1"
+[[tags]]
+name = "rso2"
+[[tags]]
+name = "rso3"
+[[tags]]
+name = "rtpf"
+[[tags]]
+name = "rtsc"
+[[tags]]
+name = "scef"
+[[tags]]
+description = "Security domain, or which set of certificates govern device security.\n\nKnown values:\n  0x01 - Main Production certificates"
+name = "SDOM"
+width = 2
+[[tags]]
+name = "SECM"
+[[tags]]
+name = "seid"
+[[tags]]
+name = "sepi"
+[[tags]]
+name = "sika"
+[[tags]]
+name = "siof"
+[[tags]]
+name = "sip0"
+[[tags]]
+name = "sip1"
+[[tags]]
+name = "sip2"
+[[tags]]
+name = "sip3"
+[[tags]]
+name = "slvn"
+[[tags]]
+name = "smb0"
+[[tags]]
+name = "smb1"
+[[tags]]
+name = "smb2"
+[[tags]]
+name = "smb3"
+[[tags]]
+name = "smb4"
+[[tags]]
+name = "SNON"
+[[tags]]
+name = "snon"
+[[tags]]
+name = "snuf"
+[[tags]]
+name = "srnm"
+[[tags]]
+name = "ster"
+[[tags]]
+description = "Server nonce"
+name = "svrn"
+[[tags]]
+name = "tbmr"
+[[tags]]
+name = "tbms"
+[[tags]]
+name = "tery"
+[[tags]]
+name = "test"
+[[tags]]
+name = "tics"
+[[tags]]
+name = "trst"
+[[tags]]
+name = "tsys"
+[[tags]]
+name = "type"
+[[tags]]
+name = "ucer"
+[[tags]]
+name = "ucon"
+[[tags]]
+name = "udid"
+[[tags]]
+name = "uidm"
+[[tags]]
+name = "vice"
+[[tags]]
+name = "vkdl"
+[[tags]]
+name = "vuid"
+[[tags]]
+name = "ware"
+[[tags]]
+name = "wchf"
+[[tags]]
+name = "xbtc"
+[[tags]]
+name = "xsys"
+[[tags]]
+name = "xugs"

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>domains</key>
+	<array>
+		<string>AppDomainGroup-group.com.apple.tips</string>
+		<string>AppDomain-com.apple.Music</string>
+		<string>AppDomain-com.apple.podcasts</string>
+		<string>HomeDomain</string>
+		<string>AppDomain-com.apple.mobilenotes</string>
+		<string>AppDomainGroup-243LU875E5.groups.com.apple.podcasts</string>
+		<string>AppDomainGroup-group.com.apple.notes</string>
+		<string>WirelessDomain</string>
+		<string>AppDomainGroup-group.com.apple.news</string>
+		<string>AppDomainGroup-group.com.apple.Music</string>
+		<string>AppDomain-com.apple.news</string>
+		<string>SysSharedContainerDomain-systemgroup.com.apple.icloud.findmydevice.managed</string>
+		<string>AppDomain-com.apple.mobilemail</string>
+		<string>AppDomainPlugin-com.apple.weather.widget</string>
+		<string>KeyboardDomain</string>
+		<string>AppDomainGroup-group.com.apple.mail</string>
+		<string>AppDomainPlugin-com.apple.news.widget</string>
+		<string>AppDomain-com.apple.mobilesafari</string>
+		<string>AppDomain-com.apple.ScreenshotServicesService</string>
+		<string>AppDomain-com.apple.MobileSMS</string>
+		<string>SysSharedContainerDomain-systemgroup.com.apple.lskdrl</string>
+		<string>KeychainDomain</string>
+		<string>AppDomain-com.apple.Maps</string>
+		<string>SystemPreferencesDomain</string>
+		<string>SysSharedContainerDomain-systemgroup.com.apple.nearbyd.datastore</string>
+		<string>AppDomainGroup-group.com.apple.weather</string>
+		<string>AppDomain-com.apple.SleepLockScreen</string>
+		<string>AppDomain-com.apple.Passbook</string>
+		<string>AppDomainGroup-group.com.apple.Maps</string>
+		<string>SysSharedContainerDomain-systemgroup.com.apple.bluetooth</string>
+		<string>ManagedPreferencesDomain</string>
+		<string>NetworkDomain</string>
+		<string>AppDomainPlugin-com.apple.Maps.GeneralMapsWidget</string>
+		<string>AppDomainPlugin-com.apple.MobileSMS.MessagesNotificationExtension</string>
+		<string>AppDomainPlugin-com.apple.Music.Messages</string>
+		<string>AppDomainPlugin-com.apple.TestFlight.ServiceExtension</string>
+		<string>RootDomain</string>
+		<string>AppDomainPlugin-com.apple.AppleMediaDiscovery.AMDEngagementExtension</string>
+		<string>MediaDomain</string>
+		<string>AppDomain-com.apple.store.Jolly</string>
+		<string>SysSharedContainerDomain-systemgroup.com.apple.configurationprofiles</string>
+		<string>AppDomainPlugin-com.apple.AppStore.ProductPageExtension</string>
+		<string>SysContainerDomain-com.apple.appstored</string>
+	</array>
+</dict>
+</plist>

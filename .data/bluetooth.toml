@@ -1,0 +1,110 @@
+apple_id = 19456
+[[low_energy]]
+description = "iBeacon Advertisement Data"
+subtype = 2
+[[uuids]]
+description = "A2DP sink (receiver)"
+uuid = "0x110B"
+[[uuids]]
+descritpion = "A2DP source (sender)"
+uuid = "0x110A"
+[[uuids]]
+description = "Generic Access Profile"
+uuid = "0x1800"
+[[uuids]]
+description = "Generic Attribute Profile"
+uuid = "0x1801"
+[[uuids]]
+description = "Tx Power"
+uuid = "0x1804"
+[[uuids]]
+description = "Current Time"
+uuid = "0x1805"
+[[uuids]]
+description = "Device Information"
+uuid = "0x180A"
+[[uuids]]
+description = "Battery"
+uuid = "0x180F"
+[[uuids]]
+uuid = "7798082B-B7B7-45A6-9DED-F6B6C4551967"
+[[uuids]]
+description = "Apple Notification Service (Voice & SMS)"
+uuid = "7905F431-B5CE-4E99-A40F-4B1E122D00D0"
+[[uuids]]
+uuid = "87290102-3C51-43B1-A1A9-11B9DC38478B"
+[[uuids]]
+description = "Apple Media Service"
+uuid = "89D3502B-0F36-433A-8EF4-C502AD55F8DC"
+[[uuids]]
+description = "AirPods Specific"
+uuid = "9BD708D7-64C7-4E9F-9DED-F6B6C4551967"
+[[uuids]]
+description = "Apple Nearby Service"
+uuid = "9FA480E0-4967-4542-9390-D343DC5D04AE"
+[[uuids]]
+description = "Continuity"
+uuid = "D0611E78-BBB4-4591-A5F8-487910AE4366"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFD43"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFD44"
+[[uuids]]
+description = "Exposure Notifications Service"
+uuid = "0xFD6F"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFE13"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFE25"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFE8A"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFE8B"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFEC7"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFEC8"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFEC9"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFECA"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFECB"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFECC"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFECD"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFECE"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFECF"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFED0"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFED1"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFED2"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFED3"
+[[uuids]]
+description = "Apple (Unknown)"
+uuid = "0xFED4"

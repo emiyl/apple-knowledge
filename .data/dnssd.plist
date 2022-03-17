@@ -1,0 +1,964 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>services</key>
+	<array>
+		<dict>
+			<key>name</key>
+			<string>Time Capsule Backups / Auto Disk Discovery</string>
+			<key>properties</key>
+			<dict>
+				<key>dkX</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>sys</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>adisk</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple Filing Protocol</string>
+			<key>properties</key>
+			<dict>
+				<key>p</key>
+				<string>Password</string>
+				<key>path</key>
+				<string>Path</string>
+				<key>u</key>
+				<string>Username</string>
+			</dict>
+			<key>service</key>
+			<string>afpovertcp</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple MIDI</string>
+			<key>service</key>
+			<string>apple-midi</string>
+			<key>transport</key>
+			<string>udp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple Remote Debug Services (OpenGL Profiler)</string>
+			<key>service</key>
+			<string>applerdbg</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple TV</string>
+			<key>properties</key>
+			<dict>
+				<key>MniT</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>OSsi</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>PrVs</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>txtvers</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>appletv</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>parentcontrol</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple Podcast Producer</string>
+			<key>service</key>
+			<string>pcast</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>eXtensable Message and Presence Protocol (Jabber)</string>
+			<key>service</key>
+			<string>presence</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>xgrid</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple TV discovery of iTunes</string>
+			<key>service</key>
+			<string>appletv-itunes</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AirDrop</string>
+			<key>service</key>
+			<string>airdrop</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple TV Pairing</string>
+			<key>properties</key>
+			<dict>
+				<key>txtvers</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>appletv-pair</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple Software Restore</string>
+			<key>properties</key>
+			<dict>
+				<key>image</key>
+				<string>HTTP URL of disk image</string>
+			</dict>
+			<key>service</key>
+			<string>asr</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AirPlay</string>
+			<key>properties</key>
+			<dict>
+				<key>acl</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>btaddr</key>
+				<string>Bluetooth Address</string>
+				<key>deviceid</key>
+				<string>Cannonical Device Identifier</string>
+				<key>featuers</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>fex</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>flags</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>gcgl</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>gid</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>gpn</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>igl</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>model</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>osvers</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>pgcfg</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>pgid</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>pgm</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>pi</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>pk</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>protovers</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>psgid</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>psgsz</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>psgtp</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>psi</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>srcvers</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>tsid</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>tsm</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>vv</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>airplay</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>AirPort Base Station</string>
+			<key>service</key>
+			<string>airport</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>properties</key>
+			<dict>
+				<key>rpAD</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>rpBA</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>rpFl</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>rpHA</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>rpHI</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>rpHN</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>rpMac</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>rpVr</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>companion-link</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Digital Audio Control Protocol</string>
+			<key>service</key>
+			<string>dacp</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>HomeKit Accessory Protocol</string>
+			<key>properties</key>
+			<dict>
+				<key>c#</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>ci</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>ff</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>id</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>md</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>pv</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>s#</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>sf</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>hap</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>properties</key>
+			<dict>
+				<key>si</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>homekit</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Phillips Hue</string>
+			<key>service</key>
+			<string>hue</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Precision Time Protocol</string>
+			<key>properties</key>
+			<dict>
+				<key>domain</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>server-id</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>ieee1588</string>
+			<key>transport</key>
+			<string>udp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Thread Mesh Commissioning</string>
+			<key>properties</key>
+			<dict>
+				<key>nn</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>rv</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>sb</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>tv</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>xa</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>xp</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>meshcop</string>
+			<key>transport</key>
+			<string>udp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Remote Audio Output Protocol (AirPlay2)</string>
+			<key>properties</key>
+			<dict>
+				<key>am</key>
+				<string>Apple Model</string>
+				<key>cn</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>da</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>et</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>ft</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>md</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>ov</key>
+				<string>OS Version</string>
+				<key>pk</key>
+				<string>Public Key</string>
+				<key>sf</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>tp</key>
+				<string>Transport Protocol</string>
+				<key>vn</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>vs</key>
+				<string>Version</string>
+				<key>vv</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>raop</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>description</key>
+			<string>Protocol used by Apple Products to advratise devices capiable of WoL or WWoL</string>
+			<key>name</key>
+			<string>Sleep Proxy Server</string>
+			<key>properties</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+			<data>
+			BAgw
+			</data>
+			<key>service</key>
+			<string>sleep-proxy</string>
+			<key>transport</key>
+			<string>udp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Service Registration Protocol - Replication over TLS</string>
+			<key>properties</key>
+			<dict>
+				<key>domain</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>server-id</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>srpl-tls</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>amzn-wplay</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iTunes Wi-Fi Sync</string>
+			<key>service</key>
+			<string>apple-mobdev2</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple Password Server</string>
+			<key>service</key>
+			<string>apple-sasl</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple TV Home Sharing</string>
+			<key>service</key>
+			<string>appletv-v2</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iTunes Shared Library</string>
+			<key>service</key>
+			<string>atc</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Digital Audio Access Protocol</string>
+			<key>properties</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+			<data>
+			BAgw
+			</data>
+			<key>service</key>
+			<string>daap</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DNS-SD Long Lievd Queries</string>
+			<key>service</key>
+			<string>dns-llq</string>
+			<key>urls</key>
+			<array>
+				<string>http://files.dns-sd.org/draft-sekar-dns-llq.txt</string>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>DNS Dynamic Update Service</string>
+			<key>service</key>
+			<string>dns-update</string>
+			<key>urls</key>
+			<array>
+				<string>http://www.ietf.org/rfc/rfc2136.txt</string>
+				<string>http://www.ietf.org/rfc/rfc3007.txt</string>
+			</array>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>macOS Device Infrormation Protocol</string>
+			<key>service</key>
+			<string>device-info</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Xcode Distributed Compiler</string>
+			<key>service</key>
+			<string>distcc</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Digital Photo Access Protocol</string>
+			<key>service</key>
+			<string>dpap</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Remote Apple Events</string>
+			<key>service</key>
+			<string>eppc</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>File Transport Protocol</string>
+			<key>service</key>
+			<string>ftp</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iTunes Home Sharing</string>
+			<key>properties</key>
+			<dict>
+				<key>OSci</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>dmb</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>hC</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>hG</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>hQ</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+				<key>txtvers</key>
+<!-- The <data> element below contains a Ruby object which has been serialized with Marshal.dump. -->
+				<data>
+				BAgw
+				</data>
+			</dict>
+			<key>service</key>
+			<string>home-sharing</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>net-assistant</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>netrestore</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>nssocketport</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>OpenDirectory Master</string>
+			<key>service</key>
+			<string>od-master</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Optical Disk Sharing</string>
+			<key>service</key>
+			<string>odisk</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Hyper Text Transfer Protocol</string>
+			<key>service</key>
+			<string>http</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Image Capture Sharing</string>
+			<key>service</key>
+			<string>ica-networking</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>iChat Instant Messaging Protocol</string>
+			<key>service</key>
+			<string>ichat</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Internet Printing Protocol</string>
+			<key>service</key>
+			<string>ipp</string>
+			<key>subresource</key>
+			<array>
+				<dict>
+					<key>service</key>
+					<string>print</string>
+				</dict>
+			</array>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Internet Printing Protocol (Secure)</string>
+			<key>service</key>
+			<string>ipps</string>
+			<key>subresource</key>
+			<dict>
+				<key>cups</key>
+				<string>Common Unix Printing System</string>
+				<key>print</key>
+				<string>AirPrint</string>
+			</dict>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keynote Remote</string>
+			<key>service</key>
+			<string>KeynoteControl</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Keynote Remote Pairing</string>
+			<key>service</key>
+			<string>keynotepair</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple TV Media Remote</string>
+			<key>service</key>
+			<string>mediaremotetv</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Network File System (NFS)</string>
+			<key>service</key>
+			<string>nfs</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Page Description Language (PDL) Data Stream</string>
+			<key>service</key>
+			<string>pdl-datastream</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Line Printer Daemon</string>
+			<key>service</key>
+			<string>printer</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Remote Framebuffer - macOS Screen Sharing</string>
+			<key>service</key>
+			<string>rfb</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Remote I/O USB Printer Protocol</string>
+			<key>service</key>
+			<string>riousbprint</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Remote Scanning Protocol</string>
+			<key>service</key>
+			<string>scanner</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>macOS Server Remote Administration</string>
+			<key>service</key>
+			<string>servermgr</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Secure File Transport Protocol (SFTP)</string>
+			<key>service</key>
+			<string>sftp-ssh</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Server Message Block (SMB) / Common Internet File System (CIFS)</string>
+			<key>service</key>
+			<string>smb</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Secure Shell</string>
+			<key>service</key>
+			<string>ssh</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Telnet</string>
+			<key>service</key>
+			<string>telnet</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple TV Remote App (iOS devices)</string>
+			<key>service</key>
+			<string>touch-able</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Apple Workgroup Manager</string>
+			<key>service</key>
+			<string>workstation</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>xsanserver</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>xasnclient</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>xserverraid</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>xsync</string>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>Xserve RAID</string>
+			<key>service</key>
+			<string>xserveraid</string>
+			<key>transport</key>
+			<string>tcp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

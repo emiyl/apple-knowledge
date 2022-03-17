@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commands</key>
+	<array>
+		<string>saveenv</string>
+		<string>setenv</string>
+		<string>getenv</string>
+		<string>reset</string>
+		<string>reboot</string>
+		<string>setenvnp</string>
+		<string>clearenvp</string>
+	</array>
+	<key>tasks</key>
+	<array>
+		<string>main</string>
+		<string>poweroff</string>
+		<string>command</string>
+		<string>idleoff</string>
+		<string>usb req</string>
+		<string>usb-high-current</string>
+		<string>usb-no-current</string>
+		<string>usb</string>
+		<string>usb_serial</string>
+	</array>
+</dict>
+</plist>

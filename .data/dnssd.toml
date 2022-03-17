@@ -1,0 +1,272 @@
+
+[[services]]
+name = "Time Capsule Backups / Auto Disk Discovery"
+service = "adisk"
+transport = "tcp"
+[[services]]
+name = "Apple Filing Protocol"
+service = "afpovertcp"
+transport = "tcp"
+[services.properties]
+p = "Password"
+path = "Path"
+u = "Username"
+[[services]]
+name = "Apple MIDI"
+service = "apple-midi"
+transport = "udp"
+[[services]]
+name = "Apple Remote Debug Services (OpenGL Profiler)"
+service = "applerdbg"
+[[services]]
+name = "Apple TV"
+service = "appletv"
+[[services]]
+service = "parentcontrol"
+[[services]]
+name = "Apple Podcast Producer"
+service = "pcast"
+[[services]]
+name = "eXtensable Message and Presence Protocol (Jabber)"
+service = "presence"
+[[services]]
+service = "xgrid"
+[[services]]
+name = "Apple TV discovery of iTunes"
+service = "appletv-itunes"
+[[services]]
+name = "AirDrop"
+service = "airdrop"
+transport = "tcp"
+[[services]]
+name = "Apple TV Pairing"
+service = "appletv-pair"
+[[services]]
+name = "Apple Software Restore"
+service = "asr"
+[services.properties]
+image = "HTTP URL of disk image"
+[[services]]
+name = "AirPlay"
+service = "airplay"
+transport = "tcp"
+[services.properties]
+btaddr = "Bluetooth Address"
+deviceid = "Cannonical Device Identifier"
+[[services]]
+name = "AirPort Base Station"
+service = "airport"
+transport = "tcp"
+[[services]]
+service = "companion-link"
+transport = "tcp"
+[[services]]
+name = "Digital Audio Control Protocol"
+service = "dacp"
+transport = "tcp"
+[[services]]
+name = "HomeKit Accessory Protocol"
+service = "hap"
+transport = "tcp"
+[[services]]
+service = "homekit"
+transport = "tcp"
+[[services]]
+name = "Phillips Hue"
+service = "hue"
+transport = "tcp"
+[[services]]
+name = "Precision Time Protocol"
+service = "ieee1588"
+transport = "udp"
+[[services]]
+name = "Thread Mesh Commissioning"
+service = "meshcop"
+transport = "udp"
+[[services]]
+name = "Remote Audio Output Protocol (AirPlay2)"
+service = "raop"
+transport = "tcp"
+[services.properties]
+am = "Apple Model"
+ov = "OS Version"
+pk = "Public Key"
+tp = "Transport Protocol"
+vs = "Version"
+[[services]]
+description = "Protocol used by Apple Products to advratise devices capiable of WoL or WWoL"
+name = "Sleep Proxy Server"
+service = "sleep-proxy"
+transport = "udp"
+[[services]]
+name = "Service Registration Protocol - Replication over TLS"
+service = "srpl-tls"
+transport = "tcp"
+[[services]]
+service = "amzn-wplay"
+transport = "tcp"
+[[services]]
+name = "iTunes Wi-Fi Sync"
+service = "apple-mobdev2"
+transport = "tcp"
+[[services]]
+name = "Apple Password Server"
+service = "apple-sasl"
+transport = "tcp"
+[[services]]
+name = "Apple TV Home Sharing"
+service = "appletv-v2"
+transport = "tcp"
+[[services]]
+name = "iTunes Shared Library"
+service = "atc"
+transport = "tcp"
+[[services]]
+name = "Digital Audio Access Protocol"
+service = "daap"
+transport = "tcp"
+[[services]]
+name = "DNS-SD Long Lievd Queries"
+service = "dns-llq"
+urls = ["http://files.dns-sd.org/draft-sekar-dns-llq.txt"]
+[[services]]
+name = "DNS Dynamic Update Service"
+service = "dns-update"
+urls = ["http://www.ietf.org/rfc/rfc2136.txt","http://www.ietf.org/rfc/rfc3007.txt"]
+[[services]]
+name = "macOS Device Infrormation Protocol"
+service = "device-info"
+transport = "tcp"
+[[services]]
+name = "Xcode Distributed Compiler"
+service = "distcc"
+transport = "tcp"
+[[services]]
+name = "Digital Photo Access Protocol"
+service = "dpap"
+transport = "tcp"
+[[services]]
+name = "Remote Apple Events"
+service = "eppc"
+transport = "tcp"
+[[services]]
+name = "File Transport Protocol"
+service = "ftp"
+transport = "tcp"
+[[services]]
+name = "iTunes Home Sharing"
+service = "home-sharing"
+transport = "tcp"
+[[services]]
+service = "net-assistant"
+[[services]]
+service = "netrestore"
+[[services]]
+service = "nssocketport"
+[[services]]
+name = "OpenDirectory Master"
+service = "od-master"
+[[services]]
+name = "Optical Disk Sharing"
+service = "odisk"
+[[services]]
+name = "Hyper Text Transfer Protocol"
+service = "http"
+transport = "tcp"
+[[services]]
+name = "Image Capture Sharing"
+service = "ica-networking"
+transport = "tcp"
+[[services]]
+name = "iChat Instant Messaging Protocol"
+service = "ichat"
+transport = "tcp"
+[[services]]
+name = "Internet Printing Protocol"
+service = "ipp"
+transport = "tcp"
+[[services.subresource]]
+service = "print"
+[[services]]
+name = "Internet Printing Protocol (Secure)"
+service = "ipps"
+transport = "tcp"
+[services.subresource]
+cups = "Common Unix Printing System"
+print = "AirPrint"
+[[services]]
+name = "Keynote Remote"
+service = "KeynoteControl"
+transport = "tcp"
+[[services]]
+name = "Keynote Remote Pairing"
+service = "keynotepair"
+transport = "tcp"
+[[services]]
+name = "Apple TV Media Remote"
+service = "mediaremotetv"
+transport = "tcp"
+[[services]]
+name = "Network File System (NFS)"
+service = "nfs"
+transport = "tcp"
+[[services]]
+name = "Page Description Language (PDL) Data Stream"
+service = "pdl-datastream"
+transport = "tcp"
+[[services]]
+name = "Line Printer Daemon"
+service = "printer"
+transport = "tcp"
+[[services]]
+name = "Remote Framebuffer - macOS Screen Sharing"
+service = "rfb"
+transport = "tcp"
+[[services]]
+name = "Remote I/O USB Printer Protocol"
+service = "riousbprint"
+transport = "tcp"
+[[services]]
+name = "Remote Scanning Protocol"
+service = "scanner"
+transport = "tcp"
+[[services]]
+name = "macOS Server Remote Administration"
+service = "servermgr"
+transport = "tcp"
+[[services]]
+name = "Secure File Transport Protocol (SFTP)"
+service = "sftp-ssh"
+transport = "tcp"
+[[services]]
+name = "Server Message Block (SMB) / Common Internet File System (CIFS)"
+service = "smb"
+transport = "tcp"
+[[services]]
+name = "Secure Shell"
+service = "ssh"
+transport = "tcp"
+[[services]]
+name = "Telnet"
+service = "telnet"
+transport = "tcp"
+[[services]]
+name = "Apple TV Remote App (iOS devices)"
+service = "touch-able"
+transport = "tcp"
+[[services]]
+name = "Apple Workgroup Manager"
+service = "workstation"
+transport = "tcp"
+[[services]]
+service = "xsanserver"
+[[services]]
+service = "xasnclient"
+[[services]]
+service = "xserverraid"
+[[services]]
+service = "xsync"
+[[services]]
+name = "Xserve RAID"
+service = "xserveraid"
+transport = "tcp"

@@ -1,0 +1,693 @@
+
+[[variables]]
+name = "_csegbufsz_experiment"
+[[variables]]
+name = "_libmalloc_experiment"
+[[variables]]
+name = "AAPL,ignore"
+platforms = ["macOS","Intel","bridgeOS"]
+[[variables]]
+name = "aapl,panic-info"
+[[variables]]
+name = "aapl,pci"
+[[variables]]
+name = "acc-cm-override-charger-count"
+[[variables]]
+name = "acc-cm-override-count"
+[[variables]]
+name = "acc-mb-ld-lifetime"
+[[variables]]
+name = "adbe-tunable"
+[[variables]]
+name = "adbe-tunables"
+[[variables]]
+name = "adfe-tunables"
+[[variables]]
+description = "Apple Hardware Test (diags) - PList"
+name = "aht-results"
+platforms = ["macOS","PPC","Intel"]
+type = "string"
+[[variables]]
+name = "allow-root-hash-mismatch"
+[[variables]]
+name = "ane-type"
+[[variables]]
+name = "ApChipID"
+scopes = ["94b73556-2197-4702-82a8-3e1337dafbfb"]
+[[variables]]
+description = "Controls trust in Microsoft's PCA 2011 cert for Apple Secure Boot"
+name = "AppleSecureBootWindowsPolicy"
+platforms = ["macOS","Intel","bridgeOS"]
+scopes = ["94b73556-2197-4702-82a8-3e1337dafbfb"]
+type = "boolean"
+[[variables]]
+name = "aud-early-boot-critical"
+[[variables]]
+description = "If the device should `fsboot` upon power on"
+name = "auto-boot"
+type = "boolean"
+[[variables]]
+name = "auto-boot-halt-stage"
+[[variables]]
+name = "auto-boot-usb"
+[[variables]]
+name = "auto-boot-x86-once"
+[[variables]]
+name = "auto-boot?"
+type = ":boolean"
+[[variables]]
+name = "backlight-level"
+scopes = ["common"]
+[[variables]]
+name = "backlight-nits"
+[[variables]]
+name = "base-system-path"
+[[variables]]
+name = "BaseSystemAccessabiliityFeatures"
+[[variables]]
+name = "battery-health"
+[[variables]]
+name = "bluetoothActiveControllerInfo"
+[[variables]]
+name = "bluetoothHostControllerSwitchBehaviour"
+[[variables]]
+name = "BluetoothInfo"
+[[variables]]
+name = "bluetoothInternalControllerInfo"
+[[variables]]
+name = "BluetoothUHEDevices"
+[[variables]]
+name = "board-id"
+[[variables]]
+description = "String passed to the XNU kernel at boot (M1's do filter this though)"
+name = "boot-args"
+persistent = true
+scopes = ["common"]
+type = "string"
+[[variables]]
+name = "boot-breadcrumbs"
+type = "string"
+[[variables]]
+name = "boot-command"
+type = "string"
+values = ["alamo","diags","fsboot","rbm","recover","recover-once","recover-system","rtos","upgrade"]
+[[variables]]
+name = "boot-device"
+type = "string"
+values = ["nand0","asp_nand0","nvme_nand0"]
+[[variables]]
+name = "boot-file"
+[[variables]]
+name = "boot-image"
+[[variables]]
+name = "boot-partition"
+type = "number"
+[[variables]]
+name = "boot-path"
+[[variables]]
+name = "boot-ramdisk"
+[[variables]]
+name = "boot-script"
+[[variables]]
+name = "boot-stage"
+[[variables]]
+name = "boot-volume"
+[[variables]]
+description = "Seconds to pause before autoboot"
+name = "bootdelay"
+persistent = true
+type = "number"
+[[variables]]
+name = "BOSCatalogURL"
+[[variables]]
+name = "bt1addr"
+[[variables]]
+name = "btaddr"
+[[variables]]
+name = "build-style"
+[[variables]]
+name = "build-version"
+[[variables]]
+name = "cam-use-ext-ldo"
+[[variables]]
+name = "com.apple.System.boot-nonce"
+[[variables]]
+name = "com.apple.System.fp-state"
+[[variables]]
+name = "com.apple.System.sep.art"
+[[variables]]
+name = "com.apple.System.tz0-size"
+[[variables]]
+name = "console-screen"
+[[variables]]
+name = "core-bin-offset"
+[[variables]]
+name = "cpu-bin-offset"
+[[variables]]
+description = "SIP bitmask (see csr.h in xnu source)"
+name = "csr-active-config"
+platforms = ["macOS","Intel"]
+scopes = ["common"]
+[[variables]]
+description = "Kexts to approve regardless of CSR_ALLOW_UNAPPROVED_KEXTS"
+name = "csr-data"
+platforms = ["macOS","Intel"]
+scopes = ["common"]
+type = "string"
+[[variables]]
+name = "current-network"
+scopes = ["36C28AB5-6566-4C50-9EBD-CBB920F83843"]
+[[variables]]
+name = "darkboot"
+[[variables]]
+name = "DClr_override"
+[[variables]]
+name = "debug-gg"
+[[variables]]
+name = "debug-soc"
+[[variables]]
+description = "Bitfield of which UARTs to enable"
+name = "debug-uarts"
+persistent = true
+type = "integer"
+[[variables]]
+name = "DebugBluetoothHIDShim"
+[[variables]]
+name = "default-client-ip"
+[[variables]]
+name = "default-gateway-ip"
+[[variables]]
+name = "default-mac-address?"
+type = "boolean"
+[[variables]]
+name = "default-router-ip"
+[[variables]]
+name = "default-server-ip"
+[[variables]]
+name = "default-subnet-mask"
+[[variables]]
+description = "boot.efi background color. Stored as BGRA."
+name = "DefaultBackgroundColor"
+platforms = ["macOS","Intel"]
+scopes = ["4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14"]
+[[variables]]
+name = "device-material"
+[[variables]]
+name = "diag-device"
+[[variables]]
+name = "diag-file"
+[[variables]]
+name = "diag-switch?"
+[[variables]]
+name = "diags-path"
+[[variables]]
+name = "disable_screensavers"
+[[variables]]
+name = "display-carveout-inhibitcache"
+[[variables]]
+name = "display-color-space"
+[[variables]]
+name = "display-rotation"
+[[variables]]
+name = "display-timing"
+[[variables]]
+name = "display-vsh-comp"
+[[variables]]
+name = "dt-path"
+[[variables]]
+name = "e75"
+[[variables]]
+name = "efi-backup-boot-device"
+[[variables]]
+name = "efi-backup-boot-device-data"
+[[variables]]
+name = "efi-boot-device"
+[[variables]]
+name = "efi-boot-device-data"
+[[variables]]
+name = "emu"
+[[variables]]
+name = "enable-remap-mode"
+[[variables]]
+description = "Enter USB Target Disk Mode"
+name = "enter-tdm-mode"
+platforms = ["macOS","Intel"]
+type = "boolean"
+[[variables]]
+name = "eth1addr"
+[[variables]]
+name = "ethaddr"
+[[variables]]
+name = "failboot-breadcrumbs"
+[[variables]]
+description = "Forth code debugging for OpenFirmware"
+name = "fcode-debug?"
+platforms = ["macOS","PPC"]
+type = "string"
+[[variables]]
+name = "filesize"
+[[variables]]
+name = "fixed-lcm-boost"
+[[variables]]
+name = "fm-activation-locked"
+[[variables]]
+name = "fm-spstatus"
+[[variables]]
+description = "Current saved host name"
+name = "fmm-computer-name"
+scopes = ["common"]
+type = "string"
+[[variables]]
+name = "fmm-mobileme-token-FMM"
+[[variables]]
+description = "If this value is true FMM is handled by the T2 coprocessor.  This is always false on Apple Silicon as there is no bridgeOS device"
+name = "fmm-mobileme-token-FMM-BridgeHasAccount"
+platforms = ["macOS","Intel","macOS ASi"]
+type = "boolean"
+[[variables]]
+description = "If a device wipe has been requested by FindMy"
+name = "fmm-mobileme-token-FMM-WipePending"
+platforms = ["macOS","Intel"]
+type = "boolean"
+[[variables]]
+name = "force-upgrade-fail"
+[[variables]]
+name = "gpu-policy"
+[[variables]]
+description = "Disable dGPU (I think only for older models)"
+name = "gpu-power-prefs"
+platforms = ["macOS","Intel"]
+scopes = ["FA4CE28D-B62F-4C99-9CC3-6815686E30F9"]
+type = "boolean"
+[[variables]]
+name = "GPUROM"
+[[variables]]
+name = "HardwareModel"
+[[variables]]
+name = "HW_BOOT_DATA"
+[[variables]]
+name = "IASCurrentInstallPhase"
+[[variables]]
+name = "IASInstallPhaseList"
+[[variables]]
+description = "This is the update url used for install / update.  Security issues can occur when set to HTTP.  Typically managed through `seedutil`"
+name = "IASUCatalogURL"
+platforms = ["macOS","Intel"]
+type = "string"
+[[variables]]
+name = "IDInstallerDataV2"
+[[variables]]
+name = "idle-off"
+[[variables]]
+name = "input-device"
+platforms = ["macOS","PPC"]
+[[variables]]
+name = "input-device-1"
+platforms = ["macOS","PPC"]
+[[variables]]
+name = "IOBusyInterest"
+[[variables]]
+name = "IODeviceMemory"
+[[variables]]
+name = "IOPlatformActiveAction"
+[[variables]]
+name = "IOPlatformHaltRestartAction"
+[[variables]]
+name = "IOPlatformPanicAction"
+[[variables]]
+name = "IOPlatformQuiensceAction"
+[[variables]]
+name = "IOPlatformSleepAction"
+[[variables]]
+name = "IOPlatformWakeAction"
+[[variables]]
+name = "IORematchPersonality"
+[[variables]]
+name = "ipaddr"
+[[variables]]
+name = "is-tethered"
+[[variables]]
+name = "kaslr-off"
+[[variables]]
+name = "kaslr-slide"
+[[variables]]
+description = "If the CPU is a little endian architecture"
+name = "little-endian?"
+platforms = ["macOS","PPC"]
+type = "boolean"
+[[variables]]
+name = "load-base"
+[[variables]]
+name = "loadaddr"
+[[variables]]
+name = "LocationServicesEnabled"
+[[variables]]
+name = "lts-persistance"
+type = "string"
+[[variables]]
+name = "mca-info0"
+[[variables]]
+name = "mouse-device"
+[[variables]]
+name = "multiupdater-retry-limits"
+[[variables]]
+name = "multiupdater-state"
+[[variables]]
+name = "net-boot"
+[[variables]]
+name = "non-coherent"
+[[variables]]
+name = "nonce-seeds"
+[[variables]]
+name = "nvramrc"
+[[variables]]
+name = "oblit-begins"
+[[variables]]
+name = "oblit-inprogress"
+[[variables]]
+name = "obliteration"
+[[variables]]
+name = "oem-banner"
+[[variables]]
+name = "oem-banner?"
+[[variables]]
+name = "oem-logo"
+[[variables]]
+name = "oem-logo?"
+[[variables]]
+name = "one-time-boot-command"
+[[variables]]
+name = "ota-anomalies"
+[[variables]]
+name = "ota-brain-version"
+[[variables]]
+name = "ota-breadcrumbs"
+[[variables]]
+name = "ota-child-failures"
+[[variables]]
+name = "ota-context"
+[[variables]]
+name = "ota-controllerVersion"
+[[variables]]
+name = "ota-conv-panic-indicator"
+[[variables]]
+name = "ota-failure-reason"
+[[variables]]
+name = "ota-forced-reset-uptime"
+[[variables]]
+name = "OTA-fsck-metrics"
+[[variables]]
+name = "ota-initial-breadcrumbs"
+[[variables]]
+name = "ota-initial-result"
+[[variables]]
+name = "ota-install-tonight"
+[[variables]]
+name = "ota-internal-failure-reason"
+[[variables]]
+name = "ota-internal-forced-reset-uptime"
+[[variables]]
+name = "ota-original-os-version"
+[[variables]]
+name = "ota-os-version"
+[[variables]]
+name = "ota-outcome"
+[[variables]]
+name = "ota-perform-shutdown"
+[[variables]]
+name = "OTA-post-conversion"
+[[variables]]
+name = "OTA-pre-conversion"
+[[variables]]
+name = "ota-reboot-retry-enabled"
+[[variables]]
+name = "ota-reboot-retry-zone"
+[[variables]]
+name = "ota-result"
+[[variables]]
+name = "ota-retry-battery-level"
+[[variables]]
+name = "ota-retry-breadcrumbs"
+[[variables]]
+name = "ota-retry-codes"
+[[variables]]
+name = "ota-retry-domains"
+[[variables]]
+name = "ota-retry-enabled"
+[[variables]]
+name = "ota-retry-error"
+[[variables]]
+name = "ota-retry-external-power"
+[[variables]]
+name = "ota-retry-failure-reason"
+[[variables]]
+name = "ota-retry-ids"
+[[variables]]
+name = "ota-retry-monitor"
+[[variables]]
+name = "ota-retry-names"
+[[variables]]
+name = "ota-retry-result"
+[[variables]]
+name = "ota-retry-results"
+[[variables]]
+name = "ota-retry-uptime"
+[[variables]]
+name = "ota-retry-user-progress"
+[[variables]]
+name = "ota-retry-warnings"
+[[variables]]
+name = "OTA-sealvolume-metrics"
+[[variables]]
+name = "ota-snapshot-update"
+[[variables]]
+name = "ota-step-battery-level"
+[[variables]]
+name = "ota-step-codes"
+[[variables]]
+name = "ota-step-domains"
+[[variables]]
+name = "ota-step-error"
+[[variables]]
+name = "ota-step-external-power"
+[[variables]]
+name = "ota-step-ids"
+[[variables]]
+name = "ota-step-monitor"
+[[variables]]
+name = "ota-step-names"
+[[variables]]
+name = "ota-step-results"
+[[variables]]
+name = "ota-step-uptime"
+[[variables]]
+name = "ota-step-user-progress"
+[[variables]]
+name = "ota-submission-url"
+[[variables]]
+name = "ota-updateType"
+[[variables]]
+name = "ota-uuid"
+[[variables]]
+name = "ots-step-warnings"
+[[variables]]
+name = "output-device"
+[[variables]]
+name = "output-device-1"
+[[variables]]
+name = "panicmedic"
+[[variables]]
+name = "pci-probe-list"
+[[variables]]
+name = "pci-probe-mask"
+[[variables]]
+name = "pinot-panel-id"
+[[variables]]
+name = "pintoaddr"
+[[variables]]
+name = "pmgr_cpu_override"
+[[variables]]
+name = "pmgr_gpu_override"
+[[variables]]
+name = "policy-nonce-digests"
+[[variables]]
+name = "pre-recovery-ota-failure-uuid"
+[[variables]]
+name = "preferred-count"
+scopes = ["36C28AB5-6566-4C50-9EBD-CBB920F83843"]
+[[variables]]
+name = "preferred-networks"
+scopes = ["36C28AB5-6566-4C50-9EBD-CBB920F83843"]
+[[variables]]
+name = "preserve-debuggability"
+[[variables]]
+name = "prev-lang-diags:kbd"
+[[variables]]
+description = "Default keyboard layout"
+name = "prev-lang:kbd"
+scopes = ["common"]
+type = "string"
+[[variables]]
+name = "prevent-restores"
+[[variables]]
+name = "previous-system-uuid"
+[[variables]]
+name = "PSFU_STATUS"
+[[variables]]
+name = "pwr-path"
+[[variables]]
+name = "radio-error"
+[[variables]]
+name = "ramdisk-size"
+[[variables]]
+name = "ramrod-nvram-sequence"
+[[variables]]
+name = "ramrod-nvram-session"
+[[variables]]
+name = "ramrod-nvram-shadow-path"
+[[variables]]
+name = "rbdaddr0"
+[[variables]]
+name = "real-base"
+type = "number"
+[[variables]]
+name = "real-base?"
+type = "boolean"
+[[variables]]
+name = "real-size"
+type = "number"
+[[variables]]
+name = "recovery-boot-mode"
+[[variables]]
+name = "recovery-boot-setting"
+[[variables]]
+name = "recovery-breadcrumbs"
+[[variables]]
+name = "recoveryos-inited-update"
+[[variables]]
+name = "recoveryos-passcode-blob"
+[[variables]]
+name = "restore-child-failures"
+[[variables]]
+name = "restore-outcome"
+[[variables]]
+name = "restore-perform-shutdown"
+[[variables]]
+name = "restore-reboot-retry-enabled"
+[[variables]]
+name = "restore-reboot-retry-zone"
+[[variables]]
+name = "restore-retry-codes"
+[[variables]]
+name = "restore-retry-domains"
+[[variables]]
+name = "restore-retry-error"
+[[variables]]
+name = "restore-retry-ids"
+[[variables]]
+name = "restore-retry-monitor"
+[[variables]]
+name = "restore-retry-names"
+[[variables]]
+name = "restore-retry-results"
+[[variables]]
+name = "restore-step-codes"
+[[variables]]
+name = "restore-step-domains"
+[[variables]]
+name = "restore-step-error"
+[[variables]]
+name = "restore-step-ids"
+[[variables]]
+name = "restore-step-monitor"
+[[variables]]
+name = "restore-step-names"
+[[variables]]
+name = "restore-step-results"
+[[variables]]
+name = "restore-step-warnings"
+[[variables]]
+name = "root-live-fs"
+[[variables]]
+name = "screen-#columns"
+type = "number"
+[[variables]]
+name = "screen-#rows"
+type = "number"
+[[variables]]
+description = "FireWire security mode \nSee IOFireWireController.cpp in IOFireWireFamily: https://github.com/apple-oss-distributions/IOFireWireFamily/blob/IOFireWireFamily-483/IOFireWireFamily.kmodproj/IOFireWireController.cpp#L4212\n"
+name = "security-mode"
+scopes = ["common"]
+type = "string"
+[[variables]]
+name = "security-password"
+[[variables]]
+name = "selftest-#megs"
+type = "number"
+[[variables]]
+name = "serverip"
+[[variables]]
+name = "SleepWakeFailurePanic"
+[[variables]]
+name = "SleepWakeFailureString"
+[[variables]]
+name = "soc-bin-offset"
+[[variables]]
+name = "StartupManagerPolicy"
+scopes = ["5eeb160f-45fb-4ce9-b4e3-610359abf6f8"]
+[[variables]]
+description = "Mute startup chime"
+name = "StartupMute"
+scopes = ["default"]
+type = "integer"
+[[variables]]
+name = "stress-rack"
+[[variables]]
+name = "summit-panel-id"
+[[variables]]
+name = "system-passcode-lock-blob"
+[[variables]]
+name = "SystemAudioVolume"
+[[variables]]
+name = "SystemAudioVolumeExtension"
+[[variables]]
+name = "SystemAudioVolumeSaved"
+[[variables]]
+name = "target-uuid"
+[[variables]]
+name = "tbt-options"
+[[variables]]
+description = "boot.efi interface scaling"
+name = "UIScale"
+platforms = ["macOS","Intel"]
+scopes = ["4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14"]
+[[variables]]
+name = "update-volume"
+[[variables]]
+name = "upgrade-boot-volume"
+[[variables]]
+name = "upgrade-fallback-boot-command"
+[[variables]]
+name = "upgrade-retry"
+[[variables]]
+name = "usb-enabled"
+[[variables]]
+name = "use-generic?"
+[[variables]]
+name = "use-nvramrc?"
+[[variables]]
+name = "utc-offset"
+[[variables]]
+name = "virt-base"
+[[variables]]
+name = "virt-size"
+[[variables]]
+name = "wifi-fw-path"
+[[variables]]
+name = "wifi-nvram-path"
+[[variables]]
+name = "wifi1addr"
+[[variables]]
+name = "wifiaddr"
+[[variables]]
+name = "zhuge_debug"

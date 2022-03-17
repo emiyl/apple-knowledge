@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>servies</key>
+	<array>
+		<dict>
+			<key>service</key>
+			<string>com.apple.madrid</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>com.apple.private.alloy.multiplex1</string>
+		</dict>
+		<dict>
+			<key>service</key>
+			<string>com.apple.ess</string>
+		</dict>
+	</array>
+	<key>topics</key>
+	<array>
+		<dict>
+			<key>topic</key>
+			<string>com.apple.icloud-container.com.apple.SafariShared.Setttings</string>
+		</dict>
+		<dict>
+			<key>topic</key>
+			<string>com.apple.icloud-container.com.apple.SafariShared.CloudTabs</string>
+		</dict>
+		<dict>
+			<key>topic</key>
+			<string>com.apple.icloud-container.com.apple.SafariShared.WBSCloudBookmarksStore</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1299 @@
+
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.Areca.ArcMSR"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.AGDCPluginDisplayMetrics"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.AppleEthernetAquantiaAqtionFirmware"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.AppleFSCompression.AppleFSCompressionTypeDataless"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.AppleFSCompression.AppleFSCompressionTypeZlib"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.AppleGPUWrangler"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.AppleGraphicsDeviceControl"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.AppleSystemPolicy"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.BootCache"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.Dont_Steal_Mac_OS_X"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.UVCService"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.audio.TSNCaptureInterface"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.ACPI_SMC_PlatformPlugin"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AGDCBacklightControl"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AGPM"
+[[]]
+id = "com.apple.driver.AirPort.Brcm4360-MFG"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AirPort.BrcmNIC"
+[[]]
+id = "com.apple.driver.AirPort.BrcmNIC-MFG"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.Apple16X50ACPI"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.Apple16X50Serial"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleACPIButtons"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleACPIEC"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleACPIPlatform"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleAHCIPort"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleAPIC"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleAVEBridge"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleActuatorDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleAfterburner"
+[[]]
+id = "com.apple.driver.AppleAstrisGpioProbe"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleAudioClockLibs"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleBCMWLANBusInterfacePCIeMac"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleBCMWLANCoreMac"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleBSDKextStarter"
+[[]]
+id = "com.apple.driver.AppleBSDKextStarterVPN"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleBacklight"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleBacklightExpert"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleBluetoothDebug"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleBluetoothDebugService"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleBluetoothHIDKeyboard"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleBluetoothHIDMouse"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleBluetoothModule"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleBluetoothMultitouch"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleBluetoothRemote"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleBridgeAudioController"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleBusPowerController"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleCameraInterface"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleConvergedIPCOLYBTControl"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleConvergedPCI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleCredentialManager"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleDiskImages2"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleEFINVRAM"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleEFIRuntime"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleEffaceableBlockDevice"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleEffaceableNOR"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleEffaceableStorage"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleEffaceableTDM"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleEmbeddedOSSupportHost"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleEthernetAquantiaAqtion"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleEthernetMLX5"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleFDEKeyStore"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleFIVRDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleFWAudio"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleFWOHCI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleFileSystemDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleFireWireStorage"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleFirmwareUpdateKext"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleGFXHDA"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleGraphicsControl"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleGraphicsDevicePolicy"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleHDA"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleHDAController"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleHDAHardwareConfigDriver"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleHIDALSService"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleHIDKeyboard"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleHIDMouse"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleHPET"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleHPM"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleHSBluetoothDriver"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleHSSPIHIDDriver"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleHSSPISupport"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleHV"
+[[]]
+id = "com.apple.driver.AppleHWAccess"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleHollywood"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIPAppender"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleIRController"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleInputDeviceSupport"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntel8254XEthernet"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelBDWGraphics"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelBDWGraphicsFramebuffer"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelCFLGraphicsFramebuffer"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelCPUPowerManagement"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelCPUPowerManagementClient"
+[[]]
+id = "com.apple.driver.AppleIntelCPUPowerManagementDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelFramebufferAzul"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelHD5000Graphics"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelI210Ethernet"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelICLGraphics"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelICLLPGraphicsFramebuffer"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelKBLGraphics"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelKBLGraphicsFramebuffer"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelLpssDmac"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelLpssGspi"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelLpssI2C"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelLpssI2CController"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelLpssSpiController"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelLpssUARTCommon"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelLpssUARTv0"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelLpssUARTv1"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelMCEReporter"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelPCHPMC"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelSKLGraphics"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelSKLGraphicsFramebuffer"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleIntelSlowAdaptiveClocking"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleKeyStore"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleLPC"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleLSIFusionMPT"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleMCCSControl"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleMCP89RootPortPM"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleMGPUPowerControl"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleMemorexCDROMDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleMikeyDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleMikeyHIDDriver"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleMobileFileIntegrity"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleMultiFunctionManagerMac"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleMultitouchDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleMuxControl"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleMuxControl2"
+[[]]
+id = "com.apple.driver.AppleNVMePassThrough"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleOLYHALMac"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleOnboardSerial"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.ApplePIODMA"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.ApplePVPanic"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleParavirtGPU"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.ApplePlatformEnabler"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.ApplePolicyControl"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleRAID"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleRTC"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleSDXC"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleSEPManager"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleSMBIOS"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleSMBusController"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleSMBusPCI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleSMC"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleSMCLMU"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleSMCPDRC"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleSMCRTC"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleSSE"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleSmartBatteryManager"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleThunderboltDPAdapterFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleThunderboltDPInAdapter"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleThunderboltDPOutAdapter"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleThunderboltEDMSink"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleThunderboltEDMSource"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleThunderboltIP"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleThunderboltNHI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleThunderboltPCIDownAdapter"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleThunderboltPCIUpAdapter"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleThunderboltUTDM"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleTopCaseHIDEventDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBAudio"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBCardReader"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBComposite"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBDisplays"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBHIDMouse"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBHostMergeProperties"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBLegacyHub"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBMassStorageInterfaceNub"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBMergeNub"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBMultitouch"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBODD"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBTCButtons"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBTCKeyEventDriver"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBTCKeyboard"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBTDM"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleUSBTopCaseDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleUpstreamUserClient"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleVirtIO"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleVirtualGraphics"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleVmxnet3Ethernet"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleWWANSupport"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleWWANSupport1"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AppleWWANSupport2"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.AppleXsanScheme"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.Apple_iSight"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.AudioAUUC"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.BCMWLANFirmware4355.Hashstore"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.BCMWLANFirmware4364.Hashstore"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.BCMWLANFirmware4377.Hashstore"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.BCMWLANFirmware4378.Hashstore"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.BCMWLANFirmware4387.Hashstore"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.BridgeAudioCommunication"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.CanonEOS1D"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.CoreStorage"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.CoreStorageFsck"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.DiskImages"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.DiskImages.CryptoEncoding"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.DiskImages.FileBackingStore"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.DiskImages.HTTPBackingStore"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.DiskImages.KernelBacked"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.DiskImages.RAMBackingStore"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.DiskImages.ReadWriteDiskImage"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.DiskImages.SparseDiskImage"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.DiskImages.UDIFDiskImage"
+[[]]
+id = "com.apple.driver.DrizzlePlatformSupport"
+[[]]
+id = "com.apple.driver.DrizzleSMC"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.DspFuncLib"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.FWPreferredProtocolSpeed"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.IO80211NetBooter"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.IOBluetoothHIDDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.IOBluetoothHostControllerPCIeTransport"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.IOFireWireSerialBusProtocolSansPhysicalUnit"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.IOImageLoader"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.IOPlatformPluginFamily"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.IOPlatformPluginLegacy"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.IOSlaveProcessor"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.Intel82574LEthernet"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.KernelRelayHost"
+[[]]
+id = "com.apple.driver.KernelRelayTesterHost"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.LSI_FW_500"
+[[]]
+id = "com.apple.driver.LuaHardwareAccess"
+[[]]
+id = "com.apple.driver.MEDetect"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.MKE_LF_D211A"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.MKE_SR_8171"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.NVSMU"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.Oxford_Semi"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.PioneerSuperDrive"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.PlasmonUDO"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.QPSQueFire"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.SMCMotionSensor"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.SanyoIDShot"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.StorageLynx"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.VMPlatformPlugin"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.WriteProtectedMediaDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.X86PlatformPlugin"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.X86PlatformShim"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.corecapture"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.driverkit.serial"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.eficheck"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.iPodDriver"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.iPodSBCDriver"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.initioFWBridge"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.mDNSOffloadUserClient"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.pmtelemetry"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBCommon"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBEHCI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBEHCIPCI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBHostBillboardDevice"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBHostCompositeDevice"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBHostPacketFilter"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBHub"
+[[]]
+id = "com.apple.driver.usb.AppleUSBKDP"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBOHCI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBOHCIPCI"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBOpticalMouse"
+[[]]
+id = "com.apple.driver.usb.AppleUSBRecoveryHost"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBUHCI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBUHCIPCI"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBUserHCI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBVHCI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBVHCIBCE"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBVHCICommon"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBVHCICommonBCE"
+[[]]
+id = "com.apple.driver.usb.AppleUSBVHCIRSM"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBXHCI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBXHCIPCI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.AppleUSBiBridge"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.IOUSBHostHIDDevice"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.cdc"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.usb.cdc.acm"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.usb.cdc.dmm"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.cdc.ecm"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.usb.cdc.eem"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.cdc.ncm"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.usb.cdc.wcm"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.ethernet.asix"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.networking"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.usb.realtek8153patcher"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.driver.usb.serial"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.driver.watchdog"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.acfs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.acfsctl"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.afpfs"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.filesystems.apfs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.autofs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.cd9660"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.cddafs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.exfat"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.filesystems.hfs.encodings.kext"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.filesystems.hfs.kext"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.filesystems.lifs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.msdosfs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.ntfs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.smbfs"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.filesystems.tmpfs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.udf"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.filesystems.webdav"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.fileutil"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.fsplaceholder"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.AppleBCM5701Ethernet"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.BroadcomBluetooth20703USBTransport"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.BroadcomBluetoothHostControllerUSBTransport"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.CSRBluetoothHostControllerUSBTransport"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.CoreAnalyticsFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.EndpointSecurity"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IO80211Family"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IO80211FamilyLegacy"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOACPIFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOAHCIBlockStorage"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOAHCIFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOAHCISerialATAPI"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOATABlockStorage"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOATAFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOATAPIProtocolTransport"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOAVBFamily"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOAcceleratorFamily2"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOAudioFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOBDStorageFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOBluetoothFamily"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOBluetoothHostControllerTransport"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOBluetoothHostControllerUARTTransport"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOBluetoothHostControllerUSBTransport"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOBluetoothPacketLogger"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOBluetoothSerialManager"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOBufferCopyController"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOBufferCopyEngineFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOCDStorageFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IODVDStorageFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOEthernetAVBController"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOFireWireAVC"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOFireWireFamily"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOFireWireSBP2"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOFireWireSerialBusProtocolTransport"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOGPUFamily"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOGraphicsFamily"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOHDAFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOHIDFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOKitRegistryCompatibility"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IONDRVSupport"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IONVMeFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IONetworkingFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOPCIFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOReportFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOSCSIArchitectureModelFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOSCSIBlockCommandsDevice"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOSCSIMultimediaCommandsDevice"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOSCSIParallelFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOSCSIReducedBlockCommandsDevice"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOSMBusFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOSerialFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOSkywalkFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOSlowAdaptiveClockingFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOStorageFamily"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOStreamFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOSurface"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOThunderboltFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOTimeSyncFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOUSBFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOUSBHIDDriver"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOUSBHIDDriverPM"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOUSBHostFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOUSBMassStorageDriver"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.IOUSBUserClient"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOUserEthernet"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.iokit.IOVideoFamily"
+[[]]
+id = "com.apple.iokit.RUSBHostFamily"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.iokit.SCSITaskUserClient"
+[[]]
+id = "com.apple.iokit.fipscavs-kext-tool"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.kec.AppleEncryptedArchive"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.kec.Libm"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.kec.corecrypto"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.kec.pthread"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.kernel"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMD10000Controller"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMD7000Controller"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMD8000Controller"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMD9000Controller"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMD9500Controller"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDFramebuffer"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonServiceManager"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX4000"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX4000HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX4000HWServices"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX4030HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX4050HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX4070HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX4100HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX4200HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX4400HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX4700HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX5000"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX5000HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX5000HWServices"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX5100HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX5200HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX5400HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX5700HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX6000"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX6000Framebuffer"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX6000HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX6000HWServices"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX6100HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX6200HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX6300HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX6700HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX6800HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDRadeonX6810HWLibs"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.AMDSupport"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.kext.AppleMatch"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.kext.CoreTrust"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.HFS_MacCentralEurRoman"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.HFS_MacChineseSimp"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.HFS_MacChineseTrad"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.HFS_MacCyrillic"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.HFS_MacJapanese"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.HFS_MacKorean"
+[[]]
+id = "com.apple.kext.MojoKDP"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.OSvKernDSPLib"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.mcx.alr"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.kext.triggers"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.macos.driver.AppleUSBEthernetHost"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.nke.applicationfirewall"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.nke.asp_tcp"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.nke.l2tp"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.nke.ppp"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.nke.pppoe"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.nke.webcontentfilter"
+[[]]
+id = "com.apple.pae.driver.AppleQuaibridgePCIE"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.plugin.IOAVBControlPlugin"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.plugin.IOAVBDiscoveryPlugin"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.plugin.IOAVBStreamingPlugin"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.plugin.IOMRPPlugin"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.plugin.IOgPTPPlugin"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.private.KextAudit"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.security.AppleImage4"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.security.SecureRemotePassword"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.security.quarantine"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.apple.security.sandbox"
+[[]]
+collections = ["SystemKernelExtensions.kc"]
+id = "com.apple.vecLib.kext"
+[[]]
+collections = ["BootKernelExtensions.kc"]
+id = "com.promise.driver.stex"

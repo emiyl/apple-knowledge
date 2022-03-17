@@ -1,0 +1,160 @@
+
+[[properties]]
+name = "AlsH"
+[[properties]]
+contexts = ["base","mandev"]
+name = "appv"
+[[properties]]
+name = "arc#"
+[[properties]]
+description = "Baseband"
+name = "bbcl"
+[[properties]]
+description = "Baseband"
+name = "bbpc"
+[[properties]]
+description = "Baseband"
+name = "bbpv"
+[[properties]]
+description = "Bluetooth MAC Address"
+name = "BMac"
+[[properties]]
+description = "Board ID"
+name = "BORD"
+[[properties]]
+name = "CmCl"
+[[properties]]
+contexts = ["base","mansta"]
+name = "dCfg"
+[[properties]]
+description = "bputil certificate from BAA Certification / Basic Attestation User Sub CA2 seems related to \"key recovery assistant\" as this is device level so for all iCloud users (KeyRecoveryAssistant_dcrt_baa_request/response)"
+name = "dcrt"
+[[properties]]
+name = "drp#"
+[[properties]]
+description = "eSIM Embedded ID (EID)"
+name = "eeid"
+[[properties]]
+contexts = ["base","mandev","mansta"]
+name = "fCfg"
+[[properties]]
+contexts = ["mandev","mansta"]
+name = "FSCl"
+[[properties]]
+name = "GpC2"
+[[properties]]
+contexts = ["base","mansta"]
+name = "HmCA"
+[[properties]]
+name = "HmCl"
+[[properties]]
+contexts = ["base","mandev","mansta"]
+name = "hop0"
+[[properties]]
+name = "IfCl"
+[[properties]]
+description = "International Mobile Equipment Identifier 2"
+name = "ime2"
+[[properties]]
+description = "International Mobile Equipment Identifier"
+name = "imei"
+[[properties]]
+name = "jlex"
+[[properties]]
+name = "jlin"
+[[properties]]
+name = "jlnl"
+[[properties]]
+name = "jlnm"
+[[properties]]
+name = "jlnv"
+[[properties]]
+name = "jlpq"
+[[properties]]
+name = "jlps"
+[[properties]]
+name = "jlsk"
+[[properties]]
+contexts = ["base","mansta"]
+name = "lcrt"
+[[properties]]
+description = "Mobile Equipment Identifier (CMDA)"
+name = "meid"
+[[properties]]
+description = "Main Logic Board Serial Number"
+name = "mlb#"
+[[properties]]
+name = "nuid"
+[[properties]]
+contexts = ["mandev","mansta"]
+name = "NvMR"
+[[properties]]
+name = "pbas"
+[[properties]]
+name = "pcic"
+[[properties]]
+name = "pcii"
+[[properties]]
+contexts = ["base"]
+name = "pcrt"
+[[properties]]
+name = "pcvc"
+[[properties]]
+name = "pcve"
+[[properties]]
+name = "pcvi"
+[[properties]]
+name = "pdcl"
+[[properties]]
+name = "pmpc"
+[[properties]]
+name = "prf1"
+[[properties]]
+name = "prf2"
+[[properties]]
+name = "psd1"
+[[properties]]
+name = "psd2"
+[[properties]]
+name = "psnv"
+[[properties]]
+name = "pspc"
+[[properties]]
+name = "pwcl"
+[[properties]]
+name = "rcrt"
+[[properties]]
+name = "rMCl"
+[[properties]]
+name = "rSCl"
+[[properties]]
+contexts = ["base"]
+name = "scrt"
+[[properties]]
+description = "Security Domain"
+name = "SDOM"
+[[properties]]
+contexts = ["base"]
+name = "seal"
+[[properties]]
+description = "Secure Element ID (for NFC / Payments)"
+name = "seid"
+[[properties]]
+name = "ShMC"
+[[properties]]
+name = "ShSC"
+[[properties]]
+description = "Serial Number"
+name = "SrNm"
+[[properties]]
+contexts = ["mansta"]
+name = "tCfg"
+[[properties]]
+name = "tcrt"
+[[properties]]
+name = "tsid"
+[[properties]]
+name = "vcrt"
+[[properties]]
+description = "Wireless MAC Address"
+name = "WMac"

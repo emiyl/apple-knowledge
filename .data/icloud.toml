@@ -1,0 +1,13 @@
+
+[[servies]]
+service = "com.apple.madrid"
+[[servies]]
+service = "com.apple.private.alloy.multiplex1"
+[[servies]]
+service = "com.apple.ess"
+[[topics]]
+topic = "com.apple.icloud-container.com.apple.SafariShared.Setttings"
+[[topics]]
+topic = "com.apple.icloud-container.com.apple.SafariShared.CloudTabs"
+[[topics]]
+topic = "com.apple.icloud-container.com.apple.SafariShared.WBSCloudBookmarksStore"

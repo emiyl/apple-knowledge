@@ -1,0 +1,53 @@
+
+[[pmu_errors]]
+name = "rst"
+[[pmu_errors]]
+description = "watchdog timer"
+name = "wdog"
+[[pmu_errors]]
+name = "timeout,dblclick_timeout"
+[[pmu_errors]]
+name = "sochot,reset_in_3"
+[[pmu_errors]]
+name = "sstate,wallet_crash_seq"
+[[pmu_errors]]
+description = "power-on reset"
+name = "por"
+[[pmu_errors]]
+name = "otp_crc"
+[[pmu_errors]]
+name = "uv,vddmain_uvlo_hold"
+[[pmu_errors]]
+name = "sochot,reset_in_3"
+[[pmu_errors]]
+name = "ot,overtemp"
+[[pmu_errors]]
+name = "timeout,watchdog_timeout"
+[[pmu_errors]]
+description = "under-voltage"
+name = "uv,vddmain_uvlo"
+[[pmu_errors]]
+description = "over-voltage"
+name = "ov,vddmain_ovlo"
+[[pmu_errors]]
+name = "btn_shdn"
+[[pmu_errors]]
+name = "sstate,btn_dfu_recover"
+[[pmu_errors]]
+name = "btn_rst,two_finger_rst"
+[[pmu_errors]]
+name = "uv,vdd_boost_uvlo"
+[[pmu_errors]]
+name = "crash,crash_in"
+[[pmu_errors]]
+name = "btn_rst,btn_seq_reset"
+[[pmu_errors]]
+name = "spmi,spmi_fault"
+[[pmu_errors]]
+name = "wdog,reset_in_1"
+[[pmu_errors]]
+name = "dbg_rst,reset_in_2"
+[[pmu_errors]]
+name = "ntc_shdn"
+[[pmu_errors]]
+name = "timeout,dblclick_timeout"

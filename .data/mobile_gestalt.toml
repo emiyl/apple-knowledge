@@ -1,0 +1,1834 @@
+
+[[known_keys]]
+obfuscated = "NXJOYK7VhNn7ugbF2kx0zg"
+question = "3GProximityCapability"
+[[known_keys]]
+obfuscated = "DGBWzPMdVuqPxgH7iSz3SA"
+question = "3Gvenice"
+[[known_keys]]
+obfuscated = "V2Ykm/0M3CA6nyNhwNInsg"
+question = "64-bit"
+[[known_keys]]
+obfuscated = "Lg1EJX11Jb7EbveB6+YgVQ"
+question = "720p"
+[[known_keys]]
+obfuscated = "39ZkJVEsL4pmCXbg+89QmQ"
+question = "accelerometer"
+[[known_keys]]
+obfuscated = "16N2bLOzcgJEsZToEX21Zg"
+question = "accessibility"
+[[known_keys]]
+obfuscated = "zP3kBA1Biwz2d6PTIIbmUQ"
+question = "ActivationProtocol"
+[[known_keys]]
+obfuscated = "Eavu9TP+iZ0Lzlk7FU6w6Q"
+question = "ActiveWirelessTechnology"
+[[known_keys]]
+obfuscated = "6k70IxahfOQTZbGwu++QwA"
+question = "additional-text-tones"
+[[known_keys]]
+obfuscated = "JLP/IinyzetEPztvoNUNKg"
+question = "AggregateDevicePhotoZoomFactor"
+[[known_keys]]
+obfuscated = "IweaHIDpz+rknAcb3+xg9g"
+question = "AggregateDeviceVideoZoomFactor"
+[[known_keys]]
+obfuscated = "IBqcPacFMPIX8HMWob444A"
+question = "AirDropCapability"
+[[known_keys]]
+obfuscated = "/bSMNaIuUT58N/BN1nYUjw"
+question = "airDropRestriction"
+[[known_keys]]
+obfuscated = "l/n0Z7pMB8k0GyTKz3v3Tw"
+question = "AirplaneMode"
+[[known_keys]]
+obfuscated = "yMmSdMRKEHRTCQ72ltCH1w"
+question = "airplay-mirroring"
+[[known_keys]]
+obfuscated = "QGmb9t2ZMFVwOImO6fewgQ"
+question = "all-features"
+[[known_keys]]
+obfuscated = "ibhfX8FQ6b809N632Ey98g"
+question = "Allow32BitApps"
+[[known_keys]]
+obfuscated = "Ex6ChutQnIx5Zm6c5uwYuw"
+question = "AllowOnlyATVCPSDKApps"
+[[known_keys]]
+obfuscated = "7l0BaQsNxJCanoeHMJ2huA"
+question = "AllowYouTube"
+[[known_keys]]
+obfuscated = "MTa8c+pEdbK0tHGXP06xOw"
+question = "AllowYouTubePlugin"
+[[known_keys]]
+obfuscated = "lo3szoQ4sLy7o3+ZD0GcAQ"
+question = "ambient-light-sensor"
+[[known_keys]]
+obfuscated = "UCLOC2TKe3vRkId34ubKWw"
+question = "AmbientLightSensorSerialNumber"
+[[known_keys]]
+obfuscated = "NrXe/KHDNhJ4r2SC2bMQyA"
+question = "any-telephony"
+[[known_keys]]
+obfuscated = "spGVujDEmyCzDznXozB3oA"
+question = "apn"
+[[known_keys]]
+obfuscated = "hykQtM0zkNe2/IY69+3PPQ"
+question = "ApNonce"
+[[known_keys]]
+obfuscated = "UcRWpMcvJDfLzn6utLj3XQ"
+question = "ApNonceRetrieve"
+[[known_keys]]
+obfuscated = "kkSkHTEei96N1ZehicOgoA"
+question = "AppCapacityTVOS"
+[[known_keys]]
+obfuscated = "EqrsVvjcYDdxHBiQmGhAWw"
+question = "apple-internal-install"
+[[known_keys]]
+obfuscated = "7yzVesPANxqKQ+oqNPhTwg"
+question = "applicationInstallation"
+[[known_keys]]
+obfuscated = "XEoV4os3FAUL7yHDxWmSMw"
+question = "AppStore"
+[[known_keys]]
+obfuscated = "KzUQgIyBRinkweVMNUCOWA"
+question = "ArcModuleSerialNumber"
+[[known_keys]]
+obfuscated = "67A3BpQkCRe1ihx0Me4lgg"
+question = "arkit"
+[[known_keys]]
+obfuscated = "kKgJsWN/rBUAkimOtm/wbA"
+question = "arm64"
+[[known_keys]]
+obfuscated = "g+9NpjmSVwtomd8nyNJimg"
+question = "armv6"
+[[known_keys]]
+obfuscated = "DWrhyh1BwYypYmW5q78Wuw"
+question = "armv7"
+[[known_keys]]
+obfuscated = "RYO2N0gqp5hHCik2TEiSVA"
+question = "armv7s"
+[[known_keys]]
+obfuscated = "oPeik/9e8lQWMszEjbPzng"
+question = "ArtworkTraits"
+[[known_keys]]
+obfuscated = "xOJfWykLmQCc8lKlzMlrLA"
+question = "assistant"
+[[known_keys]]
+obfuscated = "paR6NqTecAD44x45kzV87g"
+question = "AudioPlaybackCapability"
+[[known_keys]]
+obfuscated = "o0axLo6LGt8HbuEWdLZ92Q"
+question = "auto-focus-camera"
+[[known_keys]]
+obfuscated = "ILaGO+KV5JAOq7Q5GEwbWQ"
+question = "AvailableDisplayZoomSizes"
+[[known_keys]]
+obfuscated = "MWduuAGptrl7qIzWqBmOqQ"
+question = "AWDID"
+[[known_keys]]
+obfuscated = "XI87Zkcr5j1B/p2dom/B6A"
+question = "AWDLCapability"
+[[known_keys]]
+obfuscated = "1DQNgySZSIjPqLWroIzfiQ"
+question = "BacklightCapability"
+[[known_keys]]
+obfuscated = "HXTqT3UXOKuTEklxz+wMAA"
+question = "BasebandAPTimeSync"
+[[known_keys]]
+obfuscated = "ToJGxfcjkIerYyeL2e8c4A"
+question = "BasebandBoardSnum"
+[[known_keys]]
+obfuscated = "Q5QHkCRPRmiX3L/5xxKrRg"
+question = "BasebandCertId"
+[[known_keys]]
+obfuscated = "eNgz35a7iZnVeEMwsBQZew"
+question = "BasebandChipId"
+[[known_keys]]
+obfuscated = "pB5sZVvnp+QjZQtt2KfQvA"
+question = "BasebandChipset"
+[[known_keys]]
+obfuscated = "XQBHOWjPt2P+uNqlLm1P7A"
+question = "BasebandClass"
+[[known_keys]]
+obfuscated = "FkD7K642S082lnfw/ohHzg"
+question = "BasebandFirmwareManifestData"
+[[known_keys]]
+obfuscated = "Djv9tHz6MLdTUDjnkq0obQ"
+question = "BasebandFirmwareUpdateInfo"
+[[known_keys]]
+obfuscated = "PQzmRjKVMistuIVsqs6QXA"
+question = "BasebandFirmwareVersion"
+[[known_keys]]
+obfuscated = "H5HW20mJr/djc40tAehkww"
+question = "BasebandKeyHashInformation"
+[[known_keys]]
+obfuscated = "vaiFeAcMTIDXMSxTr8JwCw"
+question = "BasebandPostponementStatus"
+[[known_keys]]
+obfuscated = "YUobJKXH3+ukrUe13TXL3Q"
+question = "BasebandPostponementStatusBlob"
+[[known_keys]]
+obfuscated = "91LyMcx4z1w3SGVeqteMnA"
+question = "BasebandRegionSKU"
+[[known_keys]]
+obfuscated = "Z3gOHeppbL6+rblIe8H5Ag"
+question = "BasebandRegionSKURadioTechnology"
+[[known_keys]]
+obfuscated = "EImfMz+bzJrUkVQKyY6tEg"
+question = "BasebandSecurityInfoBlob"
+[[known_keys]]
+obfuscated = "Nmhz54v5ZLqj2I4NPFIFqQ"
+question = "BasebandSerialNumber"
+[[known_keys]]
+obfuscated = "CN64p1hw1JVdTHCfBdgPLQ"
+question = "BasebandStatus"
+[[known_keys]]
+obfuscated = "vIccod02kDxScKF5s2h6OA"
+question = "BasebandUniqueId"
+[[known_keys]]
+obfuscated = "f2DlVMUVcV+MeWs/g2ku+g"
+question = "BatteryCurrentCapacity"
+[[known_keys]]
+obfuscated = "sLe8lqXRlqZM74MNUoVcyQ"
+question = "BatteryIsCharging"
+[[known_keys]]
+obfuscated = "jgE7MmmkZAG0BiWVqD7bMQ"
+question = "BatteryIsFullyCharged"
+[[known_keys]]
+obfuscated = "DcQNvnO5Uhpc1jjGIrzyng"
+question = "BatterySerialNumber"
+[[known_keys]]
+obfuscated = "mug/QuG6jZ3CYR9p7OWQaw"
+question = "bcm-window-type"
+[[known_keys]]
+obfuscated = "F1Xz9g1JORibBS9DYPUPrg"
+question = "BlueLightReductionSupported"
+[[known_keys]]
+obfuscated = "XSLlJd/8sMyXO0qtvvUTBQ"
+question = "bluetooth"
+[[known_keys]]
+obfuscated = "8/HMvzDR3J6m0aY3NYeqcg"
+question = "bluetooth-le"
+[[known_keys]]
+obfuscated = "k5lVWbXuiZHLA17KGiVUAA"
+question = "BluetoothAddress"
+[[known_keys]]
+obfuscated = "jSDzacs4RYWnWxn142UBLQ"
+question = "BluetoothAddressData"
+[[known_keys]]
+obfuscated = "0uthiXrHZ212KvcJizKHEw"
+question = "BoardId"
+[[known_keys]]
+obfuscated = "Qq9/Mya05P4ToEr1pMpGGg"
+question = "BootManifestHash"
+[[known_keys]]
+obfuscated = "1Rm/mWYEI5ttaC0dJ3sHBQ"
+question = "BootNonce"
+[[known_keys]]
+obfuscated = "GxXmRWHjsY5yAVhMfCH6Lg"
+question = "BridgeBuild"
+[[known_keys]]
+obfuscated = "Glo+aTkt0Uw31BghCxnsyQ"
+question = "BridgeRestoreVersion"
+[[known_keys]]
+obfuscated = "z+5gEULGC7aEYopBd4ggpA"
+question = "BuddyLanguagesAnimationRequiresOptimization"
+[[known_keys]]
+obfuscated = "qwXfFvH5jPXPxrny0XuGtQ"
+question = "BuildID"
+[[known_keys]]
+obfuscated = "mZfUC7qo4pURNhyMHZ62RQ"
+question = "BuildVersion"
+[[known_keys]]
+obfuscated = "tdUWKiiM7JdctnzQuvaVVA"
+question = "c2k-device"
+[[known_keys]]
+obfuscated = "57eLnXynqDlQaGEi+9JAtQ"
+question = "call-forwarding"
+[[known_keys]]
+obfuscated = "eXCYx/SHTZIn5LInWvZByw"
+question = "call-waiting"
+[[known_keys]]
+obfuscated = "tad3RCjcWdkyLSVI8kUBtA"
+question = "caller-id"
+[[known_keys]]
+obfuscated = "jdLgKT+0BZmGrzd9J0cuPA"
+question = "camera-flash"
+[[known_keys]]
+obfuscated = "drPpRw0Jmqcxv1XQPn/q/Q"
+question = "CameraFrontFlashCapability"
+[[known_keys]]
+obfuscated = "cWWKdUn+rIclZ60ZGAVhBw"
+question = "CameraHDR2Capability"
+[[known_keys]]
+obfuscated = "03hWmMtMs+4nzama4/PzHQ"
+question = "CameraLiveEffectsCapability"
+[[known_keys]]
+obfuscated = "gBw7IWiBnLHaA+lBrZBgWw"
+question = "CameraMaxBurstLength"
+[[known_keys]]
+obfuscated = "2pxKjejpRGpWvUE+3yp5mQ"
+question = "cameraRestriction"
+[[known_keys]]
+obfuscated = "475wW3fne+tyzGr4wleUSQ"
+question = "CarrierBundleInfoArray"
+[[known_keys]]
+obfuscated = "9n2qz3uDC5nSe1xZG1/Bkw"
+question = "CarrierInstallCapability"
+[[known_keys]]
+obfuscated = "CN/XFuy/9Fdv0yE+28kwRQ"
+question = "cell-broadcast"
+[[known_keys]]
+obfuscated = "L5al7b+7JATD/izSJeH0aQ"
+question = "cellular-data"
+[[known_keys]]
+obfuscated = "ebyBs0j3KAquBsgcfrNZIg"
+question = "CellularTelephonyCapability"
+[[known_keys]]
+obfuscated = "uO3aPe7lfB1XxSiz/1xBvA"
+question = "CertificateProductionStatus"
+[[known_keys]]
+obfuscated = "eg8KDO//lXaLwp+URGP6DA"
+question = "CertificateSecurityMode"
+[[known_keys]]
+obfuscated = "566JrJVMlDfnslGpwUzNlQ"
+question = "ChipID"
+[[known_keys]]
+obfuscated = "8OTc3mN30ACaEwecgpKfXA"
+question = "CloudPhotoLibraryCapability"
+[[known_keys]]
+obfuscated = "diS7AlmwFZz6NyF7CY97sA"
+question = "CoastlineGlowRenderingCapability"
+[[known_keys]]
+obfuscated = "qb//mYg6KeTmjv8w4ZAMIg"
+question = "CompassCalibration"
+[[known_keys]]
+obfuscated = "aoAKcHLuTUp/o3squcJkhA"
+question = "CompassCalibrationDictionary"
+[[known_keys]]
+obfuscated = "meLhyIpGgxiQoFZD/OGPcQ"
+question = "CompassType"
+[[known_keys]]
+obfuscated = "v5YVEwERRin1v+reUNjJ5w"
+question = "ComputerName"
+[[known_keys]]
+obfuscated = "SmUPjD77AHIMCLny9nawdw"
+question = "ConfigNumber"
+[[known_keys]]
+obfuscated = "yRZv0s7Dpj8ZBk0S+0+nMA"
+question = "contains-cellular-radio"
+[[known_keys]]
+obfuscated = "y0jtYciPmcx3ywPM582WZw"
+question = "ContinuityCapability"
+[[known_keys]]
+obfuscated = "g7vU4YF+9Z+wkSvw/Cm8Dg"
+question = "CoreRoutineCapability"
+[[known_keys]]
+obfuscated = "OWi11Urd09rDmPVy1z5dOQ"
+question = "CoverglassSerialNumber"
+[[known_keys]]
+obfuscated = "k7QIBwZJJOVw+Sej/8h8VA"
+question = "CPUArchitecture"
+[[known_keys]]
+obfuscated = "AWEfP3xWh0q1MjO3JAy/AA"
+question = "CPUSubType"
+[[known_keys]]
+obfuscated = "xZm4Ky2/qswyf7ykvlchYg"
+question = "CPUType"
+[[known_keys]]
+obfuscated = "KGlZoljMyZQSxfhROj0IFg"
+question = "data-plan"
+[[known_keys]]
+obfuscated = "DrSqlXYNVfYXCvAsuUrUDA"
+question = "DebugBoardRevision"
+[[known_keys]]
+obfuscated = "Mh+drGtyBfLYKN02sROzxg"
+question = "delay-sleep-for-headset-click"
+[[known_keys]]
+obfuscated = "OWLyWlUOIkl+eQB7Iq37xQ"
+question = "DesenseBuild"
+[[known_keys]]
+obfuscated = "JUWcn+5Ss0nvr5w/jk4WEg"
+question = "device-name"
+[[known_keys]]
+obfuscated = "+VIu65zA5EW4ztayJXvOUg"
+question = "device-name-localized"
+[[known_keys]]
+obfuscated = "M+WPVivF4iTnm1CC8c6h+A"
+question = "DeviceAlwaysPrewarmActuator"
+[[known_keys]]
+obfuscated = "bUJD9zcOcitJwFA0ieIkxA"
+question = "DeviceBackGlassMaterial"
+[[known_keys]]
+obfuscated = "CJcvxERO5v/3IWjDFKZKRw"
+question = "DeviceBackingColor"
+[[known_keys]]
+obfuscated = "fuKL2rMywRgQF1wowOA/cg"
+question = "DeviceBrand"
+[[known_keys]]
+obfuscated = "+3Uf0Pm5F8Xy7Onyvko0vA"
+question = "DeviceClass"
+[[known_keys]]
+obfuscated = "mtrAoWJ3gsq+I90ZnQ0vQw"
+question = "DeviceClassNumber"
+[[known_keys]]
+obfuscated = "mumHZHMLEfAuTkkd28fHlQ"
+question = "DeviceColor"
+[[known_keys]]
+obfuscated = "87sSAh2rboMI2TDvFBimkg"
+question = "DeviceColorMapPolicy"
+[[known_keys]]
+obfuscated = "y5dppxx/LzxoNuW+iIKR3g"
+question = "DeviceCornerRadius"
+[[known_keys]]
+obfuscated = "9N7qIucqhr0Cy2/Tk27/hw"
+question = "DeviceCoverGlassColor"
+[[known_keys]]
+obfuscated = "gnQwi8RnEeMG9qBe3IUKrg"
+question = "DeviceCoverGlassMaterial"
+[[known_keys]]
+obfuscated = "iaegRQa4jNGOuTA6hnZmcQ"
+question = "DeviceCoverMaterial"
+[[known_keys]]
+obfuscated = "JhEU414EIaDvAz8ki5DSqw"
+question = "DeviceEnclosureColor"
+[[known_keys]]
+obfuscated = "AtmPEO/j+Pdr8+WKxv4Aaw"
+question = "DeviceEnclosureMaterial"
+[[known_keys]]
+obfuscated = "TXZxlSojLMQyLqusm9aa/g"
+question = "DeviceEnclosureRGBColor"
+[[known_keys]]
+obfuscated = "0/VAyl58TL5U/mAQEJNRQw"
+question = "DeviceHasAggregateCamera"
+[[known_keys]]
+obfuscated = "NJsxTSI2WuD+13rxShXX9w"
+question = "DeviceHousingColor"
+[[known_keys]]
+obfuscated = "emXA9B552rnSoI7xXE91DA"
+question = "DeviceLaunchTimeLimitScale"
+[[known_keys]]
+obfuscated = "rkqlwPcRHwixY4gapPjanw"
+question = "DeviceName"
+[[known_keys]]
+obfuscated = "xbNo7dj2oAnz92JhEOn9tw"
+question = "DevicePrefers3DBuildingStrokes"
+[[known_keys]]
+obfuscated = "QFnvO2shAYI+d4bj3qXuFQ"
+question = "DevicePrefersBuildingStrokes"
+[[known_keys]]
+obfuscated = "7D54DikSnFQnbDEBwlKQTQ"
+question = "DevicePrefersCheapTrafficShaders"
+[[known_keys]]
+obfuscated = "bysMryc4yLwQjKvUQGGXXQ"
+question = "DevicePrefersProceduralAntiAliasing"
+[[known_keys]]
+obfuscated = "0VkTunHOJrrZdolQXR5gCg"
+question = "DevicePrefersTrafficAlpha"
+[[known_keys]]
+obfuscated = "82Ono2SP03rNGkhOc5O1Mw"
+question = "DeviceRequiresPetalOptimization"
+[[known_keys]]
+obfuscated = "r5QUsvvgcb2Qmuflua13fQ"
+question = "DeviceRequiresProximityAmeliorations"
+[[known_keys]]
+obfuscated = "2Qf/8sQyx6voo3Mw3QKgZQ"
+question = "DeviceRequiresSoftwareBrightnessCalculations"
+[[known_keys]]
+obfuscated = "8/tysfSvORoyVg9IE901oQ"
+question = "DeviceRGBColor"
+[[known_keys]]
+obfuscated = "QbQzuIbef01P4JeoL9EmKg"
+question = "DeviceSceneUpdateTimeLimitScale"
+[[known_keys]]
+obfuscated = "wtUF1NceYeLT6IHovZvocw"
+question = "DeviceSubBrand"
+[[known_keys]]
+obfuscated = "Mk4ZslaChmO+6s3h7L1w6Q"
+question = "DeviceSupports1080p"
+[[known_keys]]
+obfuscated = "ohnQBWkVQf2nu9Vr/9uLug"
+question = "DeviceSupports3DImagery"
+[[known_keys]]
+obfuscated = "HIaq6xVZ/V8B9pnigcvqCA"
+question = "DeviceSupports3DMaps"
+[[known_keys]]
+obfuscated = "eu8pUYR7yo+AlS9aojlgwg"
+question = "DeviceSupports4G"
+[[known_keys]]
+obfuscated = "Fh2Ga0/Sj4T3Qn5Z9A9BMw"
+question = "DeviceSupports4k"
+[[known_keys]]
+obfuscated = "lwHRTZNO5Jq87pVlzdNGIA"
+question = "DeviceSupports720p"
+[[known_keys]]
+obfuscated = "qWGVjnlN/wWMhlWgfNcSBg"
+question = "DeviceSupports9Pin"
+[[known_keys]]
+obfuscated = "whbsdxpLirBFgUbLH3+0JA"
+question = "DeviceSupportsAdaptiveMapsUI"
+[[known_keys]]
+obfuscated = "U+73bmG4kBGj6kpreQXUTQ"
+question = "DeviceSupportsAlwaysListening"
+[[known_keys]]
+obfuscated = "aCQx2Qq/TChnNAq1rr6Egw"
+question = "DeviceSupportsAlwaysOnCompass"
+[[known_keys]]
+obfuscated = "HHF6YgqEQ9Kd7MBSVnLsgg"
+question = "DeviceSupportsAOP"
+[[known_keys]]
+obfuscated = "yhHcB0iH0d1XzPO/CFd3ow"
+question = "DeviceSupportsApplePencil"
+[[known_keys]]
+obfuscated = "ji56BO1mUeT7Qg9RO7Er9w"
+question = "DeviceSupportsASTC"
+[[known_keys]]
+obfuscated = "AX/UKxSHwm+OuFRIdvNAfg"
+question = "DeviceSupportsAutoLowLightVideo"
+[[known_keys]]
+obfuscated = "D6/BMDrlb8V3WSiqL8gL+w"
+question = "DeviceSupportsBatteryModuleAuthentication"
+[[known_keys]]
+obfuscated = "wNdWl5xfBJmJGNWJr5t0zA"
+question = "DeviceSupportsBerkelium2"
+[[known_keys]]
+obfuscated = "gQDt76Te0SPw7N8oTLrBFw"
+question = "DeviceSupportsCameraCaptureOnTouchDown"
+[[known_keys]]
+obfuscated = "XriAxQ+JY1z5nt5f3ftXVw"
+question = "DeviceSupportsCameraHaptics"
+[[known_keys]]
+obfuscated = "XFtUsQP3AyqT4CazSb5VCw"
+question = "DeviceSupportsCarIntegration"
+[[known_keys]]
+obfuscated = "L47fh6KehOmR+AseqK2Xsw"
+question = "DeviceSupportsCCK"
+[[known_keys]]
+obfuscated = "j1pdCAYnpIEYMqIAitm3JA"
+question = "DeviceSupportsCinnamon"
+[[known_keys]]
+obfuscated = "gqDnklGQnpv5ilgh5uHckw"
+question = "DeviceSupportsClosedLoopHaptics"
+[[known_keys]]
+obfuscated = "a/mex6YNO6gJ8N8SxAA71A"
+question = "DeviceSupportsCrudeProx"
+[[known_keys]]
+obfuscated = "XkfGVYlrkBQJgaGabHESJQ"
+question = "DeviceSupportsDClr"
+[[known_keys]]
+obfuscated = "Kq9K9xqDoUiUP7JEfg+pNw"
+question = "DeviceSupportsDoNotDisturbWhileDriving"
+[[known_keys]]
+obfuscated = "awim/yUQvLyTrKsoKhg2bA"
+question = "DeviceSupportsELabel"
+[[known_keys]]
+obfuscated = "kyszW/uUGJFTVNQwFaf6og"
+question = "DeviceSupportsEnhancedAC3"
+[[known_keys]]
+obfuscated = "nK4D+jDUuTGFFwRFPC2lWg"
+question = "DeviceSupportsFloorCounting"
+[[known_keys]]
+obfuscated = "cBy4BcYs5YWtFHbBpt4C6A"
+question = "DeviceSupportsHaptics"
+[[known_keys]]
+obfuscated = "V9pLLbPQhyb75bbdTioZVw"
+question = "DeviceSupportsHardwareDetents"
+[[known_keys]]
+obfuscated = "H+r3Nk8ByXIY9ub/M8broA"
+question = "DeviceSupportsHeartHealthAlerts"
+[[known_keys]]
+obfuscated = "/Oajtq8qODrC4XBBOULF3A"
+question = "DeviceSupportsHeartRateVariability"
+[[known_keys]]
+obfuscated = "MjqwTHDneTCNeqhZ7vCvUw"
+question = "DeviceSupportsHiResBuildings"
+[[known_keys]]
+obfuscated = "Mgwtle8wzQEz/0vzBk47FQ"
+question = "DeviceSupportsLineIn"
+[[known_keys]]
+obfuscated = "XxnEk9uiIk5vCdbWEGt7lA"
+question = "DeviceSupportsLiquidDetection_CorrosionMitigation"
+[[known_keys]]
+obfuscated = "pQzfsK0Ado+nkNFgPRIA8Q"
+question = "DeviceSupportsLivePhotoAuto"
+[[known_keys]]
+obfuscated = "5y8gwXr/HXkhryza4xQeFg"
+question = "DeviceSupportsMapsBlurredUI"
+[[known_keys]]
+obfuscated = "ee9YfVjjsbVte45bYSt4Wg"
+question = "DeviceSupportsNavigation"
+[[known_keys]]
+obfuscated = "nAl8QWlApaJQkipRf38fdg"
+question = "DeviceSupportsNewton"
+[[known_keys]]
+obfuscated = "ik8OQ5JoYhyK8AoTx29MuA"
+question = "DeviceSupportsOnDemandPhotoAnalysis"
+[[known_keys]]
+obfuscated = "1eBwtCIwbIDdC80wiyzfow"
+question = "DeviceSupportsP3ColorspaceVideoRecording"
+[[known_keys]]
+obfuscated = "Leuy56dCZmAMYoVCQGTfPA"
+question = "DeviceSupportsPeriodicALSUpdates"
+[[known_keys]]
+obfuscated = "m9ORTKMgu9A+zF+A61Zz5A"
+question = "DeviceSupportsPhotosLocalLight"
+[[known_keys]]
+obfuscated = "hewg+QX1h57eGJGphdCong"
+question = "DeviceSupportsPortraitLightEffectFilters"
+[[known_keys]]
+obfuscated = "4D8XW4YwJI7QvyPhv1TEdw"
+question = "DeviceSupportsRaiseToSpeak"
+[[known_keys]]
+obfuscated = "hOkus/A6lBEF6Ar3jV7LrQ"
+question = "DeviceSupportsRGB10"
+[[known_keys]]
+obfuscated = "q69vauqK9djnPlEZBFBV4A"
+question = "DeviceSupportsSiDP"
+[[known_keys]]
+obfuscated = "ChBMzkxYdT9Xmw3QN5kMWA"
+question = "DeviceSupportsSimplisticRoadMesh"
+[[known_keys]]
+obfuscated = "FymLPtOEy6FdE7TmKeoTdg"
+question = "DeviceSupportsSingleCameraPortrait"
+[[known_keys]]
+obfuscated = "PTQ+ABwag03BwO/CKvIK/A"
+question = "DeviceSupportsSiriSpeaks"
+[[known_keys]]
+obfuscated = "YlK+0xmxNWhNn/+r8SM8kA"
+question = "DeviceSupportsStereoAudioRecording"
+[[known_keys]]
+obfuscated = "oLjiDs+BWEdMVbjE0x6cnw"
+question = "DeviceSupportsStudioLightPortraitPreview"
+[[known_keys]]
+obfuscated = "cRjPy4Ef+KZwJ+nfPeBV5Q"
+question = "DeviceSupportsSwimmingWorkouts"
+[[known_keys]]
+obfuscated = "yZf3GTRMGTuwSV/lD7Cagw"
+question = "DeviceSupportsTapToWake"
+[[known_keys]]
+obfuscated = "YiUtBQygkHRhLcdO3LFB4A"
+question = "DeviceSupportsTelephonyOverUSB"
+[[known_keys]]
+obfuscated = "xSh3mf5+Zuoz6xhxEah0zQ"
+question = "DeviceSupportsTethering"
+[[known_keys]]
+obfuscated = "Lcu6Zck+C/+AMO8qULacDw"
+question = "DeviceSupportsToneMapping"
+[[known_keys]]
+obfuscated = "sJmYs82RucA1MWX5jHFSjA"
+question = "DeviceSupportsWebkit"
+[[known_keys]]
+obfuscated = "v2Q3tLoD4+o/XazHC/0FyA"
+question = "DeviceSupportsYCbCr10"
+[[known_keys]]
+obfuscated = "SvI9oDkzw4XJFd+dKen/2Q"
+question = "DeviceVariant"
+[[known_keys]]
+obfuscated = "IMLaTlxS7ITtwfbRfPYWuA"
+question = "DeviceVariantGuess"
+[[known_keys]]
+obfuscated = "67x5O+zO+JwnGgmKlq+qdA"
+question = "DiagData"
+[[known_keys]]
+obfuscated = "1uZbhSbBhsNCsVSsopZ4qg"
+question = "dictation"
+[[known_keys]]
+obfuscated = "Z/TJS0IaLyq10dcSvUTGPg"
+question = "DieId"
+[[known_keys]]
+obfuscated = "uyejyEdaxNWSRQQwHmXz1A"
+question = "DiskUsage"
+[[known_keys]]
+obfuscated = "iFOX66VmcijipO3YRc+AXg"
+question = "display-mirroring"
+[[known_keys]]
+obfuscated = "vl45ziHlkqzh1Yt6+M9vBA"
+question = "displayport"
+[[known_keys]]
+obfuscated = "ZEF0po63sTgpVrc9Ce7YNQ"
+question = "DMin"
+[[known_keys]]
+obfuscated = "jkr5aFPOh/d6zTzNKYthBw"
+question = "DualSIMActivationPolicyCapable"
+[[known_keys]]
+obfuscated = "AQiIpW0UeYQKnhy2da7AXg"
+question = "EffectiveProductionStatusAp"
+[[known_keys]]
+obfuscated = "PNexcW/LBlPgAm+Skp2EAg"
+question = "EffectiveProductionStatusSEP"
+[[known_keys]]
+obfuscated = "vENa/R1xAXLobl8r3PBL6w"
+question = "EffectiveSecurityModeAp"
+[[known_keys]]
+obfuscated = "QJSuJ2zhdxYX/7DUA2JtUw"
+question = "EffectiveSecurityModeSEP"
+[[known_keys]]
+obfuscated = "yeQy+rgNoD7+YIY6mSVOhg"
+question = "enc-bot-type"
+[[known_keys]]
+obfuscated = "UF3CoK9RCYXfTyzttoxNDQ"
+question = "enc-top-type"
+[[known_keys]]
+obfuscated = "fqNtLlgbYfa9gSNrhg7VGQ"
+question = "encode-aac"
+[[known_keys]]
+obfuscated = "i8+iwUtLtB5jT+WNvqwrEA"
+question = "encrypted-data-partition"
+[[known_keys]]
+obfuscated = "Js8HVdVGRs8m5v94pMjkRw"
+question = "enforce-googlemail"
+[[known_keys]]
+obfuscated = "xJUG7IKySthRrPcxII184g"
+question = "enforce-shutter-click"
+[[known_keys]]
+obfuscated = "VG9TCKNqNLCHk0J6zTkuVQ"
+question = "EthernetMacAddress"
+[[known_keys]]
+obfuscated = "aOq/O8u9f/bpWUnKco+xgA"
+question = "EthernetMacAddressData"
+[[known_keys]]
+obfuscated = "qWG594bTi87edQCSYxlLeA"
+question = "EUICCChipID"
+[[known_keys]]
+obfuscated = "AthxlkPBk46HtzM9AxK9vg"
+question = "explicitContentRestriction"
+[[known_keys]]
+obfuscated = "NPzjaX07XnS4KcMZ+l8ymA"
+question = "ExternalChargeCapability"
+[[known_keys]]
+obfuscated = "na6PSBfq05lkAfWkwAwaGg"
+question = "ExternalPowerSourceConnected"
+[[known_keys]]
+obfuscated = "JXmZWYUbLoumvz7hu/GL0A"
+question = "FaceTimeBackCameraTemporalNoiseReductionMode"
+[[known_keys]]
+obfuscated = "Nhm02nvVOaQPimpOshlO1g"
+question = "FaceTimeBitRate2G"
+[[known_keys]]
+obfuscated = "1rf3rZXIZFgznqrHlPehuQ"
+question = "FaceTimeBitRate3G"
+[[known_keys]]
+obfuscated = "xunfK8NYNCS75N2z2buKWQ"
+question = "FaceTimeBitRateLTE"
+[[known_keys]]
+obfuscated = "h8xonkkn/NzDMvvCXLw8cQ"
+question = "FaceTimeBitRateWiFi"
+[[known_keys]]
+obfuscated = "J912s3mVzhReVtPv4HwqNQ"
+question = "FaceTimeCameraRequiresFastSwitchOptions"
+[[known_keys]]
+obfuscated = "Po0s2Vf6g2ZqymKGNLFxeQ"
+question = "FaceTimeCameraSupportsHardwareFaceDetection"
+[[known_keys]]
+obfuscated = "yl8qmYPdAhFLeDBho10sdQ"
+question = "FaceTimeDecodings"
+[[known_keys]]
+obfuscated = "BoNz1QXiAEUgic9RdMVLIg"
+question = "FaceTimeEncodings"
+[[known_keys]]
+obfuscated = "CK3I7fFGkgeqzKEhGew9rQ"
+question = "FaceTimeFrontCameraTemporalNoiseReductionMode"
+[[known_keys]]
+obfuscated = "4RgFi8v1sfuhCZhRdQkxxQ"
+question = "FaceTimePhotosOptIn"
+[[known_keys]]
+obfuscated = "APeknA55ZAcu0FcufqVN4Q"
+question = "FaceTimePreferredDecoding"
+[[known_keys]]
+obfuscated = "ct5Dh6u0D6WDJKg2PrMFVQ"
+question = "FaceTimePreferredEncoding"
+[[known_keys]]
+obfuscated = "ueuuYQk48HGWm/cJlHq/Dw"
+question = "fcc-logos-via-software"
+[[known_keys]]
+obfuscated = "sYxZdpH3i8nwjZNet0QuAw"
+question = "fcm-type"
+[[known_keys]]
+obfuscated = "VHTcx7WQq0V7YgGKZisRWA"
+question = "FDRSealingStatus"
+[[known_keys]]
+obfuscated = "VLfT+eziZYKNjRASM6ntnQ"
+question = "FirmwareNonce"
+[[known_keys]]
+obfuscated = "qOwiNS0eFEq9oi3MNsgxWg"
+question = "FirmwarePreflightInfo"
+[[known_keys]]
+obfuscated = "LeSRsiLoJCMhjn6nd6GWbQ"
+question = "FirmwareVersion"
+[[known_keys]]
+obfuscated = "NUYAz1eq3Flzt7ZQxXC/ng"
+question = "FirstPartyLaunchTimeLimitScale"
+[[known_keys]]
+obfuscated = "Y2Y67z0Nq/XdDXgW2EeaVg"
+question = "FMFAllowed"
+[[known_keys]]
+obfuscated = "H97G3GzDYb4wY5kwJ0AKfQ"
+question = "ForwardCameraCapability"
+[[known_keys]]
+obfuscated = "mAAbkChrX3bpxPIffHG1BQ"
+question = "front-facing-camera"
+[[known_keys]]
+obfuscated = "fv8ZXM/NhUHQBQqCSk19cA"
+question = "FrontFacingCameraAutoHDRCapability"
+[[known_keys]]
+obfuscated = "Ty5/C8UDfdjcdR853kulmA"
+question = "FrontFacingCameraBurstCapability"
+[[known_keys]]
+obfuscated = "7W2eNk/f6uewC8N58mlRrQ"
+question = "FrontFacingCameraHDRCapability"
+[[known_keys]]
+obfuscated = "HnHX0gXt8RvhMQzIVMM7hw"
+question = "FrontFacingCameraHDROnCapability"
+[[known_keys]]
+obfuscated = "1gsBzuZsXu2rXZJBE01M0w"
+question = "FrontFacingCameraHFRCapability"
+[[known_keys]]
+obfuscated = "ZeGw3VKUymUAbp4noKsxoQ"
+question = "FrontFacingCameraMaxVideoZoomFactor"
+[[known_keys]]
+obfuscated = "qlcdNkarcGLcbW3HvBhwaA"
+question = "FrontFacingCameraModuleSerialNumber"
+[[known_keys]]
+obfuscated = "TDM8SEI14n2KE9PGHO0a4A"
+question = "FrontFacingCameraStillDurationForBurst"
+[[known_keys]]
+obfuscated = "3yzXj0lJhQi+r3kgQlwiOg"
+question = "FrontFacingCameraVideoCapture1080pMaxFPS"
+[[known_keys]]
+obfuscated = "cux58RcuSiBhpxWnT3pE4A"
+question = "FrontFacingCameraVideoCapture4kMaxFPS"
+[[known_keys]]
+obfuscated = "0AFeHRmliNJ4pSlVb8ltZA"
+question = "FrontFacingCameraVideoCapture720pMaxFPS"
+[[known_keys]]
+obfuscated = "2kuITg6XPwXl8zbpx+hoCw"
+question = "FrontFacingIRCameraModuleSerialNumber"
+[[known_keys]]
+obfuscated = "wH7fRq4TDdYG2pN1KDQW/A"
+question = "FrontFacingIRStructuredLightProjectorModuleSerialNumber"
+[[known_keys]]
+obfuscated = "fW9C1U4C1FR8bwe1VqEWug"
+question = "full-6"
+[[known_keys]]
+obfuscated = "guykxGaRwHdenUK8fJRl8w"
+question = "gamekit"
+[[known_keys]]
+obfuscated = "FOs+LbLUs+TajsEE4xkbrw"
+question = "gas-gauge-battery"
+[[known_keys]]
+obfuscated = "ZiSlYxYSkyaYImU3lrSXWw"
+question = "gps"
+[[known_keys]]
+obfuscated = "iyfxmLogGVIaH7aEgqwcIA"
+question = "green-tea"
+[[known_keys]]
+obfuscated = "9s45ldrCC1WF+7b6C4H2BA"
+question = "GSDeviceName"
+[[known_keys]]
+obfuscated = "4+qmMh9JBDh72Nq6fD64RQ"
+question = "gyroscope"
+[[known_keys]]
+obfuscated = "SCNOHu+KqRX0xhIlj5KXaA"
+question = "H264EncoderCapability"
+[[known_keys]]
+obfuscated = "/Pop5T2XQdDA60MRyxQJdQ"
+question = "hall-effect-sensor"
+[[known_keys]]
+obfuscated = "/GK+yfRFY/b5ZDIDpdVImg"
+question = "hardware-keyboard"
+[[known_keys]]
+obfuscated = "5pYKlGnYYBzGvAlIU8RjEQ"
+question = "HardwarePlatform"
+[[known_keys]]
+obfuscated = "+N9mZUAHooNvMiQnjeTJ8g"
+question = "HasAppleNeuralEngine"
+[[known_keys]]
+obfuscated = "AJFQheZDyUbvI6RmBMT9Cg"
+question = "HasBaseband"
+[[known_keys]]
+obfuscated = "pX2TxZTxWKS7QSXZDC/Z6A"
+question = "HasBattery"
+[[known_keys]]
+obfuscated = "3m1Q0AXlqeA2C/LmqdTndQ"
+question = "HasDaliMode"
+[[known_keys]]
+obfuscated = "Aixt/MEN2O2B7f+8m4TxUA"
+question = "HasExtendedColorDisplay"
+[[known_keys]]
+obfuscated = "v9YZN998zL0OLA3q6SpPQA"
+question = "HasIcefall"
+[[known_keys]]
+obfuscated = "Oji6HRoPi7rH7HPdWVakuw"
+question = "HasInternalSettingsBundle"
+[[known_keys]]
+obfuscated = "HV7WDiidgMf7lwAu++Lk5w"
+question = "HasMesa"
+[[known_keys]]
+obfuscated = "fkWvcjYnYzGRhVKiBoYzgA"
+question = "HasPKA"
+[[known_keys]]
+obfuscated = "7DfjbzhvH/GDkhio1dv8fA"
+question = "HasSEP"
+[[known_keys]]
+obfuscated = "OBqqs000I0SR+EbJ7VO8UQ"
+question = "HasSpringBoard"
+[[known_keys]]
+obfuscated = "RA3I5nhSK65i1ZxkRxQKfg"
+question = "HasThinBezel"
+[[known_keys]]
+obfuscated = "6pjDdEw65TFyL1FmIdszXw"
+question = "hd-video-capture"
+[[known_keys]]
+obfuscated = "fh6DnnDGDVZ5kZ9nYn/GrQ"
+question = "hdr-image-capture"
+[[known_keys]]
+obfuscated = "xDg5n/9rR2cMhp7MK0irBA"
+question = "healthkit"
+[[known_keys]]
+obfuscated = "SMgTCc2v9AU2ziIHRX8qww"
+question = "hearingaid-audio-equalization"
+[[known_keys]]
+obfuscated = "RyXm3yMC4ejlFvwlEI509w"
+question = "hearingaid-low-energy-audio"
+[[known_keys]]
+obfuscated = "u3c0R+31Df4SUTHrICQkTg"
+question = "hearingaid-power-reduction"
+[[known_keys]]
+obfuscated = "ZEU7pCEskBhjQ4AOMuALDw"
+question = "HEVCDecoder10bitSupported"
+[[known_keys]]
+obfuscated = "sigsyX/a/CpMjoZnrgwIgg"
+question = "HEVCDecoder12bitSupported"
+[[known_keys]]
+obfuscated = "N8lZxRgC7lfdRS3dRLn+Ag"
+question = "HEVCDecoder8bitSupported"
+[[known_keys]]
+obfuscated = "g/MkWm2Ac6+TLNBgtBGxsg"
+question = "HEVCEncodingCapability"
+[[known_keys]]
+obfuscated = "f8peylp799CJta4Ev/vz8A"
+question = "hiccough-interval"
+[[known_keys]]
+obfuscated = "cHla4KIe1wv0OvpRVrzy/w"
+question = "hide-non-default-apps"
+[[known_keys]]
+obfuscated = "lSpe1QHIya0aeNrjLTtaJA"
+question = "hidpi"
+[[known_keys]]
+obfuscated = "ND6ZSbBBgMgwtMfh+OL5Wg"
+question = "HighestSupportedVideoMode"
+[[known_keys]]
+obfuscated = "JwLB44/jEB8aFDpXQ16Tuw"
+question = "HomeButtonType"
+[[known_keys]]
+obfuscated = "mVenV0u+B3ShrqRddinaFQ"
+question = "homescreen-wallpaper"
+[[known_keys]]
+obfuscated = "m+FD6mX8VZzP95hOhM+jow"
+question = "hw-encode-snapshots"
+[[known_keys]]
+obfuscated = "FDsm68UVR7l3wErusGLgKg"
+question = "hw-snapshots-need-purplegfx"
+[[known_keys]]
+obfuscated = "/YYygAofPDbhrwToVsXdeA"
+question = "HWModelStr"
+[[known_keys]]
+obfuscated = "ZepchaN1K8XQJaBUMMlV5w"
+question = "iAP2Capability"
+[[known_keys]]
+obfuscated = "hfs43coKE3iWlCwnqPgBpg"
+question = "IceFallID"
+[[known_keys]]
+obfuscated = "MW1p1oJH8nDJc6igOb8G4g"
+question = "IcefallInfo"
+[[known_keys]]
+obfuscated = "2sWGezz2RezScIJJgiIYQg"
+question = "IcefallInRestrictedMode"
+[[known_keys]]
+obfuscated = "QdL5XM6PGBrjvJ/k187Ueg"
+question = "IDAMCapability"
+[[known_keys]]
+obfuscated = "Nzu4E/VsXjEIa83CkRdZrQ"
+question = "Image4CryptoHashMethod"
+[[known_keys]]
+obfuscated = "kyxFFGn+VS4L9a/bsvm19Q"
+question = "Image4Supported"
+[[known_keys]]
+obfuscated = "a9BanNRHWiHg6bPf+IGWiQ"
+question = "inAppPurchasesRestriction"
+[[known_keys]]
+obfuscated = "3kmXfug8VcxLI5yEmsqQKw"
+question = "InDiagnosticsMode"
+[[known_keys]]
+obfuscated = "j4dedPnpeXouudM1+j3dsQ"
+question = "IntegratedCircuitCardIdentifier"
+[[known_keys]]
+obfuscated = "lHMDJnC58naUz2rOCJyVIw"
+question = "IntegratedCircuitCardIdentifier2"
+[[known_keys]]
+obfuscated = "LBJfwOEzExRxzlAnSuI7eg"
+question = "InternalBuild"
+[[known_keys]]
+obfuscated = "tUIqcYyzHuWBvBQHsLk8IQ"
+question = "international-settings"
+[[known_keys]]
+obfuscated = "QZgogo2DypSAZfkRW4dP/A"
+question = "InternationalMobileEquipmentIdentity"
+[[known_keys]]
+obfuscated = "xRyzf9zFE/ycr/wJPweZvQ"
+question = "InternationalMobileEquipmentIdentity2"
+[[known_keys]]
+obfuscated = "frZQaeyWLUvLjeuEK43hmg"
+question = "InverseDeviceID"
+[[known_keys]]
+obfuscated = "0/2HluYMd/whD80Hua4Rpw"
+question = "io-surface-backed-images"
+[[known_keys]]
+obfuscated = "AoKnINTLPoKML3ctoP0AZg"
+question = "IOSurfaceFormatDictionary"
+[[known_keys]]
+obfuscated = "uKc7FPnEO++lVhHWHFlGbQ"
+question = "ipad"
+[[known_keys]]
+obfuscated = "z5G/N9jcMdgPm8UegLwbKg"
+question = "IsEmulatedDevice"
+[[known_keys]]
+obfuscated = "iBLsDETxB4ATmspGucaJyg"
+question = "IsLargeFormatPhone"
+[[known_keys]]
+obfuscated = "euampscYbKXqj/bSaHD0QA"
+question = "IsPwrOpposedVol"
+[[known_keys]]
+obfuscated = "ulMliLomP737aAOJ/w/evA"
+question = "IsSimulator"
+[[known_keys]]
+obfuscated = "o/mXrucvBSYUXqq7K3UzKA"
+question = "IsThereEnoughBatteryLevelForSoftwareUpdate"
+[[known_keys]]
+obfuscated = "I32sGclpgl5VujQRJxyhKQ"
+question = "IsUIBuild"
+[[known_keys]]
+obfuscated = "1qJmMHedWOh43VwRKPdDrw"
+question = "iTunesFamilyID"
+[[known_keys]]
+obfuscated = "ol92SaBpqIvQs+KBljuwGA"
+question = "kConferenceCallType"
+[[known_keys]]
+obfuscated = "xleedMDMw0UV3fSgmHIoaQ"
+question = "kSimultaneousCallAndDataCurrentlySupported"
+[[known_keys]]
+obfuscated = "0uyHvVqOLpJQBpSl/rF3Vg"
+question = "kSimultaneousCallAndDataSupported"
+[[known_keys]]
+obfuscated = "3NZNyVOp23DiWiFBovCOWQ"
+question = "launch-applications-while-animating"
+[[known_keys]]
+obfuscated = "AklmqJyJMChzHsYT0aiBbw"
+question = "LaunchTimeLimitScaleSupported"
+[[known_keys]]
+obfuscated = "4RwhtNOmePfUXmu57rh+KA"
+question = "LisaCapability"
+[[known_keys]]
+obfuscated = "1N14oS9TeyskaTU1DxpwoQ"
+question = "load-thumbnails-while-scrolling"
+[[known_keys]]
+obfuscated = "BOPZue5C0v42pU9iJFYE3A"
+question = "location-reminders"
+[[known_keys]]
+obfuscated = "0pY9r1XBV1duZ8HO3tBvFg"
+question = "location-services"
+[[known_keys]]
+obfuscated = "Birtx7GxrxCCUzsE1JQO8Q"
+question = "LowPowerWalletMode"
+[[known_keys]]
+obfuscated = "1X0zc2JwBdYOQrMAyP81DQ"
+question = "lte-device"
+[[known_keys]]
+obfuscated = "2xSqkUxsVWmOBWk6StVOfQ"
+question = "LunaFlexSerialNumber"
+[[known_keys]]
+obfuscated = "HMpTbnbcAb+mQDi8O71h6Q"
+question = "LynxPublicKey"
+[[known_keys]]
+obfuscated = "r5pA2qLgR86BQKwgMjPWzg"
+question = "LynxSerialNumber"
+[[known_keys]]
+obfuscated = "ELLSWiPOyh0roYBypZFHFA"
+question = "magnetometer"
+[[known_keys]]
+obfuscated = "fdh+s6j3VijuyrK7xLjd7g"
+question = "main-screen-class"
+[[known_keys]]
+obfuscated = "OjzOua0LkOegX7pQdgMksw"
+question = "main-screen-height"
+[[known_keys]]
+obfuscated = "1qDdT/85SS7sxriK0wIbbg"
+question = "main-screen-orientation"
+[[known_keys]]
+obfuscated = "0l4wqBtWEAK1tOkeBHkU6Q"
+question = "main-screen-pitch"
+[[known_keys]]
+obfuscated = "SNfDJgQFV2Xj7+WnozcJPw"
+question = "main-screen-scale"
+[[known_keys]]
+obfuscated = "g7YQ1Djxh4YiKlEeaoGhzg"
+question = "main-screen-width"
+[[known_keys]]
+obfuscated = "IIYjwu1lbAyGz5t0c4ECoA"
+question = "MainDisplayRotation"
+[[known_keys]]
+obfuscated = "ybGkijAwLTwevankfVzsDQ"
+question = "MainScreenCanvasSizes"
+[[known_keys]]
+obfuscated = "oBbtJ8x+s1q0OkaiocPuog"
+question = "MainScreenStaticInfo"
+[[known_keys]]
+obfuscated = "Z/dqyWS6OZTRy10UcmUAhw"
+question = "marketing-name"
+[[known_keys]]
+obfuscated = "j9Th5smJpdztHwc+i39zIg"
+question = "MarketingProductName"
+[[known_keys]]
+obfuscated = "QtLcewkuPtPV0RpO+i0Zzw"
+question = "MarketingVersion"
+[[known_keys]]
+obfuscated = "4W7X4OWHjri5PGaAGsCWxw"
+question = "MaxH264PlaybackLevel"
+[[known_keys]]
+obfuscated = "XmExwNGRvYTII6QC0+jvsA"
+question = "MaximumScreenScale"
+[[known_keys]]
+obfuscated = "mG0AnH/Vy1veoqoLRAIgTA"
+question = "MedusaFloatingLiveAppCapability"
+[[known_keys]]
+obfuscated = "UCG5MkVahJxG1YULbbd5Bg"
+question = "MedusaOverlayAppCapability"
+[[known_keys]]
+obfuscated = "ZYqko/XM5zD3XBfN5RmaXA"
+question = "MedusaPinnedAppCapability"
+[[known_keys]]
+obfuscated = "nVh/gwNpy7Jv1NOk00CMrw"
+question = "MedusaPIPCapability"
+[[known_keys]]
+obfuscated = "jWdMTTxiAZc+KNO6Bz2jNg"
+question = "MesaSerialNumber"
+[[known_keys]]
+obfuscated = "hwd9ipb6eezNleN59+6n1Q"
+question = "metal"
+[[known_keys]]
+obfuscated = "s2UwZpwDQcywU3de47/ilw"
+question = "microphone"
+[[known_keys]]
+obfuscated = "61xs1bQ+9eTk8tlRvG9UKw"
+question = "MicrophoneCount"
+[[known_keys]]
+obfuscated = "96GRvvjuBKkU4HzNsYcHPA"
+question = "MinimumSupportediTunesVersion"
+[[known_keys]]
+obfuscated = "rxUlSnmihTL8oDg9Hrgq/A"
+question = "MixAndMatchPrevention"
+[[known_keys]]
+obfuscated = "Q1Ty5w8gxMWHx3p4lQ1fhA"
+question = "MLBSerialNumber"
+[[known_keys]]
+obfuscated = "gKzNJcweSCWA+gIGiUQJ5w"
+question = "mms"
+[[known_keys]]
+obfuscated = "k+KTni1jrwErpcDMEnn3aw"
+question = "MobileDeviceMinimumVersion"
+[[known_keys]]
+obfuscated = "xOEH0P1H/1jmYe2t54+5cQ"
+question = "MobileEquipmentIdentifier"
+[[known_keys]]
+obfuscated = "inECTnNyR97XWxm7jU8uqA"
+question = "MobileEquipmentInfoBaseId"
+[[known_keys]]
+obfuscated = "heP+NTlvkhJ2zzWIUznawA"
+question = "MobileEquipmentInfoBaseProfile"
+[[known_keys]]
+obfuscated = "RXyKSjeF239SL2vOcru01A"
+question = "MobileEquipmentInfoBaseVersion"
+[[known_keys]]
+obfuscated = "rkFHO5dZmWxy3QdOx7r7kA"
+question = "MobileEquipmentInfoCSN"
+[[known_keys]]
+obfuscated = "zPHFWx4ZItDiTXNT2onrWQ"
+question = "MobileEquipmentInfoDisplayCSN"
+[[known_keys]]
+obfuscated = "CQ6gFmgMhpnnISvG6VakBQ"
+question = "MobileSubscriberCountryCode"
+[[known_keys]]
+obfuscated = "oJGeec0N+MudCr0LsdtbHw"
+question = "MobileSubscriberNetworkCode"
+[[known_keys]]
+obfuscated = "D0cJ8r7U5zve6uA6QbOiLA"
+question = "ModelNumber"
+[[known_keys]]
+obfuscated = "s+gaKNe68Gs3PfqKrZhi1w"
+question = "MonarchLowEndHardware"
+[[known_keys]]
+obfuscated = "4k6Wv56SWfITjzet+hIHMQ"
+question = "multi-touch"
+[[known_keys]]
+obfuscated = "RECLuzbJ6oh8q4NKR8RtNg"
+question = "multitasking"
+[[known_keys]]
+obfuscated = "UFqkf9tcH1ltsOMzpdwSUw"
+question = "multitasking-gestures"
+[[known_keys]]
+obfuscated = "izFv/qj3IUhqAIiEuYH6xw"
+question = "MusicStore"
+[[known_keys]]
+obfuscated = "+bL/lKwaIAv+fzmjsHYZdw"
+question = "N78aHack"
+[[known_keys]]
+obfuscated = "PcQWbThCb7iLEW+EoqZdEQ"
+question = "NandControllerUID"
+[[known_keys]]
+obfuscated = "LcUv5nw5flxnHlxWu9sJvw"
+question = "NavajoFusingState"
+[[known_keys]]
+obfuscated = "byGRtH44VNik9CzN/QKLCw"
+question = "nfc"
+[[known_keys]]
+obfuscated = "zxMIgVSILN6S5ee6MZhf+Q"
+question = "NFCRadio"
+[[known_keys]]
+obfuscated = "XFx5cRZ0tJYl+xJUCEgjnQ"
+question = "NFCRadioCalibrationDataPresent"
+[[known_keys]]
+obfuscated = "evtY5EeJ8V0nFhmrj/OYjg"
+question = "NFCUniqueChipID"
+[[known_keys]]
+obfuscated = "qHVhw5NhezD+ljFUPvQb4g"
+question = "nike-ipod"
+[[known_keys]]
+obfuscated = "4snMZS8LJkSctKypt2m+xA"
+question = "not-green-tea"
+[[known_keys]]
+obfuscated = "Q2jR+AUT9PTHUrP/mkdfxQ"
+question = "NVRAMDictionary"
+[[known_keys]]
+obfuscated = "c5uqoV7Z9ly+f4c5mYXILg"
+question = "OfflineDictationCapability"
+[[known_keys]]
+obfuscated = "noqTy5fUbyK03UHxWigBBQ"
+question = "OLEDDisplay"
+[[known_keys]]
+obfuscated = "Ai0zsJQ3+sTFkU6/lLbd5A"
+question = "opal"
+[[known_keys]]
+obfuscated = "kt7gXeIiU0dLEKrgUSsLVw"
+question = "opengles-1"
+[[known_keys]]
+obfuscated = "ce5pjDJVSOxjcg1HwmAezA"
+question = "opengles-2"
+[[known_keys]]
+obfuscated = "LAB8o3Bxs3CgNuzDawjRdw"
+question = "opengles-3"
+[[known_keys]]
+obfuscated = "ErupMbaQrM6KypD4K0kTDQ"
+question = "OpenGLESVersion"
+[[known_keys]]
+obfuscated = "38C0kq9NiVaMsqjlUsCHcQ"
+question = "ota-activation"
+[[known_keys]]
+obfuscated = "YVNo6vlMjhgQ9yGYV8gatw"
+question = "PanelSerialNumber"
+[[known_keys]]
+obfuscated = "q4cLktMwtrx8dCJAQTeqTg"
+question = "PanoramaCameraCapability"
+[[known_keys]]
+obfuscated = "xUHcyT2/HE8oi/4LaOI+Sw"
+question = "PartitionType"
+[[known_keys]]
+obfuscated = "xsaMbRQ5rQ+eyKMKG+ZSSg"
+question = "PasswordConfigured"
+[[known_keys]]
+obfuscated = "yNesiJuidlesNpI/K5Ri4A"
+question = "PasswordProtected"
+[[known_keys]]
+obfuscated = "BfEIy3W3t0Wxf7Hf7LEsAw"
+question = "PearlCameraCapability"
+[[known_keys]]
+obfuscated = "8olRm6C1xqr7AJGpLRnpSw"
+question = "PearlIDCapability"
+[[known_keys]]
+obfuscated = "LvCIFE6lOM10QDqIEyYWRA"
+question = "PeekUICapability"
+[[known_keys]]
+obfuscated = "Y2TwC8z+XeBBBswnLf7JsQ"
+question = "PeekUIWidth"
+[[known_keys]]
+obfuscated = "Ht1HDxwTOy2gyY+THjbd6w"
+question = "peer-peer"
+[[known_keys]]
+obfuscated = "wlxZYdEZITDTzgs/OnnV+Q"
+question = "personal-hotspot"
+[[known_keys]]
+obfuscated = "H5TSt7Pu4zNCD5RvHuk5CQ"
+question = "PhoneNumber"
+[[known_keys]]
+obfuscated = "7mV26K/1a+wTtqiunvHMUQ"
+question = "PhosphorusCapability"
+[[known_keys]]
+obfuscated = "H8Pi7AthQFVZ0B6A1J5OTw"
+question = "photo-adjustments"
+[[known_keys]]
+obfuscated = "RYZZuAFEfSNnEKEzwzRnqw"
+question = "photo-stream"
+[[known_keys]]
+obfuscated = "bl+nF6e86pLBiPP4pVJ24g"
+question = "PhotoCapability"
+[[known_keys]]
+obfuscated = "UHwjAM1cqBLCR1OuYouf8A"
+question = "PhotoSharingCapability"
+[[known_keys]]
+obfuscated = "4Jfu4lqX8dzru4Z+ONQ1rQ"
+question = "PhotosPostEffectsCapability"
+[[known_keys]]
+obfuscated = "DdNpmCCXbeMGbqj0kAMCdw"
+question = "piezo-clicker"
+[[known_keys]]
+obfuscated = "d27R2IjPvpwp+MX/kUbJ2w"
+question = "PintoMacAddress"
+[[known_keys]]
+obfuscated = "8QNz35Yxm0KqxP1JiE0HIw"
+question = "PintoMacAddressData"
+[[known_keys]]
+obfuscated = "XIcF5FOyQlt/H79oFw9ciA"
+question = "PipelinedStillImageProcessingCapability"
+[[known_keys]]
+obfuscated = "1oMPwMsqxTa9BJxUs8v06w"
+question = "PlatinumCapability"
+[[known_keys]]
+obfuscated = "TZ/0j62wM3D0CuRt+Nc/Lw"
+question = "ProductHash"
+[[known_keys]]
+obfuscated = "ivIu8YTDnBSrYv/SN4G8Ag"
+question = "ProductName"
+[[known_keys]]
+obfuscated = "h9jDsbgj7xIVeIQ8S3/X3Q"
+question = "ProductType"
+[[known_keys]]
+obfuscated = "qNNddlUK+B/YlooNoymwgA"
+question = "ProductVersion"
+[[known_keys]]
+obfuscated = "5v2p6i7PyIMdWOK4n/+G4A"
+question = "proximity-sensor"
+[[known_keys]]
+obfuscated = "6UUmcaeT7rJoyUVmoPJd4A"
+question = "ProximitySensorCalibration"
+[[known_keys]]
+obfuscated = "5mvQIwu3Mqqw/zOKmwGkWw"
+question = "ProximitySensorCalibrationDictionary"
+[[known_keys]]
+obfuscated = "MWpHV1VYKXmaKqhgbmTWCg"
+question = "ptp-large-files"
+[[known_keys]]
+obfuscated = "PxEDp0oOasJ92F/V7YBa8A"
+question = "RawPanelSerialNumber"
+[[known_keys]]
+obfuscated = "dp7SlZZQotrh8McQoH1xFA"
+question = "rear-facing-camera"
+[[known_keys]]
+obfuscated = "6iI7/9cVUGIjdrSvIXEt4A"
+question = "RearCameraCapability"
+[[known_keys]]
+obfuscated = "waWRQ4fj6cyMuJ+wTWJs1g"
+question = "RearCameraOffsetFromDisplayCenter"
+[[known_keys]]
+obfuscated = "6RrxXzvfw2GZeUPLKXxrmA"
+question = "RearFacingCamera60fpsVideoCaptureCapability"
+[[known_keys]]
+obfuscated = "RLlZndRrTB3oIDuZEihtpQ"
+question = "RearFacingCameraAutoHDRCapability"
+[[known_keys]]
+obfuscated = "plaYa8bKJaAF5Erc5nvZ+g"
+question = "RearFacingCameraBurstCapability"
+[[known_keys]]
+obfuscated = "TTZrMo1OOEUELa7asaQ7xg"
+question = "RearFacingCameraHDRCapability"
+[[known_keys]]
+obfuscated = "LkWb+FyA1+ef2UD1Fx+kAw"
+question = "RearFacingCameraHDROnCapability"
+[[known_keys]]
+obfuscated = "fGpT09KNGDBjFXnqcVbgbw"
+question = "RearFacingCameraHFRCapability"
+[[known_keys]]
+obfuscated = "jKFTzVOYcfTfNBh+yDrprw"
+question = "RearFacingCameraHFRVideoCapture1080pMaxFPS"
+[[known_keys]]
+obfuscated = "XellXEQUbOIgUPoTrIj5nA"
+question = "RearFacingCameraHFRVideoCapture720pMaxFPS"
+[[known_keys]]
+obfuscated = "WC6wwFV23k19BlUQIAwDTg"
+question = "RearFacingCameraMaxVideoZoomFactor"
+[[known_keys]]
+obfuscated = "nWFV2qG2TjSuH7vZFCdi4w"
+question = "RearFacingCameraModuleSerialNumber"
+[[known_keys]]
+obfuscated = "gq0j1GmcIcaD4DjJoo9pfg"
+question = "RearFacingCameraStillDurationForBurst"
+[[known_keys]]
+obfuscated = "jBGZJ71pRJrqD8VZ6Tk2VQ"
+question = "RearFacingCameraVideoCapture1080pMaxFPS"
+[[known_keys]]
+obfuscated = "po7g0ATDzGoVI1DO8ISmuw"
+question = "RearFacingCameraVideoCapture4kMaxFPS"
+[[known_keys]]
+obfuscated = "0/7QNywWU4IqDcyvTv9UYQ"
+question = "RearFacingCameraVideoCapture720pMaxFPS"
+[[known_keys]]
+obfuscated = "wOVK1nhmiAawowdbIwgyaQ"
+question = "RearFacingCameraVideoCaptureFPS"
+[[known_keys]]
+obfuscated = "YzrS+WPEMqyh/FBv/n/jvA"
+question = "RearFacingTelephotoCameraCapability"
+[[known_keys]]
+obfuscated = "cm399FbDqnv8IOFoeBLWYg"
+question = "RearFacingTelephotoCameraModuleSerialNumber"
+[[known_keys]]
+obfuscated = "D4AU4tOIuGKN3G/uix65cQ"
+question = "RegionalBehaviorAll"
+[[known_keys]]
+obfuscated = "0L5PkT61qoH1b/B1USWqjQ"
+question = "RegionalBehaviorChinaBrick"
+[[known_keys]]
+obfuscated = "Tr9qG122eEQiKGfr6EGRdQ"
+question = "RegionalBehaviorEUVolumeLimit"
+[[known_keys]]
+obfuscated = "inLiSl5OQHJ1stAIvKH8wg"
+question = "RegionalBehaviorGB18030"
+[[known_keys]]
+obfuscated = "4uzgAFPkzKUmlZG5HpFIkg"
+question = "RegionalBehaviorGoogleMail"
+[[known_keys]]
+obfuscated = "0R2aiV2nJVu/v8I7Ex2GcQ"
+question = "RegionalBehaviorNoPasscodeLocationTiles"
+[[known_keys]]
+obfuscated = "6MnVtR+c9LeR46bMxvR5Yw"
+question = "RegionalBehaviorNoVOIP"
+[[known_keys]]
+obfuscated = "kjKnJNt7HY90iN6rpbSeFQ"
+question = "RegionalBehaviorNoWiFi"
+[[known_keys]]
+obfuscated = "IFBSPGnQVFrGFW+ujtZu6Q"
+question = "RegionalBehaviorNTSC"
+[[known_keys]]
+obfuscated = "ZgIjA7Nwd2jSo13lhDO1Iw"
+question = "RegionalBehaviorShutterClick"
+[[known_keys]]
+obfuscated = "KMgjmT+dsqBCXu1YQEcOFg"
+question = "RegionalBehaviorValid"
+[[known_keys]]
+obfuscated = "HxTvMvHnum5rI8d0Nr4xBw"
+question = "RegionalBehaviorVolumeLimit"
+[[known_keys]]
+obfuscated = "h63QSdBCiT/z0WU6rdQv6Q"
+question = "RegionCode"
+[[known_keys]]
+obfuscated = "zHeENZu+wbg7PUprwNwBWg"
+question = "RegionInfo"
+[[known_keys]]
+obfuscated = "7NoMrNekLOY0QTFFKY3MUg"
+question = "RegionSupportsCinnamon"
+[[known_keys]]
+obfuscated = "97JDvERpVwO+GHtthIh7hA"
+question = "RegulatoryModelNumber"
+[[known_keys]]
+obfuscated = "9UCjT7Qfi4xLVvPAKIzTCQ"
+question = "ReleaseType"
+[[known_keys]]
+obfuscated = "uAIY4Jb2A7Fy2aLrlDU1gg"
+question = "RemoteBluetoothAddress"
+[[known_keys]]
+obfuscated = "IAJzgzhEVk3SMNuEhChs2w"
+question = "RemoteBluetoothAddressData"
+[[known_keys]]
+obfuscated = "MYKMJDMFE/lhvOVXgtDNuw"
+question = "RendersLetterPressSlowly"
+[[known_keys]]
+obfuscated = "jMiqevikb6QWeHOhvLsw6A"
+question = "RenderWideGamutImagesAtDisplayTime"
+[[known_keys]]
+obfuscated = "AFXhxraF1bvyaCMlBIOZPA"
+question = "RequiredBatteryLevelForSoftwareUpdate"
+[[known_keys]]
+obfuscated = "8DHlxr5ECKhTSL3HmlZQGQ"
+question = "RestoreOSBuild"
+[[known_keys]]
+obfuscated = "nSo8opze5rFk+EdBoR6tBw"
+question = "RestrictedCountryCodes"
+[[known_keys]]
+obfuscated = "5tnvmEsHQKfCoieLEYpnvg"
+question = "RFExposureSeparationDistance"
+[[known_keys]]
+obfuscated = "hx2qJfJRLZ9Sseb37IcQow"
+question = "ringer-switch"
+[[known_keys]]
+obfuscated = "O8mk69g6k/CbfeET9LtqQA"
+question = "RosalineSerialNumber"
+[[known_keys]]
+obfuscated = "OyENNqRhuo8+RHkpbr/82A"
+question = "RoswellChipID"
+[[known_keys]]
+obfuscated = "YdPNjYPBzyE0jJl2X/CayQ"
+question = "RotateToWakeStatus"
+[[known_keys]]
+obfuscated = "m9OWD0Y4Br0TZHUl6rGcOg"
+question = "SavageChipID"
+[[known_keys]]
+obfuscated = "Fhqq6Bhy/XnCEBRAe3TI+g"
+question = "SavageInfo"
+[[known_keys]]
+obfuscated = "LE2kQ7U1iM32AmlhYvlagg"
+question = "SavageSerialNumber"
+[[known_keys]]
+obfuscated = "FNvQ6lBvJIUcYBzQ8ggOUQ"
+question = "SavageUID"
+[[known_keys]]
+obfuscated = "CpVSHukvtqlJzCgSdoHW5w"
+question = "SBAllowSensitiveUI"
+[[known_keys]]
+obfuscated = "gPoIZFd4NhmSKrk67qH80w"
+question = "SBCanForceDebuggingInfo"
+[[known_keys]]
+obfuscated = "HkXhfA7q9eBKIU2+6yTgQg"
+question = "screen-dimensions"
+[[known_keys]]
+obfuscated = "ExSUJyf7MblY5nBQx2OaRw"
+question = "ScreenRecorderCapability"
+[[known_keys]]
+obfuscated = "DzLC4o1jZ4hWtP8aB6An6g"
+question = "SDIOManufacturerTuple"
+[[known_keys]]
+obfuscated = "+Ce1uSqGUXaJPl/uT6ur8g"
+question = "SDIOProductInfo"
+[[known_keys]]
+obfuscated = "8bOgXKgqoLvqV/XeSomAfA"
+question = "SecondaryBluetoothMacAddress"
+[[known_keys]]
+obfuscated = "HzddeW2/HtdBNAc5tsFtDg"
+question = "SecondaryBluetoothMacAddressData"
+[[known_keys]]
+obfuscated = "BQwz+BT9b5mS7OPh2WGD6A"
+question = "SecondaryEthernetMacAddress"
+[[known_keys]]
+obfuscated = "5MXFoiW2zgxfIbaaTb/wvA"
+question = "SecondaryEthernetMacAddressData"
+[[known_keys]]
+obfuscated = "7VoVaBmSuokzovhUkiDx6Q"
+question = "SecondaryWifiMacAddress"
+[[known_keys]]
+obfuscated = "TqrlqJOZiAuRx8Qu3SVr+Q"
+question = "SecondaryWifiMacAddressData"
+[[known_keys]]
+obfuscated = "0dnM19zBqLw5ZPhIo4GEkg"
+question = "SecureElement"
+[[known_keys]]
+obfuscated = "nZUUCFZgomfWUIPGGzNAqg"
+question = "SecureElementID"
+[[known_keys]]
+obfuscated = "atOCpGf+lHCxgJ9GElef8Q"
+question = "SEInfo"
+[[known_keys]]
+obfuscated = "BOYfUi496moe56A0RWFbqQ"
+question = "sensitive-ui"
+[[known_keys]]
+obfuscated = "IGYvMgBnOsdJjgmSh7Pe1A"
+question = "SEPNonce"
+[[known_keys]]
+obfuscated = "VasUgeSzVyHdB27g2XpN0g"
+question = "SerialNumber"
+[[known_keys]]
+obfuscated = "cX1+ZsVacGTXWVKB9enYow"
+question = "shoebox"
+[[known_keys]]
+obfuscated = "a6vjPkzcRjrsXmniFsm0dg"
+question = "ShouldHactivate"
+[[known_keys]]
+obfuscated = "a5BRUxn1QBPXkAnbAHbmeg"
+question = "SigningFuse"
+[[known_keys]]
+obfuscated = "ssIPnsZyWHPGC5sg3Pzkiw"
+question = "SiKACapability"
+[[known_keys]]
+obfuscated = "cZflGJ39lJHTCPy35/N14Q"
+question = "SiliconBringupBoard"
+[[known_keys]]
+obfuscated = "PUMArrha4PFeOqINeQRM3A"
+question = "sim"
+[[known_keys]]
+obfuscated = "tYqUcLmLfhmk7vOgdFvURg"
+question = "sim-phonebook"
+[[known_keys]]
+obfuscated = "yUCaqT4KOwJpYEb+XDPq7g"
+question = "SIMStatus"
+[[known_keys]]
+obfuscated = "b2BKAEe88VRfp2WXEjJOyA"
+question = "SIMStatus2"
+[[known_keys]]
+obfuscated = "L2Oq7vNNUKuv+iJ4m9xtiw"
+question = "SIMTrayStatus"
+[[known_keys]]
+obfuscated = "sHiXbHqHvvRS3I/qo/rH2Q"
+question = "SIMTrayStatus2"
+[[known_keys]]
+obfuscated = "8bY/L3i3rmxrl4ZjFZZpgQ"
+question = "siri-gesture"
+[[known_keys]]
+obfuscated = "ZeeiT4Cdn8HNANoqroPEAA"
+question = "SiriOfflineCapability"
+[[known_keys]]
+obfuscated = "XEzIXVPlevxuEIpZrMY+8A"
+question = "Skey"
+[[known_keys]]
+obfuscated = "OPzhvROZUqCZhgYMyve5BA"
+question = "sms"
+[[known_keys]]
+obfuscated = "7IgVvZZLtNjMFdInQlKg6A"
+question = "SoftwareBehavior"
+[[known_keys]]
+obfuscated = "DViRIxZ/ZwO007CLcEYvZw"
+question = "SoftwareBundleVersion"
+[[known_keys]]
+obfuscated = "KXUnLpPZ6IZSE+As45CkhA"
+question = "SoftwareDimmingAlpha"
+[[known_keys]]
+obfuscated = "jxx29Cq5bGHDnkcha4y/Rw"
+question = "SpeakerCalibrationMiGa"
+[[known_keys]]
+obfuscated = "meicxSe0OZJaae1hEiOV5Q"
+question = "SpeakerCalibrationSpGa"
+[[known_keys]]
+obfuscated = "Wr2SycNVQwBrdup3ok+LxQ"
+question = "SpeakerCalibrationSpTS"
+[[known_keys]]
+obfuscated = "n/aVhqpGjESEbIjvJbEHKg"
+question = "SphereCapability"
+[[known_keys]]
+obfuscated = "HMKkoKYsMmBBSN6ozOtw/w"
+question = "stand-alone-contacts"
+[[known_keys]]
+obfuscated = "L+KOzmOzO5DiJUZl21QGVg"
+question = "StarkCapability"
+[[known_keys]]
+obfuscated = "nv4RoLkNoPT0/rsO8Yaiew"
+question = "still-camera"
+[[known_keys]]
+obfuscated = "RgoxDxYGuZ0GzijFt6kSQQ"
+question = "StockholmJcopInfo"
+[[known_keys]]
+obfuscated = "9MZ5AdH43csAUajl/dU+IQ"
+question = "SupportedDeviceFamilies"
+[[known_keys]]
+obfuscated = "wBVgxg3VYUU5gawcgq7MXg"
+question = "SupportedKeyboards"
+[[known_keys]]
+obfuscated = "SR/QIL//glHfqoE+lOAnbA"
+question = "SupportsBurninMitigation"
+[[known_keys]]
+obfuscated = "4fT83+9coO3VAUnlxuOOcw"
+question = "SupportsEDUMU"
+[[known_keys]]
+obfuscated = "eQd5mlz0BN0amTp/2ccMoA"
+question = "SupportsForceTouch"
+[[known_keys]]
+obfuscated = "pLzf7OiX5nWAPUMj7BfI4Q"
+question = "SupportsIrisCapture"
+[[known_keys]]
+obfuscated = "f+PE44W6AO2UENJk3p2s5A"
+question = "SupportsLowPowerMode"
+[[known_keys]]
+obfuscated = "GdXjx1ixZYvN9Gg8iSf68A"
+question = "SupportsPerseus"
+[[known_keys]]
+obfuscated = "nmOy2K5HzAAs2QNAi8wR+Q"
+question = "SupportsRotateToWake"
+[[known_keys]]
+obfuscated = "5lAK1Xp+ezh1Qu+4jnHAOg"
+question = "SupportsSOS"
+[[known_keys]]
+obfuscated = "Jq+xaurJgFzSwxOfTqtBGw"
+question = "SupportsSSHBButtonType"
+[[known_keys]]
+obfuscated = "OoFyZnd3oLS2Lw/KQTccGA"
+question = "SupportsTouchRemote"
+[[known_keys]]
+obfuscated = "0Y4fmR6ZHZPxDZFfPtBnRQ"
+question = "SysCfg"
+[[known_keys]]
+obfuscated = "9/J7LY7zuYSGW1BcSTRpOw"
+question = "SysCfgDict"
+[[known_keys]]
+obfuscated = "4qfpxrvLtWillIHpIsVgMA"
+question = "SystemImageID"
+[[known_keys]]
+obfuscated = "ZApuwHXWV8RCz0iVzMnqLw"
+question = "telephony"
+[[known_keys]]
+obfuscated = "2IDxmg5KyAMBBi/b0rojgQ"
+question = "telephony-maximum-generation"
+[[known_keys]]
+obfuscated = "LJ8aZhTg8lXUeVxHzT+hMw"
+question = "TimeSyncCapability"
+[[known_keys]]
+obfuscated = "8Shl+AdVKo09f1Sldkb0kA"
+question = "touch-id"
+[[known_keys]]
+obfuscated = "2OK50OGmkXM1ospsh766WQ"
+question = "TouchDelivery120Hz"
+[[known_keys]]
+obfuscated = "o60T6wXe1DDaO4a4gw10TA"
+question = "TristarID"
+[[known_keys]]
+obfuscated = "xU1eZLRifcixnyDzjo52DQ"
+question = "tv-out-crossfade"
+[[known_keys]]
+obfuscated = "kWVFqaGBc3nOGmfM+ZpoEg"
+question = "tv-out-settings"
+[[known_keys]]
+obfuscated = "eH9J8yYIjbRNxg2EeYvNFg"
+question = "UIBackgroundQuality"
+[[known_keys]]
+obfuscated = "mmu76v66k1dAtghToInT8g"
+question = "UIParallaxCapability"
+[[known_keys]]
+obfuscated = "UZyrJHlX635ocWEjBkt9YA"
+question = "UIProceduralWallpaperCapability"
+[[known_keys]]
+obfuscated = "m4UsCAgXhbdnwLebiyKMiw"
+question = "UIReachability"
+[[known_keys]]
+obfuscated = "0Yu30fwSQVPKvHVla17kXw"
+question = "umts-device"
+[[known_keys]]
+obfuscated = "sJ0n0UZHSUVJbmyy2p54Cw"
+question = "unified-ipod"
+[[known_keys]]
+obfuscated = "TF31PAB6aO8KAbPyNKSxKA"
+question = "UniqueChipID"
+[[known_keys]]
+obfuscated = "re6Zb+zwFKJNlkQTUeT+/w"
+question = "UniqueDeviceID"
+[[known_keys]]
+obfuscated = "nFRqKto/RuQAV1P+0/qkBA"
+question = "UniqueDeviceIDData"
+[[known_keys]]
+obfuscated = "ghpAuGJlPoauWijdtPi7sQ"
+question = "UserAssignedDeviceName"
+[[known_keys]]
+obfuscated = "pMeQxE5szZTjLMk10TisDQ"
+question = "UserIntentPhysicalButtonCGRect"
+[[known_keys]]
+obfuscated = "rJkMAGeVLdhP5+10G5hVcA"
+question = "UserIntentPhysicalButtonCGRectString"
+[[known_keys]]
+obfuscated = "WPEkba78QeFFU/wgqpOx6w"
+question = "UserIntentPhysicalButtonNormalizedCGRect"
+[[known_keys]]
+obfuscated = "5MSZn7w3nnJp22VbpqaxLQ"
+question = "venice"
+[[known_keys]]
+obfuscated = "/9luHerXthRoPoNt/PVkTg"
+question = "VibratorCapability"
+[[known_keys]]
+obfuscated = "nteaxwXwZWYUI9z46VDRnA"
+question = "video-camera"
+[[known_keys]]
+obfuscated = "PxLTGkQx9GkeYcJKOaZguA"
+question = "video-stills"
+[[known_keys]]
+obfuscated = "tuwdHA2NDGnLajCo5K3UUA"
+question = "voice-control"
+[[known_keys]]
+obfuscated = "9ZqSL68MJyQESzQFDvKqXA"
+question = "voip"
+[[known_keys]]
+obfuscated = "4I0hOaR3n80379Vka7u+Xg"
+question = "volume-buttons"
+[[known_keys]]
+obfuscated = "CzNoCPlH5/eMfewwsVf6MA"
+question = "volume-limit-restriction"
+[[known_keys]]
+obfuscated = "xYu8vn4nnbLnNTbBe0FT+w"
+question = "WAGraphicQuality"
+[[known_keys]]
+obfuscated = "hiHut/WR+B9Lx/vd0WyeNg"
+question = "wapi"
+[[known_keys]]
+obfuscated = "fucd7llSuoCNHrrvLS1QQg"
+question = "watch-companion"
+[[known_keys]]
+obfuscated = "CnoPCMssOh+xPJJo6pvnog"
+question = "WatchSupportsAutoPlaylistPlayback"
+[[known_keys]]
+obfuscated = "Zmd7xYUw9EutGXifzpvfsA"
+question = "WatchSupportsHighQualityClockFaceGraphics"
+[[known_keys]]
+obfuscated = "Xa9nxhMDoHTdmrn/FufA3g"
+question = "WatchSupportsListeningOnGesture"
+[[known_keys]]
+obfuscated = "/bfa1LxXd7G1WqHujpjsdA"
+question = "WatchSupportsMusicStreaming"
+[[known_keys]]
+obfuscated = "mY5R+ZIWxy5BDEEZTeWlHQ"
+question = "WatchSupportsSiriCommute"
+[[known_keys]]
+obfuscated = "P6z8eNrRPcv0AcKPML0iow"
+question = "wi-fi"
+[[known_keys]]
+obfuscated = "mtHZd1H8XJ2DMVtNVUSkag"
+question = "wifi"
+[[known_keys]]
+obfuscated = "gI6iODv8MZuiP0IA+efJCw"
+question = "WifiAddress"
+[[known_keys]]
+obfuscated = "eZS2J+wspyGxqNYZeZ/sbA"
+question = "WifiAddressData"
+[[known_keys]]
+obfuscated = "sFTm4FEVKVfdZ0ChdwQY1g"
+question = "WifiAntennaSKUVersion"
+[[known_keys]]
+obfuscated = "/6FWCRjN1yRdUABG9vF8ow"
+question = "WiFiCallingCapability"
+[[known_keys]]
+obfuscated = "eLfYx8jpSlim2NZFIonPzA"
+question = "WifiCallingSecondaryDeviceCapability"
+[[known_keys]]
+obfuscated = "NaA/zJV7myg2w4YNmSe4yQ"
+question = "WifiChipset"
+[[known_keys]]
+obfuscated = "uB6I2WImAHd8DEGuqYcMbw"
+question = "WifiFirmwareVersion"
+[[known_keys]]
+obfuscated = "c7fCSBIbX1mFaRoKT5zTIw"
+question = "WifiVendor"
+[[known_keys]]
+obfuscated = "XrPbSCNx9X7Lyw9oGPgMDQ"
+question = "WirelessBoardSnum"
+[[known_keys]]
+obfuscated = "PpmzzBVLpZVubmP0tCIymg"
+question = "WirelessChargingCapability"
+[[known_keys]]
+obfuscated = "PLQ6xgfGji63NbFu+sjeYg"
+question = "WLANBkgScanCache"
+[[known_keys]]
+obfuscated = "gD8SNRcHQeIxCAvsp+2vjA"
+question = "WSKU"
+[[known_keys]]
+obfuscated = "2/q9qmqGigMfkzY830Zf2g"
+question = "YonkersChipID"
+[[known_keys]]
+obfuscated = "67Dsh4G8EGQp4WbPDfS/Xw"
+question = "YonkersSerialNumber"
+[[known_keys]]
+obfuscated = "bwLsbkp4shhHuNB5VpRa8w"
+question = "YonkersUID"
+[[known_keys]]
+obfuscated = "pCbWB0w5vhsKbGJHs/c1jQ"
+question = "youtube"
+[[known_keys]]
+obfuscated = "81Zj1535/jeXbmfOndlIVA"
+question = "youtubePlugin"
